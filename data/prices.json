@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T13:51:53.076Z",
+ "updatedAt": "2026-11-15T13:53:59.260Z",
  "rates": {
   "EUR": 50.222,
   "date": "16.11.2026",
@@ -3100,6 +3100,19 @@
    "checkedAt": "2026-11-15T13:51:53.076Z",
    "priceSince": "2026-11-15T13:38:59.241Z",
    "change": null
+  },
+  "https://www.mindfactory.de/product_info.php/AMD-Ryzen-7-7700X3D-8x-4-00GHz-So-AM5-WOF_1667625.html": {
+   "shop": "Mindfactory",
+   "title": "AMD Ryzen 7 7700X3D 8x 4.00GHz So.AM5 WOF - Sockel AM5 | Mindfactory.de",
+   "price": 299.89,
+   "currency": "EUR",
+   "available": true,
+   "url": "https://www.mindfactory.de/product_info.php/AMD-Ryzen-7-7700X3D-8x-4-00GHz-So-AM5-WOF_1667625.html",
+   "ok": true,
+   "kind": "override",
+   "checkedAt": "2026-11-15T13:53:59.260Z",
+   "priceSince": "2026-11-15T13:53:59.260Z",
+   "change": null
   }
  },
  "candidates": {
@@ -3554,8 +3567,8 @@
  },
  "autoMatch": {},
  "stats": {
-  "total": 21,
-  "ok": 13,
+  "total": 22,
+  "ok": 14,
   "byShop": {
    "Red Tech": {
     "ok": 0,
@@ -3581,6 +3594,11 @@
     "ok": 0,
     "fail": 2,
     "error": "магазин не відповідає автоматичним запитам (таймаут)"
+   },
+   "Mindfactory": {
+    "ok": 1,
+    "fail": 0,
+    "error": null
    }
   }
  }
