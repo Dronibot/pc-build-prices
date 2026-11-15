@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Ціни на збірку ПК</title>
+<meta name="description" content="Відстеження цін на комплектуючі ПК: Німеччина (€) і Україна (₴).">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='3' width='26' height='26' rx='6' fill='%232f6fde'/%3E%3Crect x='10' y='10' width='12' height='12' rx='2' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="top-row">
+      <h1>Ціни на мою збірку ПК</h1>
+      <button id="reload" type="button" class="btn">Перечитати дані</button>
+    </div>
+    <div id="meta" class="meta" aria-live="polite">Завантаження…</div>
+    <div id="shops" class="shops"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="notice"></div>
+  <section id="summary" class="summary" aria-label="Підсумки збірок"></section>
+  <section id="compare" class="compare" aria-label="Порівняння підсумків"></section>
+  <div id="tabs" class="tabs" role="tablist" aria-label="Збірки"></div>
+  <section id="build" class="build" role="tabpanel"></section>
+</main>
+
+<footer class="wrap foot">
+  Ціни оновлює робот (GitHub Actions) кожні ~2 год. € → ₴ за курсом НБУ. Ціни Німеччини — без доставки.
+</footer>
+
+<dialog id="dlg" class="dlg" aria-labelledby="dlg-title"></dialog>
+
+<script src="app.js" defer></script>
+</body>
+</html>

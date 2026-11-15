@@ -1,0 +1,105 @@
+name: Заміна деталі
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  # Чужі issue із заміною: лише коментар, нічого не змінюємо.
+  deny:
+    if: >-
+      github.event.action == 'opened' &&
+      (contains(github.event.issue.labels.*.name, 'заміна') ||
+       startsWith(github.event.issue.title, 'Заміна:') ||
+       startsWith(github.event.issue.title, 'Скинути:')) &&
+      !contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      issues: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+    steps:
+      - name: Коментар про відмову
+        run: gh issue comment "$ISSUE_NUMBER" --body '⛔ Заміну не застосовано — лише власник репо може змінювати збірку.'
+
+  apply:
+    if: >-
+      github.event.issue.state == 'open' &&
+      (contains(github.event.issue.labels.*.name, 'заміна') ||
+       startsWith(github.event.issue.title, 'Заміна:') ||
+       startsWith(github.event.issue.title, 'Скинути:')) &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: data
+      cancel-in-progress: false
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      # Дані з issue — лише через env, ніколи не підставляються в текст команд.
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+      ISSUE_ASSOC: ${{ github.event.issue.author_association }}
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_BODY: ${{ github.event.issue.body }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Застосувати заміну
+        id: apply
+        continue-on-error: true
+        run: node scripts/apply-issue.mjs
+
+      - name: Перевірити ціну нової деталі
+        id: price
+        if: steps.apply.outcome == 'success'
+        continue-on-error: true
+        timeout-minutes: 8
+        run: node scripts/update.mjs --only-overrides
+
+      - name: Закомітити зміни data/*.json
+        id: commit
+        if: steps.apply.outcome == 'success'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo 'Дані не змінилися — коміт не потрібен.'
+            exit 0
+          fi
+          git pull --rebase --autostash
+          git add data/*.json
+          git commit -m "Заміна деталі (#$ISSUE_NUMBER)"
+          for i in 1 2 3; do
+            git push && exit 0
+            echo "Push не вдався (спроба $i), підтягую зміни й пробую ще раз…"
+            sleep 5
+            git pull --rebase
+          done
+          exit 1
+
+      - name: Коментар з результатом
+        if: always()
+        env:
+          PRICE_OUTCOME: ${{ steps.price.outcome }}
+          COMMIT_OUTCOME: ${{ steps.commit.outcome }}
+        run: |
+          node scripts/apply-issue.mjs --report > "$RUNNER_TEMP/comment.md"
+          gh issue comment "$ISSUE_NUMBER" --body-file "$RUNNER_TEMP/comment.md"
+
+      - name: Закрити issue
+        if: steps.apply.outcome == 'success'
+        run: gh issue close "$ISSUE_NUMBER" --reason completed

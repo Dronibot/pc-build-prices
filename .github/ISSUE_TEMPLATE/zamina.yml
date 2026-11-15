@@ -1,0 +1,51 @@
+name: Заміна деталі
+description: Замінити деталь у збірці на іншу (або повернути оригінальну). Застосовується лише для власника репо.
+title: "Заміна: "
+labels: ["заміна"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Поля зазвичай заповнює сайт автоматично (кнопка «Замінити» біля деталі).
+        Після створення issue робот запише заміну в `data/overrides.json`, перевірить ціну, напише коментар і закриє issue.
+        Щоб **повернути оригінальну деталь**, у полі «Посилання» напишіть `reset`.
+  - type: input
+    id: build
+    attributes:
+      label: Збірка (build)
+      description: "Ідентифікатор збірки: user — моя збірка, alt — пропозиція."
+      placeholder: user
+    validations:
+      required: true
+  - type: input
+    id: part
+    attributes:
+      label: Деталь (part)
+      description: "Одне з: cpu, cooler, mb, ram, ssd, gpu, case, psu."
+      placeholder: gpu
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Назва (name)
+      description: Назва нової деталі (до 200 символів). Для reset можна залишити порожнім.
+      placeholder: MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC
+    validations:
+      required: false
+  - type: input
+    id: url
+    attributes:
+      label: Посилання (url)
+      description: Посилання на товар у магазині (https://...), або `reset`, щоб повернути оригінал.
+      placeholder: https://hotline.ua/ua/...
+    validations:
+      required: true
+  - type: input
+    id: hotline
+    attributes:
+      label: Hotline (hotline)
+      description: Необов'язково. Посилання на цю ж деталь на https://hotline.ua/ — щоб бачити ціну в Україні.
+      placeholder: https://hotline.ua/ua/...
+    validations:
+      required: false
