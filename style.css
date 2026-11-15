@@ -209,6 +209,15 @@ main { padding-top: 16px; padding-bottom: 24px; }
 .err { color: var(--up); margin: 2px 0 0; min-height: 0; }
 .err:empty, .pane p:empty { display: none; }
 
+.uah { color: var(--muted); font-size: .78em; font-weight: 400; white-space: nowrap; }
+.meta-warn { color: var(--warn); }
+.tval .up, .up { color: var(--up); }
+.tval .down, .down { color: var(--down); }
+.o-row { display: flex; flex-wrap: wrap; gap: 2px 10px; align-items: baseline; }
+.o-row .o-shop { flex: 1 1 auto; min-width: 0; }
+.o-meta { font-size: .78rem; color: var(--muted); }
+.offers li > * { margin-right: 0; }
+
 .foot { color: var(--muted); font-size: .8rem; padding-bottom: 28px; }
 
 @media (max-width: 560px) {

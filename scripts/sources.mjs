@@ -148,7 +148,77 @@ function geizhals(html) {
   return { price: num(m[1]), currency: 'EUR', title: t.replace(/\s*ab\s*€.*$/, '').trim(), available: true };
 }
 
+// ---------- Німеччина / доставка в DE (перевірено 2026-11-15) ----------
+// JSON-LD, де Product/ProductGroup вкладено глибше (MediaMarkt/Saturn: {"@type":"BuyAction","object":{"@type":"ProductGroup","offers":…}})
+function ldDeep(html) {
+  const seen = [];
+  const walk = (o, d = 0) => {
+    if (!o || typeof o !== 'object' || d > 6) return;
+    if (Array.isArray(o)) return o.forEach(x => walk(x, d + 1));
+    const types = [].concat(o['@type'] || []);
+    if (types.some(t => /^(Product|ProductGroup)$/.test(t)) && o.offers) seen.push(o);
+    for (const k of ['object', 'mainEntity', 'itemOffered', '@graph', 'hasVariant']) if (o[k]) walk(o[k], d + 1);
+  };
+  for (const m of html.matchAll(/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+    try { walk(JSON.parse(m[1].trim())); } catch { }
+  }
+  for (const o of seen) for (const of of [].concat(o.offers || [])) {
+    const price = num(of.price ?? of.lowPrice);
+    if (!price) continue;
+    const avail = String(of.availability || '');
+    return { price, currency: of.priceCurrency || null, title: o.name, available: avail ? /InStock|PreOrder|LimitedAvailability/i.test(avail) : null };
+  }
+  return null;
+}
+
+// Jacob (Shopware): ціна — itemprop="price" у блоці product-detail-buy. Якщо товару немає,
+// ціни там нема, а в og/meta стоїть заглушка (напр. 100) — тож загальні парсери не застосовуємо.
+function jacob(html) {
+  const i = html.indexOf('class="product-detail-buy"');
+  if (i < 0) return null;
+  const box = html.slice(i, i + 20000);
+  const p = box.match(/<meta[^>]+itemprop=["']price["'][^>]*content=["']([^"']+)/i);
+  if (!p) {
+    if (/Benachrichtigen, sobald wieder verfügbar/i.test(box))
+      throw Object.assign(new Error('товару немає в наявності — Jacob не показує ціну'), { noOffers: true });
+    return null;
+  }
+  return { price: num(p[1]), currency: 'EUR', available: /In den Warenkorb/i.test(box) && !/Benachrichtigen, sobald wieder verfügbar/i.test(box) };
+}
+
+const amazonUS = html => { const r = amazon(html); return r && { ...r, currency: 'USD' }; };
+
+const DE = 'de-DE,de;q=0.9,en;q=0.5';
+const SHOPS_DE = [
+  // ✅ парсяться звичайним запитом (з ПК користувача)
+  { re: /(^|\.)mindfactory\.de$/, name: 'Mindfactory', lang: DE },                 // JSON-LD
+  { re: /(^|\.)alternate\.de$/, name: 'Alternate', lang: DE },                     // JSON-LD
+  { re: /(^|\.)arlt\.com$/, name: 'ARLT', lang: DE, currency: 'EUR' },             // microdata
+  { re: /(^|\.)future-x\.de$/, name: 'Future-X', lang: DE },                       // microdata
+  { re: /(^|\.)mediamarkt\.de$/, name: 'MediaMarkt', parse: ldDeep, lang: DE },    // JSON-LD BuyAction→ProductGroup
+  { re: /(^|\.)saturn\.de$/, name: 'Saturn', parse: ldDeep, lang: DE },            // те саме, що MediaMarkt
+  { re: /(^|\.)jacob\.de$/, name: 'Jacob Elektronik', parse: jacob, lang: DE },
+  { re: /(^|\.)e-tec\.at$/, name: 'e-tec.at', lang: DE },                          // JSON-LD
+  { re: /(^|\.)ditech\.at$/, name: 'DiTech.at', lang: DE },
+  { re: /(^|\.)office-partner\.de$/, name: 'office-partner.de', lang: DE },        // microdata
+  // ⛔ з ПК користувача блокують (403 Cloudflare/«bot detected»/капча/TLS/таймаут) — лишаємо для перевірки з GitHub Actions
+  { re: /(^|\.)alza\.de$/, name: 'alza.de', lang: DE },
+  { re: /(^|\.)caseking\.de$/, name: 'Caseking', lang: DE },
+  { re: /(^|\.)proshop\.de$/, name: 'Proshop.de', lang: DE },
+  { re: /(^|\.)notebooksbilliger\.de$/, name: 'notebooksbilliger.de', lang: DE },
+  { re: /(^|\.)computeruniverse\.net$/, name: 'computeruniverse', lang: DE, currency: 'EUR' },
+  { re: /(^|\.)otto\.de$/, name: 'Otto', lang: DE },
+  { re: /(^|\.)kaufland\.de$/, name: 'Kaufland', lang: DE },
+  { re: /(^|\.)pc-king\.de$/, name: 'PC-KING', lang: DE },
+  { re: /(^|\.)electronis\.de$/, name: 'electronis.de', lang: DE },
+  // США / міжнародні з доставкою в DE
+  { re: /(^|\.)amazon\.com$/, name: 'Amazon.com', parse: amazonUS, lang: 'en-US,en;q=0.9', currency: 'USD' },
+  { re: /(^|\.)newegg\.com$/, name: 'Newegg', lang: 'en-US,en;q=0.9', currency: 'USD' },
+  { re: /(^|\.)bhphotovideo\.com$/, name: 'B&H Photo', lang: 'en-US,en;q=0.9', currency: 'USD' },
+];
+
 const SHOPS = [
+  ...SHOPS_DE,
   { re: /(^|\.)hotline\.ua$/, name: 'Hotline', special: 'hotline' },
   { re: /(^|\.)price\.ua$/, name: 'Price.ua (мін. ціна)' },
   { re: /(^|\.)amazon\.de$/, name: 'Amazon.de', parse: amazon, lang: 'de-DE,de;q=0.9,en;q=0.5' },

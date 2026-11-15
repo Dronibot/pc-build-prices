@@ -1,0 +1,38 @@
+# Реальні сторінки товарів у магазинах з доставкою в DE (зібрано 2026-11-15).
+# Товари: AMD Ryzen 7 7700X3D (100-100002235WOF), Samsung SSD 990 1TB (MZ-V9V1T0BW), ASUS TUF RTX 5070 Ti OC (90YV0MD0-M0NA00).
+# Позначка в коментарі — результат з ПК користувача: ✅ парситься / ⛔ блокує. «інший товар» — сторінку саме нашого товару
+# знайти не вдалося, взято схожий товар цього магазину лише для перевірки доступу.
+#   node scripts/probe.mjs scripts/probe-urls.txt
+
+# --- контроль: Geizhals ---
+https://geizhals.de/amd-ryzen-7-7700x3d-100-100002235wof-a3830730.html   # ✅ локально
+
+# --- Німеччина / Австрія ---
+https://www.mindfactory.de/product_info.php/AMD-Ryzen-7-7700X3D-8x-4-00GHz-So-AM5-WOF_1667625.html   # ✅ CPU
+https://www.alternate.de/AMD/Ryzen-7-7700X3D-Prozessor/html/product/100210064   # ✅ CPU
+https://www.alternate.de/Samsung/990-1-TB-SSD/html/product/100206307   # ✅ SSD
+https://www.arlt.com/Hardware/PC-Komponenten/AMD-Ryzen-7-7700X3D-Boxed.html   # ✅ CPU
+https://www.future-x.de/AMD-Ryzen-7-8-Kerne-Socket-AM5/900251786   # ✅ CPU
+https://www.jacob.de/produkt/amd-ryzen-7-7700x3d-prozessor-4-ghz-bis-4-5-ghz-8-core-16-thread-96-mb-cache-am5-120w-100893394/   # ✅ CPU
+https://www.mediamarkt.de/de/product/_samsung-ssd-990-festplatte-1-tb-interner-speicher-m2-via-nvme-intern-3059018.html   # ✅ SSD
+https://www.saturn.de/de/product/_samsung-ssd-990-festplatte-1-tb-interner-speicher-m2-via-nvme-intern-3059018.html   # ✅ SSD
+https://www.e-tec.at/product/137821   # ✅ CPU (редирект на /de/shop/produkt/137821/…)
+https://www.ditech.at/product/137821?shopCfgId=2&lang=DE   # ✅ CPU
+https://www.office-partner.de/990-nvme-m.2-ssd-1-tb-mz-v9v1t0bw-n2008302079   # ✅ SSD (на Geizhals є лише з GPU)
+https://www.amazon.de/dp/B0H71CW1SZ   # ⛔ сторінка є, але ціну боту не показує
+https://www.alza.de/amd-ryzen-7-7700x3d-d13470565.htm   # ⛔ 403
+https://www.caseking.de/amd-ryzen-7-7700x3d-4-5-ghz-raphael-am5-boxed-ohne-kuehler/HPAM-327.html   # ⛔ 403
+https://www.caseking.de/en/asus-tuf-geforce-rtx-5070-ti-oc-edition-16384-mb-gddr7-/GCAS-654.html   # ⛔ 403; GPU
+https://www.galaxus.de/de/s1/product/amd-ryzen-7-7700x3d-am5-4-ghz-8-core-prozessor-72083649   # ⛔ таймаут
+https://www.proshop.de/CPU/AMD-Ryzen-7-7700X-CPU-8-Kerne-45-GHz-AMD-AM5-AMD-Boxed-ohne-Kuehler/3098701   # ⛔ Cloudflare; інший товар (7700X)
+https://www.notebooksbilliger.de/amd+ryzen+7+7700x+cpu+793208   # ⛔ «bot detected»; інший товар (7700X)
+https://www.otto.de/p/samsung-990-pro-nvmetm-m-2-interne-ssd-1-tb-7450-mb-s-lesegeschwindigkeit-6900-mb-s-schreibgeschwindigkeit-C1680241640/   # ⛔ HTTP 400; інший товар (990 PRO)
+https://www.kaufland.de/product/475459420/   # ⛔ 403 «Verifizierung erforderlich»; інший товар (Ryzen 7 7700)
+https://www.pc-king.de/   # ⛔ TLS-помилка вже на головній (сторінку товару не знайдено)
+
+# --- США / міжнародні ---
+https://www.amazon.com/dp/B0H71CW1SZ   # ⛔ сторінка є, але ціну боту не показує
+https://www.amazon.com/dp/B0DS6WTXGP   # ⛔ ціну не показує; GPU
+https://www.newegg.com/ryzen-7-7700x3d-ryzen-7000-series-raphael-zen-4-socket-am5-amd-cpu/p/N82E16819113941   # ⛔ Cloudflare
+https://www.newegg.com/asus-tuf-gaming-tuf-rtx5070ti-o16g-gaming-nvidia-geforce-rtx-5070-ti-16gb-gddr7/p/N82E16814126754   # не перевірено (Newegg CPU — Cloudflare 403); GPU
+https://www.bhphotovideo.com/c/product/1875901-REG/asus_tuf_rtx5070ti_o16g_gaming_geforce_rtx_5070_ti.html   # ⛔ Cloudflare; GPU

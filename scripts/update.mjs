@@ -1,7 +1,10 @@
 // Оновлення цін: читає data/config.json + data/overrides.json,
-// перевіряє кожне посилання, шукає ті самі деталі на Hotline.ua, пише data/prices.json і data/history.json.
+// перевіряє кожне посилання, бере пропозиції магазинів з доставкою в DE з Geizhals, пише data/prices.json і data/history.json.
+// Geizhals блокує IP дата-центрів (GitHub Actions) — тоді лишаються останні відомі дані (stale).
 import fs from 'fs';
-import { fetchPrice, hotlineSearch, shopOf, get } from './sources.mjs';
+import { fetchPrice, shopOf, get } from './sources.mjs';
+import { geizhalsProduct } from './geizhals.mjs';
+const isGh = u => /^https:\/\/(www\.)?geizhals\.(de|at|eu)\//.test(u);
 
 const D = new URL('../data/', import.meta.url);
 const rd = (f, def) => { try { return JSON.parse(fs.readFileSync(new URL(f, D), 'utf8')); } catch { return def; } };
@@ -33,10 +36,9 @@ const searches = new Set();
 const add = (url, kind) => { if (url && /^https?:\/\//.test(url) && !jobs.has(url)) jobs.set(url, { kind }); };
 for (const b of config.builds) {
   for (const p of b.parts) {
-    if (!ONLY) { add(p.shop, 'shop'); add(p.geizhals, 'geizhals'); add(p.hotline, 'hotline'); }
-    if (p.search) searches.add(p.search);
+    if (!ONLY) { add(p.shop, 'shop'); add(p.geizhals, 'geizhals'); }
     const o = overrides[b.id]?.[p.id];
-    if (o) { add(o.url, 'override'); add(o.hotline, 'hotline'); }
+    if (o) { add(o.url, 'override'); }
   }
 }
 
@@ -57,10 +59,14 @@ function record(url, res) {
       if (h[i][1] !== cur) { change = { from: h[i][1], to: cur, since: h[i + 1]?.[0] || now }; break; }
     }
   }
+  if (!res.ok && res.blocked && old?.ok && Date.now() - Date.parse(old.checkedAt) < 12 * 3600e3) {
+    items[url] = { ...old, lastAttemptError: res.error, lastAttemptAt: now }; return;
+  }
   items[url] = res.ok
     ? { ...res, ok: true, checkedAt: now, priceSince: h[h.length - 1]?.[0] || now, change }
-    : { ok: false, error: res.error, blocked: !!res.blocked, gone: !!res.gone, checkedAt: now, shop: shopOf(url).name,
+    : { ok: false, error: res.error, blocked: !!res.blocked, gone: !!res.gone, noOffers: !!res.noOffers, checkedAt: now, shop: shopOf(url).name,
         // остання відома ціна, якщо колись вдавалося
+        last: old?.ok ? { ...old, change: undefined } : old?.last ?? null,
         lastPrice: old?.ok ? old.price : old?.lastPrice ?? null, currency: old?.currency ?? null, lastOkAt: old?.ok ? old.checkedAt : old?.lastOkAt ?? null, change };
 }
 
@@ -68,50 +74,37 @@ const R = await rates();
 let i = 0;
 for (const [url, j] of jobs) {
   i++;
+  // Geizhals блокує сервери GitHub — там його не чіпаємо, лишаємо дані з домашнього запуску
+  if (isGh(url) && (process.env.GITHUB_ACTIONS || process.env.SKIP_GEIZHALS) && prev.items?.[url]) {
+    items[url] = prev.items[url]; console.log(`↷ ${i}/${jobs.size} Geizhals пропущено (сервер GitHub) ${url.slice(0, 70)}`); continue;
+  }
   try {
-    const r = await fetchPrice(url);
+    const r = isGh(url) ? await geizhalsProduct(url) : await fetchPrice(url);
     record(url, { ...r, ok: true, kind: j.kind });
     console.log(`✓ ${i}/${jobs.size} ${r.shop} ${r.price} ${r.currency} ${url.slice(0, 80)}`);
   } catch (e) {
-    record(url, { ok: false, error: e.message, blocked: e.blocked, gone: e.gone });
+    record(url, { ok: false, error: e.message, blocked: e.blocked, gone: e.gone, noOffers: e.noOffers });
     console.log(`✗ ${i}/${jobs.size} ${e.message} ${url.slice(0, 80)}`);
   }
   await sleep(1200);
 }
 
-// 3) Кандидати для заміни (пошук на Hotline за категорією)
-const candidates = ONLY ? (prev.candidates || {}) : {};
-if (!ONLY) for (const q of searches) {
-  try {
-    candidates[q] = (await hotlineSearch(q)).filter(x => x.min).slice(0, 12);
-    console.log(`🔎 ${q}: ${candidates[q].length}`);
-  } catch (e) { candidates[q] = prev.candidates?.[q] || []; console.log(`🔎✗ ${q}: ${e.message}`); }
-  await sleep(1200);
-}
-
-// 4) Автопідбір Hotline для власних посилань без hotline-відповідника
-const norm = s => (s || '').toLowerCase().replace(/[^a-zа-яіїєґ0-9]+/gi, ' ').split(' ').filter(w => w.length > 1);
-const autoMatch = ONLY ? { ...(prev.autoMatch || {}) } : {};
+// 3) Кандидати для заміни: схожі моделі зі сторінок Geizhals (поточні + збережені раніше)
+const candidates = {};
 for (const b of config.builds) for (const p of b.parts) {
-  const o = overrides[b.id]?.[p.id];
-  if (!o || o.hotline || /hotline\.ua/.test(o.url)) continue;
-  const q = o.name || items[o.url]?.title; if (!q) continue;
-  try {
-    const res = await hotlineSearch(q.slice(0, 80));
-    const qa = new Set(norm(q));
-    let best = null, bs = 0;
-    for (const c of res.slice(0, 8)) {
-      const t = norm(c.title); const hit = t.filter(w => qa.has(w)).length / Math.max(t.length, 1);
-      if (hit > bs && c.min) { bs = hit; best = c; }
-    }
-    if (best && bs >= 0.5) {
-      autoMatch[o.url] = { ...best, score: Math.round(bs * 100) / 100 };
-      const r = await fetchPrice(best.url).catch(() => null);
-      if (r) record(best.url, { ...r, ok: true, kind: 'hotline' });
-    } else delete autoMatch[o.url];
-  } catch (e) { console.log('автопідбір ✗', q, e.message); }
-  await sleep(1200);
+  const key = p.search || p.id; const list = candidates[key] || (candidates[key] = []);
+  for (const u of [p.geizhals, p.shop, overrides[b.id]?.[p.id]?.url]) {
+    const it = items[u]; const src = it?.ok ? it : it?.last;
+    if (src?.title && src.min && isGh(u) && !list.some(x => x.url === u)) list.push({ title: src.title, url: u, min: src.min, max: src.max, offers: src.offerCount, vendor: '' });
+    for (const v of src?.variants || []) if (!list.some(x => x.url === v.url)) list.push(v);
+  }
 }
+for (const [k, list] of Object.entries(prev.candidates || {})) {
+  const cur = candidates[k] || (candidates[k] = []);
+  if (!cur.length) cur.push(...list.filter(x => /geizhals/.test(x.url)));
+}
+for (const k in candidates) candidates[k].sort((a, b) => a.min - b.min);
+const autoMatch = {};
 
 const okCount = Object.values(items).filter(x => x.ok).length;
 const byShop = {};
