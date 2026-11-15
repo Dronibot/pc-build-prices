@@ -7,4 +7,5 @@ git pull --rebase --autostash -q
 node scripts\update.mjs > local-update.log 2>&1
 git add data/*.json
 git diff --cached --quiet || git commit -q -m "Оновлення цін (домашній ПК)"
+git pull --rebase -X theirs -q >> local-update.log 2>&1
 git push -q >> local-update.log 2>&1
