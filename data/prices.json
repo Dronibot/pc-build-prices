@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T19:51:03.676Z",
+ "updatedAt": "2026-11-23T20:12:30.093Z",
  "rates": {
   "EUR": 49.455,
   "date": "24.11.2026",
@@ -12,7 +12,7 @@
    "blocked": false,
    "gone": true,
    "noOffers": false,
-   "checkedAt": "2026-11-23T19:51:03.676Z",
+   "checkedAt": "2026-11-23T20:12:30.093Z",
    "shop": "Red Tech",
    "last": null,
    "lastPrice": null,
@@ -266,7 +266,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-23T19:51:03.676Z",
+   "checkedAt": "2026-11-23T20:12:30.093Z",
    "shop": "Cyberport",
    "last": null,
    "lastPrice": null,
@@ -553,11 +553,11 @@
   },
   "https://www.amazon.de/CORSAIR-Vengeance-6000MHz-Kompatibler-Computerspeicher/dp/B0CBRJ63RT": {
    "ok": false,
-   "error": "Amazon не показує ціну автоматичним запитам",
+   "error": "магазин блокує автоматичні запити (HTTP 503)",
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-23T19:51:03.676Z",
+   "checkedAt": "2026-11-23T20:12:30.093Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -791,11 +791,11 @@
   },
   "https://www.amazon.de/dp/B0H3C6XHGK": {
    "ok": false,
-   "error": "Amazon не показує ціну автоматичним запитам",
+   "error": "магазин блокує автоматичні запити (HTTP 503)",
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-23T19:51:03.676Z",
+   "checkedAt": "2026-11-23T20:12:30.093Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -1081,7 +1081,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-23T19:51:03.676Z",
+   "checkedAt": "2026-11-23T20:12:30.093Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -1203,11 +1203,11 @@
   },
   "https://www.amazon.de/dp/B0DJDM7V1R/?smid=A239JPI0V71LBC&creative=6742&camp=1638&creativeASIN=B0DJDM7V1R": {
    "ok": false,
-   "error": "Amazon не показує ціну автоматичним запитам",
+   "error": "магазин блокує автоматичні запити (HTTP 503)",
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-23T19:51:03.676Z",
+   "checkedAt": "2026-11-23T20:12:30.093Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -1389,7 +1389,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-23T19:51:03.676Z",
+   "checkedAt": "2026-11-23T20:12:30.093Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -3555,7 +3555,7 @@
    "Amazon.de": {
     "ok": 0,
     "fail": 3,
-    "error": "Amazon не показує ціну автоматичним запитам"
+    "error": "магазин блокує автоматичні запити (HTTP 503)"
    },
    "Galaxus": {
     "ok": 0,
