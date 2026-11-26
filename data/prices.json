@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T00:19:15.457Z",
+ "updatedAt": "2026-11-26T10:52:13.443Z",
  "rates": {
   "EUR": 49.5346,
   "date": "26.11.2026",
@@ -12,7 +12,7 @@
    "blocked": false,
    "gone": true,
    "noOffers": false,
-   "checkedAt": "2026-11-26T00:19:15.457Z",
+   "checkedAt": "2026-11-26T10:52:13.443Z",
    "shop": "Red Tech",
    "last": null,
    "lastPrice": null,
@@ -258,7 +258,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-26T00:19:15.457Z",
+   "checkedAt": "2026-11-26T10:52:13.443Z",
    "shop": "Cyberport",
    "last": null,
    "lastPrice": null,
@@ -549,7 +549,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-26T00:19:15.457Z",
+   "checkedAt": "2026-11-26T10:52:13.443Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -787,7 +787,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-26T00:19:15.457Z",
+   "checkedAt": "2026-11-26T10:52:13.443Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -1073,7 +1073,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-26T00:19:15.457Z",
+   "checkedAt": "2026-11-26T10:52:13.443Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -1195,11 +1195,11 @@
   },
   "https://www.amazon.de/dp/B0DJDM7V1R/?smid=A239JPI0V71LBC&creative=6742&camp=1638&creativeASIN=B0DJDM7V1R": {
    "ok": false,
-   "error": "магазин блокує автоматичні запити (HTTP 503)",
+   "error": "Amazon не показує ціну автоматичним запитам",
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-26T00:19:15.457Z",
+   "checkedAt": "2026-11-26T10:52:13.443Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -1381,7 +1381,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-26T00:19:15.457Z",
+   "checkedAt": "2026-11-26T10:52:13.443Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -3587,7 +3587,7 @@
    "Amazon.de": {
     "ok": 0,
     "fail": 3,
-    "error": "магазин блокує автоматичні запити (HTTP 503)"
+    "error": "Amazon не показує ціну автоматичним запитам"
    },
    "Galaxus": {
     "ok": 0,
