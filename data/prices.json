@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T11:59:13.740Z",
+ "updatedAt": "2026-11-28T12:02:06.597Z",
  "rates": {
   "EUR": 49.3532,
   "date": "30.11.2026",
@@ -12,7 +12,7 @@
    "blocked": false,
    "gone": true,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Red Tech",
    "last": null,
    "lastPrice": null,
@@ -236,7 +236,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-26T16:19:28.670Z",
    "change": {
     "from": 289.98,
@@ -250,7 +250,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Cyberport",
    "last": null,
    "lastPrice": null,
@@ -513,7 +513,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-19T15:51:21.307Z",
    "change": {
     "from": 69.32,
@@ -527,7 +527,7 @@
    "blocked": false,
    "gone": false,
    "noOffers": true,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Geizhals",
    "last": null,
    "lastPrice": null,
@@ -541,7 +541,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -757,7 +757,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-19T15:51:21.307Z",
    "change": {
     "from": 626.22,
@@ -771,7 +771,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -804,7 +804,7 @@
      "price": 154.9,
      "ship": 7.99,
      "total": 162.89,
-     "url": "https://geizhals.de/redir/BAAAALb55oxaap5UN7xFNvz_0hvFQUKkPc645_ZfgVZOL0IaJK5H4lvcxgFkO9hfUA_z_lhqYLXhVSKn96py2gID2auRsBl2bPpF49qpyAo7z-pDJbu3WkUG6Z0Aq5fMnAadcayYYzHFNSfPkPPzGo9iSJszdHK6Vsu_ZpPB0SpN_wHKFmQlrAMlJ1rT9zhs3X8CevcAcKuBoBjLIhqfgTmCNmE0yt5yCRlTxf_I4gvIcoWZiBeES_Ip6leZAxYFssBcGCAKCzeXjLPQN7p86H8SvvE",
+     "url": "https://geizhals.de/redir/BAAAALb55oxaap5UN7xFNvz_0hvFQUKkPc645_ZfgVZOL0IaJK5H4lvcxgFkO9hfUA_z_lhqYLXhVSKn96py2gID2auRsBl2bPpF49qpyAo7z-pDJbu3WkUG6Z0Aq5fMnAadcayYYzHFNSfPkPPzGo9iSJszdHK6Vsu_ZpPB0SpN_wHKaqfOGdv3oa0URbV8jycgvvcAcKuBoBjLIhqfgTmCNmFjSvwiAo1Wf8SCgpd7R1YsI7MXT2b3kcmk6k2wPO6OF9kbtCV4qIz29ehlDFMCAIs",
      "available": true
     },
     {
@@ -812,7 +812,7 @@
      "price": 154.9,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAFY4XMbVVXpEZqv2o6_8gg5VsfOOeGsFs-N0e8G3NUhM0FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsRhwcDyJskcgdUfxwIQ2Cdyme5xd8Uw3CiMuz49HAgLEEUfYh_40SidJobiM2pFFIjZTo3LbqkMwo-5eWTczxKsD5PzxSbsm1Y3mEc9j2MUCMx9210p2jgqtwbRlV_F-uStNCYfXp13i-qL3n737Ttmf6SfV5gY0vmG6o9TvLgRr_JsPTA7V68ueJsJAHi4_D",
+     "url": "https://geizhals.de/redir/BAAAAFY4XMbVVXpEZqv2o6_8gg5VsfOOeGsFs-N0e8G3NUhM0FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsRhwcDyJskcgdUfxwIQ2Cdyme5xd8Uw3CiMuz49HAgLEEUfYh_40SidJobiM2pFFIPlCRQPVAEzKY1X7QA981asD5PzxSbsm1Y3mEc9j2MUAENQgFstHfQHXinK9O-EnmUktQBCpBgXrtQZHEiTC6n2caSOrhU2imZBo8gx4LQ7T5Bz9gSVq9K3p4aoYyYORN",
      "available": null
     },
     {
@@ -820,7 +820,7 @@
      "price": 155.99,
      "ship": 5.99,
      "total": 161.98,
-     "url": "https://geizhals.de/redir/BAAAAOGrrhJIzrxaVQjb3TTy6p_e7UfJzHAd8Dop4wnSKY71iDUUDV3BSLhz7Cw4fK6ITHNYPMfzhUet2O9fVfClMJAaAKEfMg3lKkOTDqbQ618qZGZeI5ufv0xKyGqU9mxTzkk1-bDgpygKX1Rf0MLyG6CI1ZDVkm57ouha2JoTBun97AEHOSy0S_1QPRIr6tYFKnsBn1xrRESl4hv4TYkCqod579LQvuSOq2DjGHr-H1rE",
+     "url": "https://geizhals.de/redir/BAAAAOGrrhJIzrxaVQjb3TTy6p_e7UfJzHAd8Dop4wnSKY71iDUUDV3BSLhz7Cw4fK6ITHNYPMfzhUet2O9fVfClMJAaAKEfMg3lKkOTDqbQ618qZGZeI5ufv0xKyGqU9mxTzubi89BEmCY-b6KjrF-8MaOI1ZDVkm57ouha2JoTBun9CNSYKpOS3BF2-AmChPGHdH9odwsOXj2PY_zk3o7InwZoCMQEh3ecGwcJEhMgPNoR",
      "available": true
     },
     {
@@ -828,7 +828,7 @@
      "price": 155.99,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAEpL9HDZWOGIjuvmN7N7TdJAVEqChzZGfU085kFrO3gW2yjcQW3pUbJCrvlg41AyXtS6gVJdQkWhK6couxi5fIJNhYw8wEvjs_Hqn3YVciGpymvDksbYWbhIbpbDlrsit2QRPoQJaF92p8Gyik29EcMrvHKzo9N_mUEpE-2d33xFJXi7ZTQVJhLi6KDLJcSnCYhpRkx9V8uOZYpB7rkbVYnz5OsvayopyUaEg-X5CEVJYkV-9JP2Wdn1iyUO0iaszDVcX0D7fWyUttbBVV8INwTSTdkPaZnTe1-K5yRbmL8BS_F1G55SqT63jTPfLsKFHiCtqiQW718TRZq8aopGCZJ98WCIoR_pFmzfxhil8JLwpaVRQVRpnvK1r5__KFDa6A",
+     "url": "https://geizhals.de/redir/BAAAAEpL9HDZWOGIjuvmN7N7TdJAVEqChzZGfU085kFrO3gW2yjcQW3pUbJCrvlg41AyXtS6gVJdQkWhK6couxi5fIJNhYw8wEvjs_Hqn3YVciGpymvDksbYWbhIbpbDlrsit2QRPoQJaF92p8Gyik29EcMrvHKzo9N_mUEpE-2d33xFJXi7ZTQVJhLi6KDLJcSnCYhpRkx9V8uOZYpB7rkbVYnz5OsvayopyUaEg-X5CEVJYkV-9JP2Wdn1iyUO0iaszNqrPr7TYw2cDv3PO5C9pY2Qyxz7FtLh3xfRUMnYFDSWKv2JgAKxW9FNBL30XROg8IarQ2MAsjxFpy4dEjySQIyZYDqKOer2W-_J2D1x90EOtMBHf0O1ZEGd2pKZA_bzXA",
      "available": true
     },
     {
@@ -836,7 +836,7 @@
      "price": 155.99,
      "ship": 15,
      "total": 170.99,
-     "url": "https://geizhals.de/redir/BAAAALLqlkUS0yRVWm3ebLYtm_xAVEqChzZGfU085kFrO3gW2yjcQW3pUbJCrvlg41AyXtS6gVJdQkWhK6couxi5fIJNhYw8wEvjs_Hqn3YVciGpymvDksbYWbhIbpbDlrsit2QRPoQJaF92p8Gyik29EcMrvHKzo9N_mUEpE-2d33xFJXi7ZTQVJhLi6KDLJcSnCYhpRkx9V8uOZYpB7rkbVYn84M21tS6uQ6wPxP6iF3wATCBHqyvPNMKosbsr1F-gQAoJfu5HYq4NgDKBB2RKchMLkrHu0sTbGAHgqY_JIdsL-HnexNWE9vPAnICg2IP20i_T_YY2uTGreex9DdZazBXCsFUw8269viHXVWhWN8QB",
+     "url": "https://geizhals.de/redir/BAAAALLqlkUS0yRVWm3ebLYtm_xAVEqChzZGfU085kFrO3gW2yjcQW3pUbJCrvlg41AyXtS6gVJdQkWhK6couxi5fIJNhYw8wEvjs_Hqn3YVciGpymvDksbYWbhIbpbDlrsit2QRPoQJaF92p8Gyik29EcMrvHKzo9N_mUEpE-2d33xFJXi7ZTQVJhLi6KDLJcSnCYhpRkx9V8uOZYpB7rkbVYn84M21tS6uQ6wPxP6iF3wA2wsPz_WNsJ_IbzblyBs6TQoJfu5HYq4NgDKBB2RKchOkVjyuidocuLXUWL07ZQkF-QAdVxIsaDUccKl_OaHjbhVIHyw5pf_R3s9FUOnmCxLZQd3e08uCYDXfbxeXOGjr",
      "available": true
     },
     {
@@ -844,7 +844,7 @@
      "price": 155.99,
      "ship": 15,
      "total": 170.99,
-     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0NbwxitO9RyLr3ch_L-SHoM-7AehoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-Pesjbp1gdIsXSgnto0rYX4Ci3ewDduTVjUg3xF8hUn1AEedVI3RKC6bXpU27U2Jggxcc3Lc71o7eQhQOvgDMK_geJHMKqczWMqGJJA7JTjsYAw",
+     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0NbwxitO9RyLr3ch_L-SHoM-7AehoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-PetkZhUVheNO2nWE1th4EoKz3ewDduTVjUg3xF8hUn1AEQHVXi-Kn8OJZxfH2o1Hzsk-YaRomFpmwuiINvUTDXBgtXaT91hUkt2LEIWKqf0dlg",
      "available": true
     },
     {
@@ -852,7 +852,7 @@
      "price": 159.99,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAPUuCPxbBS1lweLGmhoqqWtL7RdV360AgVACZ-oCrmL6Eube5xiVuUAiJ57mK_u58lOZrKxs8ntrPr19qJaxbZtQW723-tOVVFSAYzsZR8jeArhMfLj6XGOZDnZTg7NLcDOemYdCx2B2RSF8mqzLUHzS3OdEPQfYmbaIV_gXDLlsV8qkINC36m8pzBYfNjSjgsi10muEIvXJv7DcDCXmSnyXUVtDGVcBda-02cmIkp_Aob7cFx79l87UO_MV8NAYLmLcFuZra82KLITGvkT58o4dSHl-Xfjjno5dZ38GC37AwhzBTzR7i7VFdEiVPdxCfX7ionuDLxyf2p8iYFZZZUAUObgGJ6S99NJ6S3uva6kdjOUHdXm8flAQ2PL4YU6HIg1mFS2PFzsPvRljU7Y_1d5gIEjQO2HggTfdMIA8rsIHSbNCPEjbxau-ZRJNvfRcSa6NauVzvDjrMyLKQqBoAgjFDI-iDV3Y_fE2n5DH0-5Q3FReuyw7ouriKclnAdJ-0w",
+     "url": "https://geizhals.de/redir/BAAAAPUuCPxbBS1lweLGmhoqqWtL7RdV360AgVACZ-oCrmL6Eube5xiVuUAiJ57mK_u58lOZrKxs8ntrPr19qJaxbZtQW723-tOVVFSAYzsZR8jeArhMfLj6XGOZDnZTg7NLcDOemYdCx2B2RSF8mqzLUHzS3OdEPQfYmbaIV_gXDLlsV8qkINC36m8pzBYfNjSjgsi10muEIvXJv7DcDCXmSnyXUVtDGVcBda-02cmIkp_Aob7cFx79l87UO_MV8NAYLmLcFuZra82KLITGvkT58o4dSHl-Xfjjno5dZ38GC37AwhzBTzR7i7VFdEiVPdxCfX7ionuDLxyf2p8iYFZZZUAUObgGJ6S99NJ6S3uva6kdjOUHdXm8flAQ2PL4YU6HIjJxoQdh1mE7pytWuhQs4A9gIEjQO2HggTfdMIA8rsIH-w6DR9UgLxkhW6BOXIPGq300qxQSOUi4HIGoOXE48NRQ00Civ9z1-TDrG0LqsGcQ",
      "available": null
     },
     {
@@ -860,7 +860,7 @@
      "price": 159.99,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAO11KOeayElRmHWbNWCEnd7jrjaEPIpMhUCLFv7FzmJB67SE_5Z19TJZnYtd39mvLS3q3RhkFPiuDjDPXtMYm8w4AFPDnfVbHQ5YyTCAyHm4WEJClZUe3N3Z--wJXoBgPboWxYeKD-y5A4ZvA1VMzGoAt9xI2WF2gqJTFkw3ocLBtqeM__YrxHBUfz7kprfmD7C1VaS920e_lgKlQs0JrQO0u3kOi0mWtvZ5BXkB1cml1ACr_gSPuv6rDReUweYWt6l7z3Tk-kPSm3PtCWm2EhmJ60EyBYeqwri8eJl-whrBwVvg_3IwX4YWSGBndrT61c7tVsD1k0uerny6fr6D3Ghn0sxWMdv0-682JQJfFYplKipF455U46P-XuEEsPOWtNJN2Q9pmdN7X4rnJFuYvwEk2Nk_WlBu29OCD7IZAmMeIK2qJBbvXxNFmrxqikYJkn3xYIihH-kWbN_GGKXwkvClpVFBVGme8rWvn_8oUNro",
+     "url": "https://geizhals.de/redir/BAAAAO11KOeayElRmHWbNWCEnd7jrjaEPIpMhUCLFv7FzmJB67SE_5Z19TJZnYtd39mvLS3q3RhkFPiuDjDPXtMYm8w4AFPDnfVbHQ5YyTCAyHm4WEJClZUe3N3Z--wJXoBgPboWxYeKD-y5A4ZvA1VMzGoAt9xI2WF2gqJTFkw3ocLBtqeM__YrxHBUfz7kprfmD7C1VaS920e_lgKlQs0JrQO0u3kOi0mWtvZ5BXkB1cml1ACr_gSPuv6rDReUweYWt6l7z3Tk-kPSm3PtCWm2EhmJ60EyBYeqwri8eJl-whrBwVvg_3IwX4YWSGBndrT61c7tVsD1k0uerny6fr6D3Ghn0sxWMdv0-682JQJfFYplNjXZ7GDKBA4FEZUTuVU-jJDLHPsW0uHfF9FQydgUNJZfabgxjk0CogGpc3-9atr8hqtDYwCyPEWnLh0SPJJAjJlgOoo56vZb78nYPXH3QQ60wEd_Q7VkQZ3akpkD9vNc",
      "available": null
     },
     {
@@ -868,7 +868,7 @@
      "price": 159.99,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg2zlmri0KS-1hx93bPM8G0G9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurT5kBvJP-ZiGveYGngk3VRGH_hdC4W0TlXzxuox8FJsB_g40qRXCpo4yRoINQsi0Chp8cIzoGuVnF8I0vYSCkQpB3hrw8jaekCQCuTv8G6JaHLU07lFkWuEYzdenjdOAwoQyuQhH_yChCIZLQzcZ8Y4NgpO5z2M1mGE3vUxttEu_E",
+     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg2zlmri0KS-1hx93bPM8G0G9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurT5kBvJP-ZiGveYGngk3VRGH_hdC4W0TlXzxuox8FJsB_fEj0n8cHvz6tJMqYAtWT658cIzoGuVnF8I0vYSCkQpDlj573k-mpfE304yawVBEo2ttmWpd3XpiLAyv6Z08Trbd_3CtK9t1CicGhvkSAMaRNZ_WkotM3-JB3vkeYqDRD",
      "available": null
     },
     {
@@ -876,7 +876,7 @@
      "price": 164.9,
      "ship": 4.99,
      "total": 169.89,
-     "url": "https://geizhals.de/redir/BAAAACW4-XgKia9UcXQ4VTDoXBQYTbckmZr02pKGoE5YGhPkWLPUKX3pXTubOxAooQV6L__SduIMXTpDF7lYYpQxe6KIC_Am325mDzr5c58oXnRxXhMWlmZ_sRweVbnP3STv0MaSsrZOfdNhWiElVgC10mdqHSDt2USWJudRP8DFlvtOIsWgIEqlBReFuOiAeHXWPuORfVmQq5Pqw1PyahFq2vQNQ1n254mFlW-Mn18H0of1A-IqEO62mU8vrwSC2Z7MoxFVztf-ue_AIqBbMiFavyDHnWwV2tiAIQA7aoeXtY8RZFhTTDbZrTabjsEXjvFCg3sBn1xrRESl4hv4TYkCqod579LQvuSOq2DjGHr-H1rE",
+     "url": "https://geizhals.de/redir/BAAAACW4-XgKia9UcXQ4VTDoXBQYTbckmZr02pKGoE5YGhPkWLPUKX3pXTubOxAooQV6L__SduIMXTpDF7lYYpQxe6KIC_Am325mDzr5c58oXnRxXhMWlmZ_sRweVbnP3STv0MaSsrZOfdNhWiElVgC10mdqHSDt2USWJudRP8DFlvtOIsWgIEqlBReFuOiAeHXWPuORfVmQq5Pqw1PyahFq2vQNQ1n254mFlW-Mn18H0of1A-IqEO62mU8vrwSC2Z7MowUbgDpKkkAMOQPLs9LYqwbHnWwV2tiAIQA7aoeXtY8RlrA3KEUsBLyCTuZ-UyYCJ39odwsOXj2PY_zk3o7InwZoCMQEh3ecGwcJEhMgPNoR",
      "available": true
     },
     {
@@ -884,7 +884,7 @@
      "price": 170.82,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAFinuIDCBqHDVTSksx5xERhToKM5YBqT5Mu_EYGOaRl_okMi6YeWhn5Ccl6FGmfmiRQMErOwDdqtsedFch-nxLjg3ZrulD_UYDxyu09zSZab01EisU79JUqa0l_USnXIhmK_gH6d6QxqA-tEcX92LlM-RELQI-o86nXNXudyv6fRkI7WUXEFnM_f4tWjDvyeQ-kNOQJILiTiqOeS9MFC88hFNHS-ujm7ZXF7oi0bIbYnwAh2jUaR99wsQAGGp_hCKk5VDse9v3BIXBZMo_CU9QtureddHmivbKZdzSmmRBcI",
+     "url": "https://geizhals.de/redir/BAAAAFinuIDCBqHDVTSksx5xERhToKM5YBqT5Mu_EYGOaRl_okMi6YeWhn5Ccl6FGmfmiRQMErOwDdqtsedFch-nxLjg3ZrulD_UYDxyu09zSZab01EisU79JUqa0l_USnXIhmK_gH6d6QxqA-tEcX92LlM-RELQI-o86nXNXudyv6fRkI7WUXEFnM_f4tWjDvyeQ48I8DBd1248ytw281uB-dxFNHS-ujm7ZXF7oi0bIbYnM8PX7lbH1oycC8Ucx12NnSigz0Lq8eeFL3EZx1FfamkDL-GUYvAFT6DQ5zxMVcIP",
      "available": true
     },
     {
@@ -892,7 +892,7 @@
      "price": 170.83,
      "ship": 5.99,
      "total": 176.82,
-     "url": "https://geizhals.de/redir/BAAAAFR59k4hI5cDp2sx9U2gCfu-YVF2GGqlYi7cZGk2IPVsO_PVkSBi2F3FiRgVrV7otjBQXuJleQn1SuVBGji-V5dyo1DfOXJso0v6ry5XXwEPLhHyzXFvMxDlK7aGLQvuSJ69PkZ3g3eNyl0_w5jXJyuRFlvA04ISQ8gWCXGu4O-oQjmMRWwK2oXszF-k5W0nKP1ekeKaZ7xfozOMs2oaEHEjjRynzMRen8Mj2YnRmNL20ILsrnu3Ueo-FGUlEprg1pJfUmWCk_GLBEXx2hR2bZs_XzO_Y3pggPFROOfEOGmZk_lycBSFyBv5U5kM42aYd3sBn1xrRESl4hv4TYkCqod579LQvuSOq2DjGHr-H1rE",
+     "url": "https://geizhals.de/redir/BAAAAFR59k4hI5cDp2sx9U2gCfu-YVF2GGqlYi7cZGk2IPVsO_PVkSBi2F3FiRgVrV7otjBQXuJleQn1SuVBGji-V5dyo1DfOXJso0v6ry5XXwEPLhHyzXFvMxDlK7aGLQvuSJ69PkZ3g3eNyl0_w5jXJyuRFlvA04ISQ8gWCXGu4O-oQjmMRWwK2oXszF-k5W0nKP1ekeKaZ7xfozOMs2oaEHEjjRynzMRen8Mj2YnRmNL20ILsrnu3Ueo-FGUlEprg1rkT7Ti4yXuhS2ZMb_7P8j4_XzO_Y3pggPFROOfEOGmZQ-S6ulr4d2HFteE3dnFeP39odwsOXj2PY_zk3o7InwZoCMQEh3ecGwcJEhMgPNoR",
      "available": true
     },
     {
@@ -900,7 +900,7 @@
      "price": 173.12,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAADxeWvyWmj5qUDr44Bhd10hFnTgwMn5qDdytpx8dukbAkaI3A6DzgzDs27fZZc9qf_S3UNXXKH8ORPKynajmAZc6X6lEImC2ikIcqD1xotO_Lgdis9Mjqr6a29pLZgFIKgRDgkpomZjlN4RXIoQ9uczx_8l6zer82fMRaK_X-_wQNOnsHiR5ksJV8tTl2Qu3mi-hzfkPI2FBKC9dfUsYgkEKENe4Hnp3s95frCjBSeFwgcV7Isc_6RnCEdJ-2BAA2iOw6bMaAA8N4IIi3JBcjhJ6m-0Klzsu0aCam6_TXcc5WErl6HCbH1NPav0eJ-BKXZWGx3k3iA3CM8qBjFqdAKw",
+     "url": "https://geizhals.de/redir/BAAAADxeWvyWmj5qUDr44Bhd10hFnTgwMn5qDdytpx8dukbAkaI3A6DzgzDs27fZZc9qf_S3UNXXKH8ORPKynajmAZc6X6lEImC2ikIcqD1xotO_Lgdis9Mjqr6a29pLZgFIKgRDgkpomZjlN4RXIoQ9uczx_8l6zer82fMRaK_X-_wQNOnsHiR5ksJV8tTl2Qu3mi-hzfkPI2FBKC9dfUsYgkEKENe4Hnp3s95frCjBSeFwBYiXNTlpdXhShyY_4HEruSOw6bMaAA8N4IIi3JBcjhIlhhgYsO8d4Mu1odJKF-KMwrn1LBb788VmqaJD98W_zzRK7XxbDNAkD2581_jrOZg",
      "available": null
     },
     {
@@ -908,7 +908,7 @@
      "price": 174.22,
      "ship": 5.99,
      "total": 180.21,
-     "url": "https://geizhals.de/redir/BAAAAOuDj6c87NYqJGso8pdeppkX1r6lsxYS3QfJ5gdDVU2RItUJOdQMaM2ebYOmvnurJJmjpC6z_nAaTbgQyI5Ota9NtAq36Zy5UUQbuOSwLh7-8_wuiKZvcliRMLo9JItWUxlEsX3f3k5JMguCarJbUualjVAEJ8gMhHJYfTxzlCWxikeEWiRxSpdZKt0pdBR2PWAgSNA7YeCBN90wgDyuwgfse4eBO3YM9Udf2Rvsff2EWErl6HCbH1NPav0eJ-BKXZWGx3k3iA3CM8qBjFqdAKw",
+     "url": "https://geizhals.de/redir/BAAAAOuDj6c87NYqJGso8pdeppkX1r6lsxYS3QfJ5gdDVU2RItUJOdQMaM2ebYOmvnurJJmjpC6z_nAaTbgQyI5Ota9NtAq36Zy5UUQbuOSwLh7-8_wuiKZvcliRMLo9JItWUxlEsX3f3k5JMguCarJbUualjVAEJ8gMhHJYfTxzlCWxZgDsktEUanVIl-Kdh0OoFmAgSNA7YeCBN90wgDyuwgeQg2_5_Whd-NXnrnmfbDaqwrn1LBb788VmqaJD98W_zzRK7XxbDNAkD2581_jrOZg",
      "available": null
     },
     {
@@ -916,7 +916,7 @@
      "price": 174.99,
      "ship": 8.9,
      "total": 183.89,
-     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzF0yCv71bby8jytFOxlN-h7gYNyYViTo7ffGg_aBppnNX00A-5fVEy41BBkCBdJ_yZz9q1cWyKM5X_8lWxfYEFd_lPWnrdwSkhpVWC-W9gvQtzd9HHWJFgmfaA_WYZzjnXrp1dkkDthDNrO4S76rBR3hGSmgaNvy47cp-WjJ96w1Y",
+     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzF0yCv71bby8jytFOxlN-h7gYNyYViTo7ffGg_aBppnNX00A-5fVEy41BBkCBdJ_yZG_4ScQN9XsqbzQY_5GR9IflPWnrdwSkhpVWC-W9gvQsowUw59RoFkaQUbXs_T6Kv55zHc0tuTvUnYgIdF-KtkXMWq-Z1HmHk8MrukOf7WPs",
      "available": true
     },
     {
@@ -924,7 +924,7 @@
      "price": 175,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAD-jVlYtkOu7Tfgu4Dlu0YXMpQSGVZ3ycyU00uYMNdpsUnnt4LAukvj3HRX2QOOrWbzim2FJILknhcq0a579gebsisRQtSKMqVeFtm5DhgMu-51g5WoXQJGlHL1m5MK7PfNGFU0wlVo8QVyw50SpaXbqgpmCrHid7imyfDJrWOPHxPW1BgAZurIYEkeRQelFp7gLarqHbtLASZ27WlsoF0QZv58za1gV73otGrFd6c13tygsPBkaT6MwMHIrUX3e0JZaoSxPoByXjqBq9so5BYWvs5yTyVxzNBdJYT_NAwp7WDEUE0lo3b590QWaEUp5nRk3KNzKP1maeRExXPTowQZYSuXocJsfU09q_R4n4EpdlYbHeTeIDcIzyoGMWp0ArA",
+     "url": "https://geizhals.de/redir/BAAAAD-jVlYtkOu7Tfgu4Dlu0YXMpQSGVZ3ycyU00uYMNdpsUnnt4LAukvj3HRX2QOOrWbzim2FJILknhcq0a579gebsisRQtSKMqVeFtm5DhgMu-51g5WoXQJGlHL1m5MK7PfNGFU0wlVo8QVyw50SpaXbqgpmCrHid7imyfDJrWOPHxPW1BgAZurIYEkeRQelFp7gLarqHbtLASZ27WlsoF0QZv58za1gV73otGrFd6c13tygsPBkaT6MwMHIrUX3e0JZaoSxPoByXjqBq9so5BYUH4umQCXRfOcwvKVnT9QaGWDEUE0lo3b590QWaEUp5nTpzJ25oQm8HAgITGGA97tTCufUsFvvzxWapokP3xb_PNErtfFsM0CQPbnzX-Os5mA",
      "available": null
     },
     {
@@ -932,7 +932,7 @@
      "price": 175.9,
      "ship": 6.99,
      "total": 182.89,
-     "url": "https://geizhals.de/redir/BAAAAH4to4S8VZy2zO-4ik2zEhtqTg7E9xgoss_X5VQjmgTZr-bBnkhH9UodL7odRJgBWMe0TvaUBlj8DOL_ThSkkvJKTDnjcFJ8g2g-DtSWIYVK8XM5jTzT7WBWtjMbdjj5oLcw77SGN5jR664aph_LheBb6p4bnyK4yaZGU_DSnBzibiqLV6L4iVtAUOvpyYMlQmAgSNA7YeCBN90wgDyuwgckN1HmliqDlD12jZvCnZ41ro1q5XO8OOszIspCoGgCCMUMj6INXdj98TafkMfT7lDcVF67LDui6uIpyWcB0n7T",
+     "url": "https://geizhals.de/redir/BAAAAH4to4S8VZy2zO-4ik2zEhtqTg7E9xgoss_X5VQjmgTZr-bBnkhH9UodL7odRJgBWMe0TvaUBlj8DOL_ThSkkvJKTDnjcFJ8g2g-DtSWIYVK8XM5jTzT7WBWtjMbdjj5oLcw77SGN5jR664aph_LheBb6p4bnyK4yaZGU_DSnBzi4vcNqWZonQF-q0Xx4EeKaWAgSNA7YeCBN90wgDyuwgenEZBc4LWDhyothodx78hrfTSrFBI5SLgcgag5cTjw1FDTQKK_3PX5MOsbQuqwZxA",
      "available": true
     },
     {
@@ -940,7 +940,7 @@
      "price": 176.09,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAADpMNub3VldHI99XeskCjBQh2E4PFSnzAqsIyhi1lNY4r_rsebftWQmTfdMvnGgLO0vjaF2agKTHEwfxWabrB-PEuld44rsCE7SVeKvEqcSKJMOkzaNEIg61eEKn25Q-57jY6CaPWjTZIcRrwlL2DE0FTqdq04ejVFfUO1T9p9fbJQYCORhgpqhiGLL3aZSgkeqV8Q6Dv3KN-vbdZtvUlM0KzDx2Fu6CXsk3FCVIa3YnewGfXGtERKXiG_hNiQKqh3nv0tC-5I6rYOMYev4fWsQ",
+     "url": "https://geizhals.de/redir/BAAAADpMNub3VldHI99XeskCjBQh2E4PFSnzAqsIyhi1lNY4r_rsebftWQmTfdMvnGgLO0vjaF2agKTHEwfxWabrB-PEuld44rsCE7SVeKvEqcSKJMOkzaNEIg61eEKn25Q-57jY6CaPWjTZIcRrwlL2DE0FTqdq04ejVFfUO1T9p9fb8lVUZVNlQFCly3ZeRGi3Y-qV8Q6Dv3KN-vbdZtvUlM1rK9hC7T1mEC3WTW6Sx2kwf2h3Cw5ePY9j_OTejsifBmgIxASHd5wbBwkSEyA82hE",
      "available": true
     },
     {
@@ -948,7 +948,7 @@
      "price": 176.36,
      "ship": 14.9,
      "total": 191.26,
-     "url": "https://geizhals.de/redir/BAAAAPtAbjux-7VqKQjK4FeUdEYLytG3JBSrvYKDDsdCGRH07xqBTE-z9-6Bd_iGnGsuj3WorMYWlOHkgN5rhkHydaKgYDxDa5ZWyqanNvJeJPBwBJmmCHaCfckuDovnBs7w7NMGHUkRsI5VlXQp7dlf17iujWrlc7w46zMiykKgaAIIxQyPog1d2P3xNp-Qx9PuUNxUXrssO6Lq4inJZwHSftM",
+     "url": "https://geizhals.de/redir/BAAAAPtAbjux-7VqKQjK4FeUdEYLytG3JBSrvYKDDsdCGRH07xqBTE-z9-6Bd_iGnGsuj3WorMYWlOHkgN5rhkHydaKNZm28jX7uuzensnp1WON9BJmmCHaCfckuDovnBs7w7HDt5oBNRTlfPqZJKBb6G5F9NKsUEjlIuByBqDlxOPDUUNNAor_c9fkw6xtC6rBnEA",
      "available": null
     },
     {
@@ -956,7 +956,7 @@
      "price": 178.31,
      "ship": 2.99,
      "total": 181.3,
-     "url": "https://geizhals.de/redir/BAAAAAXuMqMPMYGMOwwHgW-JlfBiQkQy8fwIfUNg6HKYVUzp3jaoGfuxnsC-8ZFIH_PUYfP8Loimb3JYkTC6PSSLVlMZRLF9395OSTILgmqyW1Lmyxh6W3BFzvL-B7lRFGcjti_vf9aPsYNZDkPNOe5O6chv45Z0FJd6jstB-SwbGs0Vf4Xsh9E1QLM05WKiCKWM_arrwPuEnU-EJ9Djt9b-JVaCxM-vahWdCVzaY1MaXWVQkj0V1gBp8XO8eqYzfwMvL1UDZ_uGAQhgc89YfCX_biI",
+     "url": "https://geizhals.de/redir/BAAAAAXuMqMPMYGMOwwHgW-JlfBiQkQy8fwIfUNg6HKYVUzp3jaoGfuxnsC-8ZFIH_PUYfP8Loimb3JYkTC6PSSLVlMZRLF9395OSTILgmqyW1Lmyxh6W3BFzvL-B7lRFGcjti_vf9aPsYNZDkPNOe5O6chv45Z0FJd6jstB-SwbGs0VonmQHTPSDoTRe7sKmOc_bqrrwPuEnU-EJ9Djt9b-JVbrTZtJ63DfOCpyRlYBUvW0UnMCg6YwvYbW3G-2cbbxlXMjQti_uoOOeHV_3X8DEF4",
      "available": true
     },
     {
@@ -964,7 +964,7 @@
      "price": 179,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAOuV1yRKHWbrt6h7MNBH0RAYTbckmZr02pKGoE5YGhPkQhSR7v1lBBKCPqKhN_8vwVGRK6ftJ8IMlHuuDHpW6qxGOoMyvs-fkw76B5JAYza-C4ffojZDWJpHm2JdUPxuKE8F45tTbBseOO8iiuDTxUVR05bLWqllJipOxb3X5l3xfcaem1iFLG2dAD1TVBB02Y6RUO3kOgR86qCiwt0Xj_FwjygdmpVAT0jAbvpa9zGi4IbJnCR2_PBnW-NSB4MEqkcLPtu9X4YIVot_BqJKk6h-K1s4jCGYMiahXCExqH6HDDidW-xqNomVKZYEJnVgdnSRpC2XrsaBLaop-OifQLZwjygdmpVAT0jAbvpa9zGi4IbJnCR2_PBnW-NSB4MEqkcLPtu9X4YIVot_BqJKk6h-K1s4jCGYMiahXCExqH6HPfYXKFECInE-iXBoYWbMlDFY3GJUPD8xUeE1c-37pZ4EmaYIdoJ9yS4Oi-cGzvDsQPah-zvGigVRyUrxyFfKNmQyUW4PNbW-R8RMKi3fQgsXHoORoBuSZQTF8i_oyypj-SbyRFruH-WPCTJLK7M46Q",
+     "url": "https://geizhals.de/redir/BAAAAOuV1yRKHWbrt6h7MNBH0RAYTbckmZr02pKGoE5YGhPkQhSR7v1lBBKCPqKhN_8vwVGRK6ftJ8IMlHuuDHpW6qxGOoMyvs-fkw76B5JAYza-C4ffojZDWJpHm2JdUPxuKE8F45tTbBseOO8iiuDTxUVR05bLWqllJipOxb3X5l3xfcaem1iFLG2dAD1TVBB02Y6RUO3kOgR86qCiwt0Xj_FwjygdmpVAT0jAbvpa9zGi4IbJnCR2_PBnW-NSB4MEqkcLPtu9X4YIVot_BqJKk6h-K1s4jCGYMiahXCExqH6HDDidW-xqNomVKZYEJnVgdnSRpC2XrsaBLaop-OifQLZwjygdmpVAT0jAbvpa9zGi4IbJnCR2_PBnW-NSB4MEqkcLPtu9X4YIVot_BqJKk6h-K1s4jCGYMiahXCExqH6HPfYXKFECInE-iXBoYWbMlGasJykEqoyrbSVtxe0RO50EmaYIdoJ9yS4Oi-cGzvDsCklrGMNP4RQkb2dxG3Jp99aSHVygvjWPEnhlNzhDpyQHos05_55wrynSbwS7_BOg43nQ-mo-66knfEnG3WTt4w",
      "available": null
     },
     {
@@ -972,7 +972,7 @@
      "price": 179.33,
      "ship": 4.99,
      "total": 184.32,
-     "url": "https://geizhals.de/redir/BAAAAKgdaIYYHNwqG9zqz6Wp9MbDrkCGJerrtIiSdTg2niWdHV7Jxm3zCuCW67unAJeodYzj4U_LhrFTw5m-26RLvXwp-9AUoDQeXeM1SLqE8z9fH5zsLBcBPqfTCtTV19cKVJBJ82qLOViRnxUShyWCCMwUkcLBHj8X0ST1f8KS20f_z_Pv8mTW-cCjUVEmtEEODc3CMZ7D23gJ0T49BhXTMrDo_yU-SxYs9yesxtNY0Vshw_pXingYoe8LMh39uhEHJ1m8sxHWLiZgxS0ycpWmt1UmpgyEIMq5CC7paSvvysQSxGMAY_gYC4fyS0N2F68JNwi6a5NLQuiHnAotZHBoRh_Oux7AJ3lft1N3hCHD2ju4C8h8WzVbVwC1QzUe60SkpgdPomjnF0qlhyFUeidgk8qz_97xXiylYH6_8IRTDMDLJS-LdySuOmoj8IGyTtJOO1hK5ehwmx9TT2r9HifgSl2Vhsd5N4gNwjPKgYxanQCs",
+     "url": "https://geizhals.de/redir/BAAAAKgdaIYYHNwqG9zqz6Wp9MbDrkCGJerrtIiSdTg2niWdHV7Jxm3zCuCW67unAJeodYzj4U_LhrFTw5m-26RLvXwp-9AUoDQeXeM1SLqE8z9fH5zsLBcBPqfTCtTV19cKVJBJ82qLOViRnxUShyWCCMwUkcLBHj8X0ST1f8KS20f_z_Pv8mTW-cCjUVEmtEEODc3CMZ7D23gJ0T49BhXTMrDo_yU-SxYs9yesxtNY0Vshw_pXingYoe8LMh39uhEHJ1m8sxHWLiZgxS0ycpWmt1UmpgyEIMq5CC7paSvvysQSxGMAY_gYC4fyS0N2F68JNwi6a5NLQuiHnAotZHBoRh_Oux7AJ3lft1N3hCHD2ju4C8h8WzVbVwC1QzUe60SkpnajFQ0eEDs1jo053gFkvc2z_97xXiylYH6_8IRTDMDLzT_rXUP-0DoR9Xvwi2cY08K59SwW-_PFZqmiQ_fFv880Su18WwzQJA9ufNf46zmY",
      "available": true
     },
     {
@@ -980,7 +980,7 @@
      "price": 179.33,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAANfJf2DgKeLGl7j8_q331JSi9XTEzOdRxAZtIlS8LGvrVp9ec88qJe-kIwaMLSf7XaYov-Q9BoAfTzXpOJQ4Ay_-mLy8gVq9jEyErWuT389shpryDsGygXkbqpc9m6B9_4qaNNSnvLESIXp8gQbbVT23V5cmJnVQe7Hc6htm0_c2",
+     "url": "https://geizhals.de/redir/BAAAANfJf2DgKeLGl7j8_q331JSi9XTEzOdRxAZtIlS8LGvrVp9ec88qJe-kIwaMLSf7XYtKu_I9GF8SeubzUyzq72j-mLy8gVq9jEyErWuT389sH7Ri1cJY8j9yBcEfEcRtranxNJGDItvrQDiUpGLsMMfyvPAUSdh9MJ7eeyaRLXgJ",
      "available": null
     },
     {
@@ -988,7 +988,7 @@
      "price": 179.34,
      "ship": 4.99,
      "total": 184.33,
-     "url": "https://geizhals.de/redir/BAAAAFQcyVDF_nRndB4irAyc33wguq1WxOV3aM2jU95UGVYUGeidizlGyAnixggvG-yYqPMvuTLHQLX4RRaQXbq_86VrpU8k70Qjmz9jF2EOPDNDA4EMTKipJgI2k0k4bJrDLb_RwtfDD7zw-7_d2yvQAmi2paiKWA13722FJx2PD9rZufP69zdkcMLaSFptGZTkeFwdQxtq8LE0-fFykMYHVexRMdMtTA69KExdiUl6OQR12b8jdfU7iTuime8-Ftzdg2Xqy4pwJ98lEaMQfYNF9ZHVlfA5ScXEYLnnkt2ym5B5yVznlfdb1KlzzMQHMDMLcUe2ddBAn28CT9Mm11fUyQZJC6R_sIzkD8W4Gzn7W8_80MHtMhiQ8Mgf1wUuwpcOGX-F7IfRNUCzNOViogiljP274jdEyzCVgXSTWDDkGYTpgsTPr2oVnQlc2mNTGl1lUJI9FdYAafFzvHqmM38DLy9VA2f7hgEIYHPPWHwl_24i",
+     "url": "https://geizhals.de/redir/BAAAAFQcyVDF_nRndB4irAyc33wguq1WxOV3aM2jU95UGVYUGeidizlGyAnixggvG-yYqPMvuTLHQLX4RRaQXbq_86VrpU8k70Qjmz9jF2EOPDNDA4EMTKipJgI2k0k4bJrDLb_RwtfDD7zw-7_d2yvQAmi2paiKWA13722FJx2PD9rZufP69zdkcMLaSFptGZTkeFwdQxtq8LE0-fFykMYHVexRMdMtTA69KExdiUl6OQR12b8jdfU7iTuime8-Ftzdg2Xqy4pwJ98lEaMQfYNF9ZHVlfA5ScXEYLnnkt2ym5B5yVznlfdb1KlzzMQHMDMLcUe2ddBAn28CT9Mm11fUyQZJC6R_sIzkD8W4Gzn7W8_80MHtMhiQ8Mgf1wUuwpcOGaJ5kB0z0g6E0Xu7CpjnP2674jdEyzCVgXSTWDDkGYTp602bSetw3zgqckZWAVL1tFJzAoOmML2G1txvtnG28ZVzI0LYv7qDjnh1f91_AxBe",
      "available": true
     },
     {
@@ -996,7 +996,7 @@
      "price": 179.8,
      "ship": 5.95,
      "total": 185.75,
-     "url": "https://geizhals.de/redir/BAAAAK-KfGDbYCBnX21OeZufCftIjUTAF5BwEf5N-KtMqnqv1TS9s74PArJ_ux1J75Ka4oLu80GfBJqzqBHaLbQbICQGROILPjTYvl6442IeT8Uwnovz3Yuf6YvzVdPXtfeKXhFt9Sk8lZlqXs4YUt7cBDcaTpBmX6vsCVfvrk06mMLyKoiy7Dx_Wk6GBrpLghpyDxOyDhwLVXxE86qKZqwRTg_z15cvp74AKEeKNToSGit4ewGfXGtERKXiG_hNiQKqh3nv0tC-5I6rYOMYev4fWsQ",
+     "url": "https://geizhals.de/redir/BAAAAK-KfGDbYCBnX21OeZufCftIjUTAF5BwEf5N-KtMqnqv1TS9s74PArJ_ux1J75Ka4oLu80GfBJqzqBHaLbQbICQGROILPjTYvl6442IeT8Uwnovz3Yuf6YvzVdPXtfeKXhFt9Sk8lZlqXs4YUt7cBDcaTpBmX6vsCVfvrk06mMLymeCExC_XYyAPjKUvi91p5ROyDhwLVXxE86qKZqwRTg9R3DdlCJVEQFOOxaTtPWrlf2h3Cw5ePY9j_OTejsifBmgIxASHd5wbBwkSEyA82hE",
      "available": true
     },
     {
@@ -1004,7 +1004,7 @@
      "price": 181.02,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAM3_4iV1Bb2eghmZKAm8fH7ubYtaTlN1-JX5t6h-ZBKWvmiNU_pzUf7GD3rrMPA2Mtiv5UOQhhq89yZ_kUkGsypiHgsnSFmb6ED26bEO-1SppW6eukuJXF_bkm2vhQ290MlZN927d43qxMRYzT5w4v2eExN7xBO3rBsAmrRG-lAcIMNg44OM5T8DD-X4sbzYyPvj07FORHPPuhbY6bH5J1cFJU5lTeqPS3jnMXKBQyv5Zb5qqu3g7y7toN86Tlll4nOjbtiplj44ia6roQ7EmcB7AZ9ca0REpeIb-E2JAqqHee_S0L7kjqtg4xh6_h9axA",
+     "url": "https://geizhals.de/redir/BAAAAM3_4iV1Bb2eghmZKAm8fH7ubYtaTlN1-JX5t6h-ZBKWvmiNU_pzUf7GD3rrMPA2Mtiv5UOQhhq89yZ_kUkGsypiHgsnSFmb6ED26bEO-1SppW6eukuJXF_bkm2vhQ290MlZN927d43qxMRYzT5w4v2eExN7xBO3rBsAmrRG-lAcIMNg44OM5T8DD-X4sbzYyPvj07FORHPPuhbY6bH5J1eMq-NPfQhM-gFcEqgNFotNZb5qqu3g7y7toN86Tlll4vWb3HVq8WpzQPBW7X0IV8N_aHcLDl49j2P85N6OyJ8GaAjEBId3nBsHCRITIDzaEQ",
      "available": null
     },
     {
@@ -1012,7 +1012,7 @@
      "price": 181.59,
      "ship": 5.95,
      "total": 187.54,
-     "url": "https://geizhals.de/redir/BAAAAD5-XnBOl4dRmBzC-QdktyFzk3HBUIcGz3yN-1szONsztrkAOtL3sflcHsPJyJcrp5vtnwM4_yKsFfc65sOzdwrSTdkPaZnTe1-K5yRbmL8BdRIrPirjlhbWjiyALlZ6rSCtqiQW718TRZq8aopGCZJ98WCIoR_pFmzfxhil8JLwpaVRQVRpnvK1r5__KFDa6A",
+     "url": "https://geizhals.de/redir/BAAAAD5-XnBOl4dRmBzC-QdktyFzk3HBUIcGz3yN-1szONsztrkAOtL3sflcHsPJyJcrpzvn_EAUwoO9Sbh4G75Ym36Qyxz7FtLh3xfRUMnYFDSWmVs_QgLqDpXRHZUxGOJRfoarQ2MAsjxFpy4dEjySQIyZYDqKOer2W-_J2D1x90EOtMBHf0O1ZEGd2pKZA_bzXA",
      "available": true
     },
     {
@@ -1020,7 +1020,7 @@
      "price": 182.9,
      "ship": 6.9,
      "total": 189.8,
-     "url": "https://geizhals.de/redir/BAAAAMmzuFkT63wq4vUBtEUz8QN2PWJssY1gxkLSPfpBvlcLhNDGTSnd9RlYBZ0Xu08_tWLMepy1V9FWXEsADxpNopUWSR11QHhAUVGNxIbzRBbCzNKdWCykiXW8ePOOn8_QTcOEsqUueLhf4Wn8YT4UlNXWo0qqWxvkHOKQu_PQZTaAwPk_PFJuybVjeYRz2PYxQDG57ilCl-DD08ng_TAvYNtK00Jh9enXeL6ovefvftO2Z_pJ9XmBjS-Ybqj1O8uBGv8mw9MDtXry54mwkAeLj8M",
+     "url": "https://geizhals.de/redir/BAAAAMmzuFkT63wq4vUBtEUz8QN2PWJssY1gxkLSPfpBvlcLhNDGTSnd9RlYBZ0Xu08_tWLMepy1V9FWXEsADxpNopUWSR11QHhAUVGNxIbzRBbCzNKdWCykiXW8ePOOn8_QTcOEsqUueLhf4Wn8YT4UlNVWdGtwkurLmZoXKmi0SrfewPk_PFJuybVjeYRz2PYxQPazbhzpyqFLfalSgsENM_9SS1AEKkGBeu1BkcSJMLqfZxpI6uFTaKZkGjyDHgtDtPkHP2BJWr0renhqhjJg5E0",
      "available": true
     },
     {
@@ -1028,7 +1028,7 @@
      "price": 186.39,
      "ship": 5.95,
      "total": 192.34,
-     "url": "https://geizhals.de/redir/BAAAAD0Ug5NOEsNTy01rhqL4hmfHStlZeFlWm837y8WA3CBlHyawHWPLepx0vA6Ty2D9eQYp7sUjZgxO4OwntLQ3jZ8yqOY90YFMS9i__t_EMHrrRRkNkAxlLLgNK0msOPM9htAo8Byc4GhiHtEz1dTiCezFZOIqQ-yZizhRzDg5Mx8Sa28kjaWfHnO4aJH7I8_fmJ4iCsDtPowgPD4AoASeeCuV14l3oJ5Eh7kTAtufNtQ13tQSWjIOpK76b3uHArlT2TArMbNd09MRGTWleMggVas_GCljnSQhhEuXjRKQr_igvJAmR0onUvTB1h_7sVTJ-65I289Z4zRkWKCC6gFJZ8Z7AZ9ca0REpeIb-E2JAqqHee_S0L7kjqtg4xh6_h9axA",
+     "url": "https://geizhals.de/redir/BAAAAD0Ug5NOEsNTy01rhqL4hmfHStlZeFlWm837y8WA3CBlHyawHWPLepx0vA6Ty2D9eQYp7sUjZgxO4OwntLQ3jZ8yqOY90YFMS9i__t_EMHrrRRkNkAxlLLgNK0msOPM9htAo8Byc4GhiHtEz1dTiCezFZOIqQ-yZizhRzDg5Mx8Sa28kjaWfHnO4aJH7I8_fmJ4iCsDtPowgPD4AoASeeCuV14l3oJ5Eh7kTAtufNtQ13tQSWjIOpK76b3uHArlT2TArMbNd09MRGTWleMggVauuyajD4D83BOHkt1t3QZ5lvJAmR0onUvTB1h_7sVTJ-9vxNEUOO_4WSF4fm08SSN9_aHcLDl49j2P85N6OyJ8GaAjEBId3nBsHCRITIDzaEQ",
      "available": true
     },
     {
@@ -1036,14 +1036,14 @@
      "price": 186.53,
      "ship": 0.93,
      "total": 187.46,
-     "url": "https://geizhals.de/redir/BAAAAAmkkLAMDXZ0H7Z33uesH9lUqPNmo8-uerWcG-FrbYxpf0ShqoQIrIryu5rcg8ut3Hwy6rA3ozQ4239WAIIAQ-mEJZrWX6lvOfn5ZBDaFhLbZmxV0u7DdjEvTQA0HKWUe7ap222_a7BfzSNSA_sGVRirJSLqf-DwKEDcu4KJNjkVx9iddT2gFcUO5a_fbMposhZbF1msNOCVNjSrlydElbv1Fb0CRP5yFJlsYf8lCmZsKQ26o3Qcojvz2-YAJpoSA44B5ZVUkMT4rA_JcQgSF0zRRFd99zmxdvLgAV-7g1Bj-8AbWHSBCus1oV3UQv0tVRiRb1yKzv9pONUo0Q6Uxik1sdMM43ykUHlx0GYOytKjSg5OufE_lr8F1c9Kxdy8XXH6OwyiNucgYBrucjWwO9Y",
+     "url": "https://geizhals.de/redir/BAAAAAmkkLAMDXZ0H7Z33uesH9lUqPNmo8-uerWcG-FrbYxpf0ShqoQIrIryu5rcg8ut3Hwy6rA3ozQ4239WAIIAQ-mEJZrWX6lvOfn5ZBDaFhLbZmxV0u7DdjEvTQA0HKWUe7ap222_a7BfzSNSA_sGVRirJSLqf-DwKEDcu4KJNjkVx9iddT2gFcUO5a_fbMposhZbF1msNOCVNjSrlydElbv1Fb0CRP5yFJlsYf8lCmZsKQ26o3Qcojvz2-YAJpoSA44B5ZVUkMT4rA_JcQgSF0zRZp1Yc3WgFyy46AD1gsdC-8AbWHSBCus1oV3UQv0tVdqoxhWjRfWI0DpHre2zoSw7dTu9q3A1pD0I2SxNjiJI8DWLwL6IwFMlRo0yXn6oJqtjMzpS-rd3QIyVFnxPqdU",
      "available": true
     }
    ],
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-16T13:51:48.207Z",
    "change": {
     "from": 163,
@@ -1057,7 +1057,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -1145,7 +1145,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-27T23:51:03.728Z",
    "change": {
     "from": 1745,
@@ -1159,7 +1159,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -1319,7 +1319,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-24T17:51:03.264Z",
    "change": {
     "from": 72.15,
@@ -1333,7 +1333,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -1421,7 +1421,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-25T13:51:04.473Z",
    "change": {
     "from": 100.53,
@@ -1486,7 +1486,7 @@
      "price": 366.66,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAALytqXLEa7RX8wqQZT_BQZN1negy8yQ8oiyyusO-X0B40FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsMgyIORsEH0FLnwOnhxFSS0Flxx23cMa7VFx3s35MIJU_kkDYefQa9Q16j935mf-dRDJ2IEM6IMdu69Z5D1Em2YcM-27tGGVFh23MRgCoJghZ3KKso98_fBs7mUXnbTzcH-P7BPCcSnq-k8F6MzDcaQ",
+     "url": "https://geizhals.de/redir/BAAAALytqXLEa7RX8wqQZT_BQZN1negy8yQ8oiyyusO-X0B40FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsMgyIORsEH0FLnwOnhxFSS0Flxx23cMa7VFx3s35MIJU_kkDYefQa9Q16j935mf-dfFpQU6V4RFauw95dkOqNn4cM-27tGGVFh23MRgCoJggIPESKs1YlGOsoD73U4B1x_GorHwaLHmJ7t1XKqdKxVbw_i3EvDtx1SvnzMwjokZY",
      "available": null
     },
     {
@@ -1494,7 +1494,7 @@
      "price": 367,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAG_xPizE1sx2HD_MWT7vLnHPEU1iX6R5FJuQKjFaRoLzoW6AY7DNUYQwh34pGziusMQhWYyugbNMHwMqcapubJPZ8doM7zTIOHzbgGDWJHcIniVdqhruPoUwIGB7yqnx_sD5PzxSbsm1Y3mEc9j2MUAUXiovyEAAr1Wly5Q0a2kYuhn0XprAxNI9GNRb1UZGjvRUBjZL4njCHFJa7_EL664",
+     "url": "https://geizhals.de/redir/BAAAAG_xPizE1sx2HD_MWT7vLnHPEU1iX6R5FJuQKjFaRoLzoW6AY7DNUYQwh34pGziusMQhWYyugbNMHwMqcapubJPZ8doM7zTIOHzbgGDWJHcITbVEGH76O8QamExEswVe28D5PzxSbsm1Y3mEc9j2MUD6Y1u4-LOuVhDSvOLEVLGGwz4rUJq_mGtjUj6LCWmztMFJP6FM66I_lp1nTPlXT5SLdLdodAwn-4Qq8_TaPbwM",
      "available": true
     },
     {
@@ -1502,7 +1502,7 @@
      "price": 369,
      "ship": 8.9,
      "total": 377.9,
-     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzFaYg_oT6_t3t1-EE7SJ4o84N6N0JGtqza2rHuZ6Ktuvr00A-5fVEy41BBkCBdJ_yZ5rNl8lDxioKAEHFJBWkWc4ZWVZ59obfCXIXIgSkP_P_iDkcmFxi8agKQxPU3CqAQsI84NtIPNm4LuI0h9q4dXA",
+     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzFaYg_oT6_t3t1-EE7SJ4o84N6N0JGtqza2rHuZ6Ktuvr00A-5fVEy41BBkCBdJ_yZnC_5ytpjWhCsggaUsxCy0IZWVZ59obfCXIXIgSkP_P-mgNBt7uRjA7jTF3n71G7VbhYsUWZizpxEI3YP-NpUW30xBOYX6eVx_Q4dbolUc_M",
      "available": true
     },
     {
@@ -1510,7 +1510,7 @@
      "price": 370.19,
      "ship": 9.99,
      "total": 380.18,
-     "url": "https://geizhals.de/redir/BAAAALyJniYqKydx_N2Lzn1cJn_8QJ4XtY1iCgZIZLH84N4uXOVk3gPiKQe-Y7jztORtcUVGb5ptPDFcA27MaF50D8OyLFKw_brvKzVj6qKxbzwylZOWtqebtjIuPNzy-T21ygRuIKP6GVcl2fJ32BihrvkILlQKgmWOVmprhYmbjKYNJTrlDYTXXF_teM9JyO9sti9jkMuLLt1g4mew6co_ggWz-AF_gGscH32OAwN7UmA0wWFZf1jH7e0xZqidiI2GnfBY6qZA_0pmViOIwTAKFV46NzdUzPudiKnYkK_xCIP_KxMBvDhHi9DyrhYWphG-Qsm5DgusFDsLFr0-Mu_kAATF34MbJ-1Alte5W8tsmUlThO8NwAgy3cfCrP5zBLAvHRqXAgkeU65tLvOFE4G8AafE4Zx1DdQ7Bq31dOLldHG_eQlBWdh6gmGieQrNmgct6MW8buPbz_X091vystD6MlgnH7v5HomRZwUIURInubUgP_BdzhEWCly8ZNUyJJc9kv-YrWJeBGWgtKduxcix7Y1Ljqwu5DKNbyx2ndmRYXNp",
+     "url": "https://geizhals.de/redir/BAAAALyJniYqKydx_N2Lzn1cJn_8QJ4XtY1iCgZIZLH84N4uXOVk3gPiKQe-Y7jztORtcUVGb5ptPDFcA27MaF50D8OyLFKw_brvKzVj6qKxbzwylZOWtqebtjIuPNzy-T21ygRuIKP6GVcl2fJ32BihrvkILlQKgmWOVmprhYmbjKYNJTrlDYTXXF_teM9JyO9sti9jkMuLLt1g4mew6co_ggWz-AF_gGscH32OAwN7UmA0wWFZf1jH7e0xZqidiI2GnfBY6qZA_0pmViOIwTAKFV46NzdUzPudiKnYkK_xCIP_KxMBvDhHi9DyrhYWphG-Qsm5DgusFDsLFr0-Mu_kAATF34MbJ-1Alte5W8tsmUlThO8NwAgy3cfCrP5zBLAvHRqXAgkeU65tLvOFE4G8AafE4Zx1DdQ7Bq31dOLldHG_eQlBWdh6gmGieQrNmgct6MW8buPbz_X091vystD6MljJzM__sLnmsYLEF2Hf_egnP_BdzhEWCly8ZNUyJJc9krGe0OgQeFxk9b8UbUk4isQsqp57m2C9WAtV_fJF0UymDZM_mQiVj-SnRRfBEttmIg",
      "available": null
     },
     {
@@ -1518,7 +1518,7 @@
      "price": 378.9,
      "ship": 5.99,
      "total": 384.89,
-     "url": "https://geizhals.de/redir/BAAAAAGUTbm8BThITTdVZImdyttdAUf0Gdn4RVnXmEXCGn4g5XdcG5Tz2UUOrYHqFuE40wkFkSSzCE9G0Je0K8EdqIOk6exk3y-Yuk2r2hSeAPglaTluWbAATCWQyfwkqRIDO7HT7-ZAdoG_uHVRiM4BNlxX79EVsTcOMrbppopV9pnjxOGcdQ3UOwat9XTi5XRxv79-fbovjidQ4rJyh-BJqcTc6rZFgJpiXyOZXuXqaAE2nbolY25dLNhZkg1sbOPwYqkLZI5F35J0Xs8nNCZQ3stWhp9vcLdoMFHicX-02CPk2UHd3tPLgmA1328Xlzho6w",
+     "url": "https://geizhals.de/redir/BAAAAAGUTbm8BThITTdVZImdyttdAUf0Gdn4RVnXmEXCGn4g5XdcG5Tz2UUOrYHqFuE40wkFkSSzCE9G0Je0K8EdqIOk6exk3y-Yuk2r2hSeAPglaTluWbAATCWQyfwkqRIDO7HT7-ZAdoG_uHVRiM4BNlxX79EVsTcOMrbppopV9pnjxOGcdQ3UOwat9XTi5XRxv79-fbovjidQ4rJyh-BJqcQq5zNsrekMgOoyzifdvNd6nbolY25dLNhZkg1sbOPwYhxzLxa875f6eQhXc5eFjhB2Tt9AfR0bO2GDINIELmY59NguU0bKB-fY0WhQ_B_O-xd_JdZyqrQbEGp55CJrTNg",
      "available": null
     },
     {
@@ -1526,7 +1526,7 @@
      "price": 378.9,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAJ7htEdObOTljaDPwzl3s4ZAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0Unfi3p3mfw0m54XnJMgXWgBK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkcysxhuNJHtwqp066e6A3hV3mYoCFaM3MYtpF7cdYYShyBZQ4nr6Zl4h2DSF4CaJz9OazZfJQ8YqCgBBxSQVpFnNMgK2iP5dYKosJD_TR8LZc4g5HJhcYvGoCkMT1NwqgELCPODbSDzZuC7iNIfauHVw",
+     "url": "https://geizhals.de/redir/BAAAAJ7htEdObOTljaDPwzl3s4ZAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0Unfi3p3mfw0m54XnJMgXWgBK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkcysxhuNJHtwqp066e6A3hV3mYoCFaM3MYtpF7cdYYShyBZQ4nr6Zl4h2DSF4CaJz9Jwv-craY1oQrIIGlLMQstBMgK2iP5dYKosJD_TR8LZcpoDQbe7kYwO40xd5-9Ru1W4WLFFmYs6cRCN2D_jaVFt9MQTmF-nlcf0OHW6JVHPz",
      "available": true
     },
     {
@@ -1534,7 +1534,7 @@
      "price": 378.9,
      "ship": 15,
      "total": 393.9,
-     "url": "https://geizhals.de/redir/BAAAAJWvX5iH3vgc48-UWDb-1-xAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0Unfi3p3mfw0m54XnJMgXWgBK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkczx2LhhOSMcH6P0UTL5NBqTg2BlbFGX640xDHb7wZW8yFvQRmQsgkpIvXUzfMPnEXQMQCMQ9-vpaaG30lU1T0tBLjqwu5DKNbyx2ndmRYXNp",
+     "url": "https://geizhals.de/redir/BAAAAJWvX5iH3vgc48-UWDb-1-xAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0Unfi3p3mfw0m54XnJMgXWgBK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkczx2LhhOSMcH6P0UTL5NBqTktXoDbhgRiXdVogO8KJxaFvQRmQsgkpIvXUzfMPnEXcTS9E4lBc1kE0V0mVkDA8wsqp57m2C9WAtV_fJF0UymDZM_mQiVj-SnRRfBEttmIg",
      "available": null
     },
     {
@@ -1542,7 +1542,7 @@
      "price": 378.9,
      "ship": 15,
      "total": 393.9,
-     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0Nbwxi3nwiUQxV9uHgBMGm_rXlvBoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-Pes5BXBhPwS8sX8sLTZ_ezgjtI67yU0GA_46xbdUSYk8pJR6YyUML2gTiy33FgFlyfSzO-IL0P3ciJ5dTeqVK4d9",
+     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0Nbwxi3nwiUQxV9uHgBMGm_rXlvBoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-Pev91O_PHiE1r7jAqvOax-HNtI67yU0GA_46xbdUSYk8pLHhUyjiIqw9nMgXUr8oilv7jplvdUh-odPkb3hkFaqJYJxVDngFmIfcNJIYniflEw",
      "available": null
     },
     {
@@ -1550,7 +1550,7 @@
      "price": 379,
      "ship": 7.99,
      "total": 386.99,
-     "url": "https://geizhals.de/redir/BAAAALSUbqeoXKSRh-8ms1GCzqHVJR-ac2M9eK5HinV7oPHTWbVtBreBkvrtS53-tFLbwdn6_rB7aagytXfCciHe8RCoHLwi-ytT0IYy77eJ9yVb7Vw2HOM4MxvD7tudu_MesmOJcoswa95P-yBrM-vxjUf7c0NQPRoiaKHFF4tStRrMKQpI-kDNcvh7cAYePDVP-MD5PzxSbsm1Y3mEc9j2MUBnh6bO9bsQUeTpjlNd4lvWuhn0XprAxNI9GNRb1UZGjvRUBjZL4njCHFJa7_EL664",
+     "url": "https://geizhals.de/redir/BAAAALSUbqeoXKSRh-8ms1GCzqHVJR-ac2M9eK5HinV7oPHTWbVtBreBkvrtS53-tFLbwdn6_rB7aagytXfCciHe8RCoHLwi-ytT0IYy77eJ9yVb7Vw2HOM4MxvD7tudu_MesmOJcoswa95P-yBrM-vxjUf7c0NQPRoiaKHFF4tStRrM34ztNlV7kHIWPyOBMJIc28D5PzxSbsm1Y3mEc9j2MUCruywrykYmaLraI-MCjCBIwz4rUJq_mGtjUj6LCWmztMFJP6FM66I_lp1nTPlXT5SLdLdodAwn-4Qq8_TaPbwM",
      "available": true
     },
     {
@@ -1558,7 +1558,7 @@
      "price": 386.98,
      "ship": 6.9,
      "total": 393.88,
-     "url": "https://geizhals.de/redir/BAAAAFUNlEa9YW-A7QTqg9wNIG4z4Yhdnd7F-LrS0M81FLig3L6Zi0tbj6fphdoOwLLAt9a3xHQebmljn8LmKfE-RFjpzGjEdJ9rmLkH_pFopQDrP_BdzhEWCly8ZNUyJJc9kue_F9tkx7TF2gsiZneNnkIRqk_wy6fpR3ZGpAX2zbT0",
+     "url": "https://geizhals.de/redir/BAAAAFUNlEa9YW-A7QTqg9wNIG4z4Yhdnd7F-LrS0M81FLig3L6Zi0tbj6fphdoOwLLAt9a3xHQebmljn8LmKfE-RFj8xxs1kqK6DsiEpo5fPLLmP_BdzhEWCly8ZNUyJJc9ktyFDvoO8HEmrKjY4WiGEHtTr5UuvjPLcR1J9_f8G-gZcIPHWm8lqA9iGVTgUU93S6S5r42-1WLVsCs53-APeJQ",
      "available": null
     },
     {
@@ -1566,7 +1566,7 @@
      "price": 388.44,
      "ship": 5.99,
      "total": 394.43,
-     "url": "https://geizhals.de/redir/BAAAADqm1Z3CtpQnKPU48jHvO-9sYl-YaYVjVGULCne3NIZgjnHcWq_KGOvXL_wZdLTGV7LzohC6BTEl15c_AQpSsow5889G1LeeBIawSLu8MbR3_1PMlgznws-srudh7-Lu7KOuOkv2WNHPM_6td7g1zbo4dTtRpx_zIuOLd1B2WEM7FvQRmQsgkpIvXUzfMPnEXXCn9-0D9epoOPVzQq1QY7tLjqwu5DKNbyx2ndmRYXNp",
+     "url": "https://geizhals.de/redir/BAAAADqm1Z3CtpQnKPU48jHvO-9sYl-YaYVjVGULCne3NIZgjnHcWq_KGOvXL_wZdLTGV7LzohC6BTEl15c_AQpSsow5889G1LeeBIawSLu8MbR3_1PMlgznws-srudh7-Lu7KOuOkv2WNHPM_6td7g1zbrJRq254ld3q-fkiVzh7zfoFvQRmQsgkpIvXUzfMPnEXUug5RPKqhDufRZtxJW_ufYsqp57m2C9WAtV_fJF0UymDZM_mQiVj-SnRRfBEttmIg",
      "available": true
     },
     {
@@ -1574,7 +1574,7 @@
      "price": 388.45,
      "ship": 5.99,
      "total": 394.44,
-     "url": "https://geizhals.de/redir/BAAAAHtDiO_LD5COBVR84HtavvZe8sxOa-FochHih7CnQhJzlM_cTG9aPKbLoSq1gQWURl1fxwxdbsyAAzhG59O5-Q8C161WvExZRFN3dslhN22P2OckCsGQbKnWqImdUVWm5SBwOUVLyKhGRO9jTotuiK4l-2BXtkp0RQyMsQavijKGHevGP1Arzx00kHT8IddHQxyO3pCXB-_fM1zNTPjJrTAf4_sE8JxKer6TwXozMNxp",
+     "url": "https://geizhals.de/redir/BAAAAHtDiO_LD5COBVR84HtavvZe8sxOa-FochHih7CnQhJzlM_cTG9aPKbLoSq1gQWURl1fxwxdbsyAAzhG59O5-Q8C161WvExZRFN3dslhN22P2OckCsGQbKnWqImdUVWm5SBwOUVLyKhGRO9jTotuiK7z-uG7Hstx5TSoNXLnrZ9uHevGP1Arzx00kHT8IddHQ0xJxt-xk4WMR5_cs2O9EGn8aisfBoseYnu3Vcqp0rFVvD-LcS8O3HVK-fMzCOiRlg",
      "available": true
     },
     {
@@ -1582,7 +1582,7 @@
      "price": 388.71,
      "ship": 2.99,
      "total": 391.7,
-     "url": "https://geizhals.de/redir/BAAAAAXuMqMPMYGMOwwHgW-JlfDrbsyFKXy9mYaxEfKCmfET6VKDzD0Ty2PsDlu2YnphQfP8Loimb3JYkTC6PSSLVlMZRLF9395OSTILgmqyW1Lmyxh6W3BFzvL-B7lRFGcjti_vf9aPsYNZDkPNOe5O6chv45Z0FJd6jstB-SwbGs0VD10IlBw9KIyP7DbrXb-k9x1wwmSLgMbvJFy80Ps_1XngFJwo0HltIy4xxTkymODmgHRvs0tqQgH83XQ1XzSSoA",
+     "url": "https://geizhals.de/redir/BAAAAAXuMqMPMYGMOwwHgW-JlfDrbsyFKXy9mYaxEfKCmfET6VKDzD0Ty2PsDlu2YnphQfP8Loimb3JYkTC6PSSLVlMZRLF9395OSTILgmqyW1Lmyxh6W3BFzvL-B7lRFGcjti_vf9aPsYNZDkPNOe5O6chv45Z0FJd6jstB-SwbGs0Vxw_pL330kYA8dQgAZAxHogGXIL9Kk-E59Q2EO_44P343C9fN_LPuWywawKac8-XpefiTU584qfH1S9ohsiJD-sNazl9wZiwSEsPYxe9-JpI",
      "available": null
     },
     {
@@ -1590,7 +1590,7 @@
      "price": 393.9,
      "ship": 4.99,
      "total": 398.89,
-     "url": "https://geizhals.de/redir/BAAAANoXtUq1ghioCDOdciVG01fDjEge4NaeMB6OXfNDPhvUi-yQGm2mQPLsxaGZy_zrvOdB_H0J6-1v0N8XasOT-RPXp6FCTS4jqFCEak4lD6yvvlrVU4P0BhwXFI-zpxuuXLGdg1plHjh8iKV_8o2Uy22fQMLCb9Z0Gd1CuHUtS610PsfEu3aJzO50WpKoyEQkWxXgTGgNTepeU6wA-5OSWAGhB-jiawaZIl27i5QJbvQ2GYqtCe3QKN0OPe5_ZJhP9fMfJjaCdnOL6-HSZK2om7twX7yai9srXV0QURbM8h7M",
+     "url": "https://geizhals.de/redir/BAAAANoXtUq1ghioCDOdciVG01fDjEge4NaeMB6OXfNDPhvUi-yQGm2mQPLsxaGZy_zrvOdB_H0J6-1v0N8XasOT-RPXp6FCTS4jqFCEak4lD6yvvlrVU4P0BhwXFI-zpxuuXLGdg1plHjh8iKV_8o2Uy22fQMLCb9Z0Gd1CuHUtS610PsfEu3aJzO50WpKoyEQkWxXgTGgNTepeU6wA-5OSWAHJCWRR0owcNgFXD4pgvDRhGYqtCe3QKN0OPe5_ZJhP9XisH968sk2NZCK1rHvlyI7Bub2jZwRIjg5KsbP3rzaQbBsf5OptHej2QhvRPdGsdg",
      "available": true
     },
     {
@@ -1598,7 +1598,7 @@
      "price": 399,
      "ship": 4.15,
      "total": 403.15,
-     "url": "https://geizhals.de/redir/BAAAAMqWVVHbHRA0vRTpifmItqO7pt1Q5W2bdNQlXcuAGaX73wYHZZvr0Y2V5KTo3-myMkI-CG6l5uVpB1PWBwIwijOSKTXwsH7CvyLvyAtgMM0HPYYpvazSG9fo2yeKhY0u7UWeW7Cfb0FCes_b8dd2CCoKHO8hgZzNOQVGFl8mm5KY87cEMa9mhUOvw03BZLjRJuLGLgTJVhQEc0ebkFMW0c4zHhFBd8qyJVxzwu9yaLTn1sRRSJ3gAOwkru29kCSVj6IdRKk-IqR2YqNE2OwV442zO-IL0P3ciJ5dTeqVK4d9",
+     "url": "https://geizhals.de/redir/BAAAAMqWVVHbHRA0vRTpifmItqO7pt1Q5W2bdNQlXcuAGaX73wYHZZvr0Y2V5KTo3-myMkI-CG6l5uVpB1PWBwIwijOSKTXwsH7CvyLvyAtgMM0HPYYpvazSG9fo2yeKhY0u7UWeW7Cfb0FCes_b8dd2CCoKHO8hgZzNOQVGFl8mm5KY87cEMa9mhUOvw03BZLjRJuLGLgTJVhQEc0ebkFMW0c7ZSV4IxJighrst-SrSQG8Y1sRRSJ3gAOwkru29kCSVj2a6pQyefbaVYuc7pKzq_d37jplvdUh-odPkb3hkFaqJYJxVDngFmIfcNJIYniflEw",
      "available": null
     },
     {
@@ -1606,7 +1606,7 @@
      "price": 399,
      "ship": 6.19,
      "total": 405.19,
-     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg1827HMrZprmFq2-F0SEsJI9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurTyCE13qx77fTj_ZmNSVGXJr_L1civMEcx96o1C71Df8d0k3ZD2mZ03tfiuckW5i_AQN756LFeSsrk5ccvCmpQW3gFJwo0HltIy4xxTkymODmgHRvs0tqQgH83XQ1XzSSoA",
+     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg1827HMrZprmFq2-F0SEsJI9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurTyCE13qx77fTj_ZmNSVGXJqIJapbimh2g3IF7uJd-L3TkMsc-xbS4d8X0VDJ2BQ0loSD8EcBFxfGHUJfdOEH1vY3C9fN_LPuWywawKac8-XpefiTU584qfH1S9ohsiJD-sNazl9wZiwSEsPYxe9-JpI",
      "available": null
     },
     {
@@ -1614,7 +1614,7 @@
      "price": 399.46,
      "ship": 14.9,
      "total": 414.36,
-     "url": "https://geizhals.de/redir/BAAAACSCsIyQ78B8lZA5RT7ViUTDjEge4NaeMB6OXfNDPhvUkIRVTdwVXfJfQdQhj7Pfk_q7jecigO3Y2mAbPmZbEAQz9WhqpMYn5kg2bsp0x71l91TZXUwNaUSCkKm8iTquoMD5PzxSbsm1Y3mEc9j2MUDIqNxqduhjL5-XovsXR7slVoafb3C3aDBR4nF_tNgj5NlB3d7Ty4JgNd9vF5c4aOs",
+     "url": "https://geizhals.de/redir/BAAAACSCsIyQ78B8lZA5RT7ViUTDjEge4NaeMB6OXfNDPhvUkIRVTdwVXfJfQdQhj7Pfk_q7jecigO3Y2mAbPmZbEAQz9WhqpMYn5kg2bsp0x71lBKuQBUI4j8oVWEE9SwMN0MD5PzxSbsm1Y3mEc9j2MUCB-qdWn2A9aO9k_pLJj9Rodk7fQH0dGzthgyDSBC5mOfTYLlNGygfn2NFoUPwfzvsXfyXWcqq0GxBqeeQia0zY",
      "available": null
     },
     {
@@ -1622,7 +1622,7 @@
      "price": 399.9,
      "ship": 5.95,
      "total": 405.85,
-     "url": "https://geizhals.de/redir/BAAAAIeOJa45ZZqY6VCq3S_HNv63e5_FH7l0lZJxBC8zdHYpzpWSYC_1bV0oFU2uSzzbAs1HpfQ-wt2-OEzYIqhE0YCLg3d1-aLHXHpojhpGCRBL_uc3Z-_7CfY_Z34ZwovoY_dSfowZ0bRkwgM69LK0DYOP6ENx_6MbTqN1N7S1FtQtZR4QmxwBXhG_9zjiz-RkxlhE97ooQ6pKmSDzvN9AHi3ms2XyUPGKgoAQcUkFaRZzgVuF9ZIkXlpThZc1qIRw9-IORyYXGLxqApDE9TcKoBCwjzg20g82bgu4jSH2rh1c",
+     "url": "https://geizhals.de/redir/BAAAAIeOJa45ZZqY6VCq3S_HNv63e5_FH7l0lZJxBC8zdHYpzpWSYC_1bV0oFU2uSzzbAs1HpfQ-wt2-OEzYIqhE0YCLg3d1-aLHXHpojhpGCRBL_uc3Z-_7CfY_Z34ZwovoY_dSfowZ0bRkwgM69LK0DYOP6ENx_6MbTqN1N7S1FtQtZR4QmxwBXhG_9zjiz-RkxlhE97ooQ6pKmSDzvN9AHi2cL_nK2mNaEKyCBpSzELLQgVuF9ZIkXlpThZc1qIRw96aA0G3u5GMDuNMXefvUbtVuFixRZmLOnEQjdg_42lRbfTEE5hfp5XH9Dh1uiVRz8w",
      "available": true
     },
     {
@@ -1630,7 +1630,7 @@
      "price": 399.99,
      "ship": 6.99,
      "total": 406.98,
-     "url": "https://geizhals.de/redir/BAAAAPbpsYrcnhpTMCnRVnmt03RpS-29gXGyCUO1tzVwHBUmB1hgtWcxJqqkMzPFQF4mLa7FzZ3hibL16Xj9IFy1Qu5JD2zXkjB3Q95xgZv46z8AOOImjfkS8FaqT5HhH-4H8Vlkm23jaUN7i_48GfpoLBpSEzLhxqeyQLYIXY6YvXiYqtzzP1iR1C-ZB7HnRPJ2U2Zx3NTrpMst9K7324L1glQZEaXH8feuk0g1OXGMPC-KcF-8movbK11dEFEWzPIezA",
+     "url": "https://geizhals.de/redir/BAAAAPbpsYrcnhpTMCnRVnmt03RpS-29gXGyCUO1tzVwHBUmB1hgtWcxJqqkMzPFQF4mLa7FzZ3hibL16Xj9IFy1Qu5JD2zXkjB3Q95xgZv46z8AOOImjfkS8FaqT5HhH-4H8Vlkm23jaUN7i_48GfpoLBpSEzLhxqeyQLYIXY6YvXiYIf-zDvmDEeVWc5WofThKfmZx3NTrpMst9K7324L1glRrdDQsySc0EqSLvKF6pHwWwbm9o2cESI4OSrGz9682kGwbH-TqbR3o9kIb0T3RrHY",
      "available": null
     },
     {
@@ -1638,7 +1638,7 @@
      "price": 406.49,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAEqPsbtYqjTINnPOq5TI5do9JUo_HymXTtRNecqS_XIlWbVtBreBkvrtS53-tFLbwfGOlgEhsZj8h7UE3I5tccN5Bu7kxHMX6nl7_uk_nEW8s0b6Swbh4mvuuBKEnpif81fKpCDQt-pvKcwWHzY0o4JJDiSCuJGNnmMbG_sUjaOE9YKzBtHXEL543oqP6RIaJ-wi8BZCXGdjSJlkfCDnfG4jEui2MxwT4CcYI9d1VfxwbfBTUxxUxZdyOXYXgy4SFbM74gvQ_dyInl1N6pUrh30",
+     "url": "https://geizhals.de/redir/BAAAAEqPsbtYqjTINnPOq5TI5do9JUo_HymXTtRNecqS_XIlWbVtBreBkvrtS53-tFLbwfGOlgEhsZj8h7UE3I5tccN5Bu7kxHMX6nl7_uk_nEW8s0b6Swbh4mvuuBKEnpif81fKpCDQt-pvKcwWHzY0o4JJDiSCuJGNnmMbG_sUjaOE9YKzBtHXEL543oqP6RIaJ4f9DyJFk5y3jx79mMAM5X8jEui2MxwT4CcYI9d1Vfxwq6k59MmIWICuwYuW88m14PuOmW91SH6h0-RveGQVqolgnFUOeAWYh9w0khieJ-UT",
      "available": null
     },
     {
@@ -1646,7 +1646,7 @@
      "price": 407.25,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAIXPeXpxLT9Y4COTDWggjzlFnTgwMn5qDdytpx8dukbAt5oqa09lmIsgx6fDCEEmnAGhpeV8EXeuxv5pBfrSyvNF5ZcXE-x6VT1SACw6oiQXPwa4daEwpBYBYZvBOm4gXSY2MHNPEkzbV8wDmS53-ddG38G9wqK4zny9yiHddk25EPYOkH_Db_ZkvkL5EG6XceuVrxN-efvzlPm9gPPnuBYOfLUMkj4i60u56XeC4YnzXPL1vWnLoQHs7thfFLFQRv-Xfus9eIQ_lVKzjhIviG_V7-DclkAzJQXQBwUbI1yFZi5jktf5hkAAYmI3HCy-_B_j-wTwnEp6vpPBejMw3Gk",
+     "url": "https://geizhals.de/redir/BAAAAIXPeXpxLT9Y4COTDWggjzlFnTgwMn5qDdytpx8dukbAt5oqa09lmIsgx6fDCEEmnAGhpeV8EXeuxv5pBfrSyvNF5ZcXE-x6VT1SACw6oiQXPwa4daEwpBYBYZvBOm4gXSY2MHNPEkzbV8wDmS53-ddG38G9wqK4zny9yiHddk25EPYOkH_Db_ZkvkL5EG6XceuVrxN-efvzlPm9gPPnuBYOfLUMkj4i60u56XeC4YnzXPL1vWnLoQHs7thfFLFQRuU5hYAQdN6fIIAgtmzgjOTV7-DclkAzJQXQBwUbI1yFSQVhsgunlsmkSkxItS_oSPxqKx8Gix5ie7dVyqnSsVW8P4txLw7cdUr58zMI6JGW",
      "available": null
     },
     {
@@ -1654,7 +1654,7 @@
      "price": 407.85,
      "ship": 2.04,
      "total": 409.89,
-     "url": "https://geizhals.de/redir/BAAAACoxfSPfpl2_VANxr9IuOKxUqPNmo8-uerWcG-FrbYxp636REYFaTmCqWS-kQuyzQbYFT-2GNeQ6z63dDaFbDzQDY8e3BldSBZyzPKHJTpMy0lX90NexImt_qym30E6FA5l0AoY0HLieT04rDVP1U7HfWDkRyKohbad14X44vOFIbcjITXoRo21uDxTLS339llqZ-kg58GheQVq4nn20hwtZPS1r8S08rltiZWn0oTX6NKjM9crEr6eHpyPbr4cCCztOlYZ7OP27r_O4mLrquZfqBhZDPGEEfNMEK2M_R612D10IlBw9KIyP7DbrXb-k92TH-pkS7S8GBEVIZvsANYX6n_dNYVlDEQPosEwYgEkYM0CurQoxEuP5f5pUYSoOcw",
+     "url": "https://geizhals.de/redir/BAAAACoxfSPfpl2_VANxr9IuOKxUqPNmo8-uerWcG-FrbYxp636REYFaTmCqWS-kQuyzQbYFT-2GNeQ6z63dDaFbDzQDY8e3BldSBZyzPKHJTpMy0lX90NexImt_qym30E6FA5l0AoY0HLieT04rDVP1U7HfWDkRyKohbad14X44vOFIbcjITXoRo21uDxTLS339llqZ-kg58GheQVq4nn20hwtZPS1r8S08rltiZWn0oTX6NKjM9crEr6eHpyPbr4cCCztOlYZ7OP27r_O4mLrquZfqBhZDPGEEfNMEK2M_R612xw_pL330kYA8dQgAZAxHomTH-pkS7S8GBEVIZvsANYXm-NzqGcVJoaRazEJ928KH6TY9z59QI_AzTvm-UoxcbZK-5lv6joxCSlfnAnfUFyw",
      "available": true
     },
     {
@@ -1662,7 +1662,7 @@
      "price": 408.9,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAOw7-Y_zz7VIcFHaZtqOsNn7d8H9nEJn91q5P6WGPDapcwsa8RaEjquQRVaQ53lfei_82qpQh7caKJxJJESDEuNRLfJZcmIKWL9bkH3PwC-lHjIfogsYzcUcvZGt6OO4FRmcdx5RvLUJxau8k2BHZEY5aLA6GKgH0F_yHNMwDIrxLYIySWc0AonV9Ey8AaZV4hb0EZkLIJKSL11M3zD5xF32Jf-O8R3ela_bbdrjKkXiS46sLuQyjW8sdp3ZkWFzaQ",
+     "url": "https://geizhals.de/redir/BAAAAOw7-Y_zz7VIcFHaZtqOsNn7d8H9nEJn91q5P6WGPDapcwsa8RaEjquQRVaQ53lfei_82qpQh7caKJxJJESDEuNRLfJZcmIKWL9bkH3PwC-lHjIfogsYzcUcvZGt6OO4FRmcdx5RvLUJxau8k2BHZEY5aLA6GKgH0F_yHNMwDIrxaz2tvx6X4FfuyfEh35DwqBb0EZkLIJKSL11M3zD5xF09vnKYVl54efntG-T2SVExLKqee5tgvVgLVf3yRdFMpg2TP5kIlY_kp0UXwRLbZiI",
      "available": null
     },
     {
@@ -1670,7 +1670,7 @@
      "price": 411.9,
      "ship": 2.06,
      "total": 413.96,
-     "url": "https://geizhals.de/redir/BAAAAPF5tdg2tdsMCNA8bM9cT-rauVfASHIoQYMHnkctPBQ01yfkLhDG93y1fZEs8Lr3KknRa3OGbe4_aV6wks29B3oyD-BU7LQWqHfmXcLicvDIbYC-wUe8wyyTva8-fYXjpvd2gfy_7OTwAJnhXfYi7Xuc5u-pXfqYf2dZ5Cv5oVhdXSht09wAFBM2WeP3SQxqPfcbd8uetxav11rFiOSK0jOnwz9FgB_RZuc39OkVkhUk9LfIxGwRJyehm8MTKwGvObFwKO27sUXgYwV4dSMU66S4O13l1T-sR90R7wC5PbtRlHi6An8nO7orTD0t9Hx5uzDlSCC2k27UDDqPVMtBWtyAFNU8g_t-J5wlibSmxrMhipDeRUfm4_GUqumgIn4rjg",
+     "url": "https://geizhals.de/redir/BAAAAPF5tdg2tdsMCNA8bM9cT-rauVfASHIoQYMHnkctPBQ01yfkLhDG93y1fZEs8Lr3KknRa3OGbe4_aV6wks29B3oyD-BU7LQWqHfmXcLicvDIbYC-wUe8wyyTva8-fYXjpvd2gfy_7OTwAJnhXfYi7Xuc5u-pXfqYf2dZ5Cv5oVhdXSht09wAFBM2WeP3SQxqPfcbd8uetxav11rFiOSK0jOnwz9FgB_RZuc39OkVkhUk9LfIxGwRJyehm8MTKwGvObFwKO27sUXgYwV4dSMU66S4O13l1T-sR90R7wC5PbtRbtAKWIma2MjS_kVZ7yFVYDDlSCC2k27UDDqPVMtBWtw3SESH9OoIVbkv0_9b8t9guyDnUAfydZUJeRh7w7haVYM9a_qccRtZTIKKIjHrAe0",
      "available": true
     },
     {
@@ -1678,7 +1678,7 @@
      "price": 413.18,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAEQXqoEYKcA2Q2-zMSfWZOxK5VU-JHcA5SCVQ_yP99P3Qc6EM2eNQ02uCwrLv0o5dAzob4Mm6yguq8VEkq-ErKMyu_IAWmYQkvKQ1IvZy2sAtLLGmPRHdxjqGmTYcSIV9FSDBv9XSbfL55tm25w1rxPzLSRyvptWES3QM_wf-ZNJ8tlJi59biOjxMKM5_UE3MLjqSnudRpEnVwhdg-GSS0nJCr-YwjPrhWRfEMi4jhGS",
+     "url": "https://geizhals.de/redir/BAAAAEQXqoEYKcA2Q2-zMSfWZOxK5VU-JHcA5SCVQ_yP99P3Qc6EM2eNQ02uCwrLv0o5dAzob4Mm6yguq8VEkq-ErKMyu_IAWmYQkvKQ1IvZy2sAtLLGmPRHdxjqGmTYcSIV9FSDBv9XSbfL55tm25w1rxM2ikrag3QiKUtnU5CaUoGu8tlJi59biOjxMKM5_UE3MOUH21hfWzye5onwsVyEigiAkc1aMQS4vUv6w1oj2d1YiozlBYcvoyEsu7VZ4Yj3eg",
      "available": true
     },
     {
@@ -1686,7 +1686,7 @@
      "price": 418.9,
      "ship": 6.99,
      "total": 425.89,
-     "url": "https://geizhals.de/redir/BAAAALj3rGCyGN2embETjzS6gs-rKY_e0j4JaOxByTh6UXzRH9000pTXacvDdQ9EayTk9NEIzl82Mm_PIxpQN7n0eF6ZJDkN8DAObmcslpB9e8JbMcVqRbFmTJSZmWOwohD5Dwblc1uXJXT-VSW2pkH8-u325yrm8x5NsMnf5qhMQJ5nDSQ01-9sg5N9LD-34nzZJo3xT91T-znjJMUUAEBrlmD5dhs01f5vQUv4z_cpbTCd",
+     "url": "https://geizhals.de/redir/BAAAALj3rGCyGN2embETjzS6gs-rKY_e0j4JaOxByTh6UXzRH9000pTXacvDdQ9EayTk9NEIzl82Mm_PIxpQN7n0eF6ZJDkN8DAObmcslpB9e8JbMcVqRbFmTJSZmWOwohD5Dwblc1uXJXT-VSW2pkH8-u2Y1QvMUIa046zgwb1Mz7WwDSQ01-9sg5N9LD-34nzZJsHVnEdsY-_wrMHvTfR9UASSW1tpiD-SYjK1LBi6S7UbVxj54fji6YGOiSHe1_Ko29lB3d7Ty4JgNd9vF5c4aOs",
      "available": true
     },
     {
@@ -1694,7 +1694,7 @@
      "price": 419.29,
      "ship": 5.95,
      "total": 425.24,
-     "url": "https://geizhals.de/redir/BAAAAD5-XnBOl4dRmBzC-QdktyHox8lMnxw7Ebe4S0k7pvfgxuk9BDLTA4ioiIopKar9cDzd5JMXwh5z8j6OW2j9r6rSTdkPaZnTe1-K5yRbmL8BlwxfY9FhLo6535QLGDolquAUnCjQeW0jLjHFOTKY4OaAdG-zS2pCAfzddDVfNJKg",
+     "url": "https://geizhals.de/redir/BAAAAD5-XnBOl4dRmBzC-QdktyHox8lMnxw7Ebe4S0k7pvfgxuk9BDLTA4ioiIopKar9cNCYS-MM9SW0dx_YV2vnmFuQyxz7FtLh3xfRUMnYFDSWhh-XmHahGafrktWi423KCTcL1838s-5bLBrAppzz5el5-JNTnzip8fVL2iGyIkP6w1rOX3BmLBISw9jF734mkg",
      "available": true
     },
     {
@@ -1702,7 +1702,7 @@
      "price": 419.88,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAOL9GRWQgUVb5PvAFwnWLt9YrINI-0LSnORjZwN6VEw_at5rteojxmk1bwzv3T0eaSF0JnYld9nO7w6pamwJPLUWtE0-YxkF-Z0jGnexzBNmd-C3cWqqPKzrNbexty2TM8MuAzEXyp5I8Rw7sGaGdu1_F2lHau88ZSQv0qBNd9XtL6HN-Q8jYUEoL119SxiCQfWK4MM7h1GaigriUV4fVJkLmOKkXrkyZ5VOI8CTiFsWjvF_274hrL8yyIJncowipO_yy1nrX8zgMB0UzPL7mRzp27cd05xLd8rpmdrj0CWKG0qTHXaLaOQ-mFqQY4Rgh1gE3dKLgK1JeMj6FIjb4MlErcF_OIPL1mW4VHvwd0z-yQq_mMIz64VkXxDIuI4Rkg",
+     "url": "https://geizhals.de/redir/BAAAAOL9GRWQgUVb5PvAFwnWLt9YrINI-0LSnORjZwN6VEw_at5rteojxmk1bwzv3T0eaSF0JnYld9nO7w6pamwJPLUWtE0-YxkF-Z0jGnexzBNmd-C3cWqqPKzrNbexty2TM8MuAzEXyp5I8Rw7sGaGdu1_F2lHau88ZSQv0qBNd9XtL6HN-Q8jYUEoL119SxiCQfWK4MM7h1GaigriUV4fVJkLmOKkXrkyZ5VOI8CTiFsWjvF_274hrL8yyIJncowipO_yy1nrX8zgMB0UzPL7mRzp27cd05xLd8rpmdrj0CWK3U-5oRsJouuzyOFiC7Vh4VgE3dKLgK1JeMj6FIjb4Mm5kNbvTn5dDbjVfcHZZ3augJHNWjEEuL1L-sNaI9ndWIqM5QWHL6MhLLu1WeGI93o",
      "available": null
     },
     {
@@ -1710,7 +1710,7 @@
      "price": 420.07,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAAff964o6a9DvDrB-CjnKu7YyrBOPaByZu0bnLzxOvEYlYCe7shVVzURqVJHB4MLcj7yvqt-9vPdJcBvalWmxfNVvk06PgiqPc26B9hxV5HBp_fYssxzoBnQT3YrpRsWcyIGJKjI8OnNNuSp0shnqAwNJDTX72yDk30sP7fifNkmoyYp-63YqcpkzNlJQ1OjHPl2GzTV_m9BS_jP9yltMJ0",
+     "url": "https://geizhals.de/redir/BAAAAAff964o6a9DvDrB-CjnKu7YyrBOPaByZu0bnLzxOvEYlYCe7shVVzURqVJHB4MLcj7yvqt-9vPdJcBvalWmxfNVvk06PgiqPc26B9hxV5HBp_fYssxzoBnQT3YrpRsWc_Zclfv-EebtJORtwEMBkpYNJDTX72yDk30sP7fifNkmvt_AbgMtm07fKNS2WNE6S5JbW2mIP5JiMrUsGLpLtRtXGPnh-OLpgY6JId7X8qjb2UHd3tPLgmA1328Xlzho6w",
      "available": true
     },
     {
@@ -1718,14 +1718,14 @@
      "price": 421.89,
      "ship": 9.95,
      "total": 431.84,
-     "url": "https://geizhals.de/redir/BAAAAF9VKhOgTrOvF23Sijtu50sPgsYuHDSMVNGajf_aihrEKXVNjt4PtmEDOqBbjQ4SN6Az2txzdtXOAWfv8SS0r3V5HOJWcGpAGUoJTQ5eOS44GlN-tAyUbjQgcu383ji4BQzEm3yufiveoFIzZDsmjxhp35bOLgvZATx58kJ3sXQNLBdGj4wKNpnYXgi0C1JmW6onrRlzFgjEsCaAGIQG5eTDD7Y3F7YHrac5u5mcgO1gD10IlBw9KIyP7DbrXb-k94pngZ-0jeBglDOWUBusyXz6n_dNYVlDEQPosEwYgEkYM0CurQoxEuP5f5pUYSoOcw",
+     "url": "https://geizhals.de/redir/BAAAAF9VKhOgTrOvF23Sijtu50sPgsYuHDSMVNGajf_aihrEKXVNjt4PtmEDOqBbjQ4SN6Az2txzdtXOAWfv8SS0r3V5HOJWcGpAGUoJTQ5eOS44GlN-tAyUbjQgcu383ji4BQzEm3yufiveoFIzZDsmjxhp35bOLgvZATx58kJ3sXQNLBdGj4wKNpnYXgi0C1JmW6onrRlzFgjEsCaAGIQG5eTDD7Y3F7YHrac5u5mcgO1gxw_pL330kYA8dQgAZAxHoopngZ-0jeBglDOWUBusyXzm-NzqGcVJoaRazEJ928KH6TY9z59QI_AzTvm-UoxcbZK-5lv6joxCSlfnAnfUFyw",
      "available": true
     }
    ],
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-25T17:51:03.896Z",
    "change": {
     "from": 363,
@@ -2029,7 +2029,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-24T11:51:04.543Z",
    "change": {
     "from": 175.86,
@@ -2261,7 +2261,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-28T11:51:04.504Z",
    "change": {
     "from": 656.69,
@@ -2565,7 +2565,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-15T13:38:59.241Z",
    "change": null
   },
@@ -2721,7 +2721,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-27T19:51:04.930Z",
    "change": {
     "from": 1499,
@@ -3017,7 +3017,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-27T19:51:04.930Z",
    "change": {
     "from": 109.19,
@@ -3031,7 +3031,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -3096,7 +3096,7 @@
      "price": 272.21,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAFY4XMbVVXpEZqv2o6_8gg4atGLqg6v_ODnsZ8eFeqUp0FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsSGimp1EBnZ2UoQvgaag07UKNkA9IM5QjoJ-9QrA3jXsEUfYh_40SidJobiM2pFFIejieBvC8LZSLx4DNOWNCEcD5PzxSbsm1Y3mEc9j2MUB80FpbE6j34KEbfJ0i3KXrUktQBCpBgXrtQZHEiTC6n2caSOrhU2imZBo8gx4LQ7T5Bz9gSVq9K3p4aoYyYORN",
+     "url": "https://geizhals.de/redir/BAAAAFY4XMbVVXpEZqv2o6_8gg4atGLqg6v_ODnsZ8eFeqUp0FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsSGimp1EBnZ2UoQvgaag07UKNkA9IM5QjoJ-9QrA3jXsEUfYh_40SidJobiM2pFFIBo38ERtli0Z3XIrBPUOCJ8D5PzxSbsm1Y3mEc9j2MUCzSNOVkt15k0G4NaD5nQBUUnVrRzy42sO8davfCfxzVw",
      "available": null
     },
     {
@@ -3104,7 +3104,7 @@
      "price": 285.47,
      "ship": 9.99,
      "total": 295.46,
-     "url": "https://geizhals.de/redir/BAAAALyJniYqKydx_N2Lzn1cJn_8QJ4XtY1iCgZIZLH84N4uH9l81dsOS2d3oigJNakBf0VGb5ptPDFcA27MaF50D8Nd5xZVv7RKdan19EoEW0rH9q4T68A8tP6HRDE8KUMMXwRuIKP6GVcl2fJ32BihrvkILlQKgmWOVmprhYmbjKYNSwlf2pOYFbbaru0E3P60AGfJtQCZz7R6Qco_q4-v2lCz-AF_gGscH32OAwN7UmA0wWFZf1jH7e0xZqidiI2GnfBY6qZA_0pmViOIwTAKFV6qlKWpjcXfD_c5S7uIvxV-ZQ9AB04iqkNPhL0TZMni-X3CngjjJIEf5WZ-SHrqTIxblw0oEF7XGcVt7gAx7imfZb0RZATwLxhzM9dDELEARxqXAgkeU65tLvOFE4G8AafE4Zx1DdQ7Bq31dOLldHG_eQlBWdh6gmGieQrNmgct6MW8buPbz_X091vystD6MljUg4tsw7CHMeEa0qNuCWD992BK6SKcoGQNCjejFRFMJ7bf_llCIJBzRctcYPOlQFR9NKsUEjlIuByBqDlxOPDUUNNAor_c9fkw6xtC6rBnEA",
+     "url": "https://geizhals.de/redir/BAAAALyJniYqKydx_N2Lzn1cJn_8QJ4XtY1iCgZIZLH84N4uH9l81dsOS2d3oigJNakBf0VGb5ptPDFcA27MaF50D8Nd5xZVv7RKdan19EoEW0rH9q4T68A8tP6HRDE8KUMMXwRuIKP6GVcl2fJ32BihrvkILlQKgmWOVmprhYmbjKYNSwlf2pOYFbbaru0E3P60AGfJtQCZz7R6Qco_q4-v2lCz-AF_gGscH32OAwN7UmA0wWFZf1jH7e0xZqidiI2GnfBY6qZA_0pmViOIwTAKFV6qlKWpjcXfD_c5S7uIvxV-ZQ9AB04iqkNPhL0TZMni-X3CngjjJIEf5WZ-SHrqTIxblw0oEF7XGcVt7gAx7imfZb0RZATwLxhzM9dDELEARxqXAgkeU65tLvOFE4G8AafE4Zx1DdQ7Bq31dOLldHG_eQlBWdh6gmGieQrNmgct6MW8buPbz_X091vystD6MlhP3aNMVEFTlyl4cQOjQIH792BK6SKcoGQNCjejFRFMJ3vwmwi_vY39hXYg6DbsQh0nmQkSg3Ogq9TvXzmOK1Al",
      "available": null
     },
     {
@@ -3112,7 +3112,7 @@
      "price": 289,
      "ship": 8.9,
      "total": 297.9,
-     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzFWPU6XJ67Dmw1jMQhD--VZX-S0OZrwf7TDwRZFEDdvEr00A-5fVEy41BBkCBdJ_yZnq4Beyr9hse5qcae58ESifcb5VoIuFwHPvwWyVRnUQIowUw59RoFkaQUbXs_T6Kv55zHc0tuTvUnYgIdF-KtkXMWq-Z1HmHk8MrukOf7WPs",
+     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzFWPU6XJ67Dmw1jMQhD--VZX-S0OZrwf7TDwRZFEDdvEr00A-5fVEy41BBkCBdJ_yZQ_XnLv2owH6b1Te2PkYvhPcb5VoIuFwHPvwWyVRnUQLYcxUF_xJaJxfK8UDKqV7v2UHd3tPLgmA1328Xlzho6w",
      "available": true
     },
     {
@@ -3120,7 +3120,7 @@
      "price": 289,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAG_xPizE1sx2HD_MWT7vLnHPEU1iX6R5FJuQKjFaRoLzPVusbmTvk4wKpu0ZWiSgDdKJlqRfoCwUPka8XkZXuaXwTvClyacO9Hpc9w_LP4vUPJYdVx-ajWpWRv2JoVWR7sD5PzxSbsm1Y3mEc9j2MUDjLABqxWUeYuTXyh1EfRnJUktQBCpBgXrtQZHEiTC6n2caSOrhU2imZBo8gx4LQ7T5Bz9gSVq9K3p4aoYyYORN",
+     "url": "https://geizhals.de/redir/BAAAAG_xPizE1sx2HD_MWT7vLnHPEU1iX6R5FJuQKjFaRoLzPVusbmTvk4wKpu0ZWiSgDdKJlqRfoCwUPka8XkZXuaXwTvClyacO9Hpc9w_LP4vUMX9uxo7UF578-yHxh497ksD5PzxSbsm1Y3mEc9j2MUAcFtBz-9YHNt_bGs16xvpNUnVrRzy42sO8davfCfxzVw",
      "available": true
     },
     {
@@ -3128,7 +3128,7 @@
      "price": 297.8,
      "ship": 15,
      "total": 312.8,
-     "url": "https://geizhals.de/redir/BAAAAJWvX5iH3vgc48-UWDb-1-xAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0UFnQMt9RYpwhfLW07MoL_nhK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkczx2LhhOSMcH6P0UTL5NBqSLG7AlNeCedjdbEYflLMx4H_aiJSa4lHTz7djnSej0I9FGXVCnlMU_1RmHd3HA3UXWkh1coL41jxJ4ZTc4Q6ckB6LNOf-ecK8p0m8Eu_wToON50PpqPuupJ3xJxt1k7eM",
+     "url": "https://geizhals.de/redir/BAAAAJWvX5iH3vgc48-UWDb-1-xAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0UFnQMt9RYpwhfLW07MoL_nhK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkczx2LhhOSMcH6P0UTL5NBqQ8L7si8et8Rz_TyDUa5KbaH_aiJSa4lHTz7djnSej0I9OXC89fxDfjK_6vbpJSJyMqS-ApmA6L57e2tGGd9SUa",
      "available": true
     },
     {
@@ -3136,7 +3136,7 @@
      "price": 297.8,
      "ship": 15,
      "total": 312.8,
-     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0NbwxiOw6_1KDCYVhECObb3eoxsxoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-PeuFETW3ZY7_2Ha9ljYbthB35DnTTZqwhh9SO9K_bjquPgHVXi-Kn8OJZxfH2o1Hzsk-YaRomFpmwuiINvUTDXBgtXaT91hUkt2LEIWKqf0dlg",
+     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0NbwxiOw6_1KDCYVhECObb3eoxsxoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-PesLtMqhUG4z6tl_IwdS4VNH5DnTTZqwhh9SO9K_bjquPndFmkrsGdzZvEd0EGvmEMd4vm0D94OZyjNGc85yDdQH",
      "available": true
     },
     {
@@ -3144,7 +3144,7 @@
      "price": 297.9,
      "ship": 5.99,
      "total": 303.89,
-     "url": "https://geizhals.de/redir/BAAAAAGUTbm8BThITTdVZImdyttdAUf0Gdn4RVnXmEXCGn4gzs_B7P4SBIipO3Qf1TUhHgzvs5AknuVRt9kE66Mvg0Kk6exk3y-Yuk2r2hSeAPglEbLDLDxIQzgxmGCXl4flMc3zb-Vn0fO-esLviuDf7KZX79EVsTcOMrbppopV9pnjxOGcdQ3UOwat9XTi5XRxv79-fbovjidQ4rJyh-BJqcTc1NwP1b0nMeExDG9eBhkrXH08c2L32fY2F-7dCdrUgamRur7FkkPzXeox5_np3ID5AB1XEixoNRxwqX85oeNuFUgfLDml_9Hez0VQ6eYLEtlB3d7Ty4JgNd9vF5c4aOs",
+     "url": "https://geizhals.de/redir/BAAAAAGUTbm8BThITTdVZImdyttdAUf0Gdn4RVnXmEXCGn4gzs_B7P4SBIipO3Qf1TUhHgzvs5AknuVRt9kE66Mvg0Kk6exk3y-Yuk2r2hSeAPglEbLDLDxIQzgxmGCXl4flMc3zb-Vn0fO-esLviuDf7KZX79EVsTcOMrbppopV9pnjxOGcdQ3UOwat9XTi5XRxv79-fbovjidQ4rJyh-BJqcTNP-kACScyUWXVgY8EAAvFXH08c2L32fY2F-7dCdrUgfLOhHk9oluM9RMcyCiv6lIZXYHw7HQX3C8ohtn34NyX",
      "available": true
     },
     {
@@ -3152,7 +3152,7 @@
      "price": 298,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAJ7htEdObOTljaDPwzl3s4ZAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0UFnQMt9RYpwhfLW07MoL_nhK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkcysxhuNJHtwqp066e6A3hV3mYoCFaM3MYtpF7cdYYShyBZQ4nr6Zl4h2DSF4CaJz9J6uAXsq_YbHuanGnufBEom39LcN7VoCq1m5I6GNh4ifKMFMOfUaBZGkFG17P0-ir-ecx3NLbk71J2ICHRfirZFzFqvmdR5h5PDK7pDn-1j7",
+     "url": "https://geizhals.de/redir/BAAAAJ7htEdObOTljaDPwzl3s4ZAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197WcelnLdr0OAijvCsl3Ii3utbcm7q8ARqMJJ0Vu7rvYYN0UFnQMt9RYpwhfLW07MoL_nhK79NjuWN-4t9VMmRh_BQ0qKZdj6qD6rPQarRvAz9_2MWaRN0msWTGn9l8wH3nkcysxhuNJHtwqp066e6A3hV3mYoCFaM3MYtpF7cdYYShyBZQ4nr6Zl4h2DSF4CaJz9EP15y79qMB-m9U3tj5GL4S39LcN7VoCq1m5I6GNh4if2HMVBf8SWicXyvFAyqle79lB3d7Ty4JgNd9vF5c4aOs",
      "available": true
     },
     {
@@ -3160,7 +3160,7 @@
      "price": 299,
      "ship": 7.99,
      "total": 306.99,
-     "url": "https://geizhals.de/redir/BAAAAJUgTqT5TJsm3jp7kgiwS0bVJR-ac2M9eK5HinV7oPHTj2c6pbgSLyoKm_uTGGSRJdn6_rB7aagytXfCciHe8RBtfeG2bIZlJzptimDazqhF75KifWLg8ydFX1scVrDm5rrZXxJJe3KHxkhlGkhEOCN9PyyYW1ptueJtfrk9v-VhK7IDASO3UVUXCmQM1xgdWFqeqjU_MMACLBv9gb6_SOrSgZJSlXQmx5BZdQ0cv-j--QAdVxIsaDUccKl_OaHjbhVIHyw5pf_R3s9FUOnmCxLZQd3e08uCYDXfbxeXOGjr",
+     "url": "https://geizhals.de/redir/BAAAAJUgTqT5TJsm3jp7kgiwS0bVJR-ac2M9eK5HinV7oPHTj2c6pbgSLyoKm_uTGGSRJdn6_rB7aagytXfCciHe8RBtfeG2bIZlJzptimDazqhF75KifWLg8ydFX1scVrDm5rrZXxJJe3KHxkhlGkhEOCN9PyyYW1ptueJtfrk9v-VhiChRRPGJt88_pV_s57B7-FqeqjU_MMACLBv9gb6_SOqXOgMcnw6tbQD3W0Ymk-pmGV2B8Ox0F9wvKIbZ9-Dclw",
      "available": true
     },
     {
@@ -3168,7 +3168,7 @@
      "price": 299,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAIXPeXpxLT9Y4COTDWggjzlFnTgwMn5qDdytpx8dukbAyYzhfXAQD42MEbnVES-f3hnvGlk4wcXX2xNr-G6-5EBF5ZcXE-x6VT1SACw6oiQXVxIyGpO0zdSUvYufgt3czCY2MHNPEkzbV8wDmS53-ddG38G9wqK4zny9yiHddk25EPYOkH_Db_ZkvkL5EG6XceuVrxN-efvzlPm9gPPnuBYOfLUMkj4i60u56XeC4YnzXPL1vWnLoQHs7thfFLFQRgWMfMUN6qk8o8hfRK3HIBmlzpjQw5u7UNOeYBP4rRCX2IJQq39ZdClSeBdZA73P1eTYDoy1Fg8tZs9GBukWo0ExepNH4IALD-PVuhHy_9Jm",
+     "url": "https://geizhals.de/redir/BAAAAIXPeXpxLT9Y4COTDWggjzlFnTgwMn5qDdytpx8dukbAyYzhfXAQD42MEbnVES-f3hnvGlk4wcXX2xNr-G6-5EBF5ZcXE-x6VT1SACw6oiQXVxIyGpO0zdSUvYufgt3czCY2MHNPEkzbV8wDmS53-ddG38G9wqK4zny9yiHddk25EPYOkH_Db_ZkvkL5EG6XceuVrxN-efvzlPm9gPPnuBYOfLUMkj4i60u56XeC4YnzXPL1vWnLoQHs7thfFLFQRu2NleFnrjTtudrX064RqXWlzpjQw5u7UNOeYBP4rRCXfxDA_WJcM874MxvxrOAfoGM4wV4BFpwTbJKzSkYpqnU",
      "available": null
     },
     {
@@ -3176,7 +3176,7 @@
      "price": 301.01,
      "ship": 5.99,
      "total": 307,
-     "url": "https://geizhals.de/redir/BAAAAEVXgJ0j0yv0UkwxCYZH7O9sYl-YaYVjVGULCne3NIZg6o9nL3PIK8uDsQu76vvC5X_uWtOY_FKKxNmjr3NVdDZHCdIrHVsI4-SsVf1oONldF4wIHNE4ERPdDT9n8SD6R3JSbU5AOPDCb3ezo9WdGzTJnxw-I3Wki57bKpf9sqdb4OPwq7Y5znr7m4DhsvBkaawq-wlgjctMT9zrHR3h8DN_aHcLDl49j2P85N6OyJ8GaAjEBId3nBsHCRITIDzaEQ",
+     "url": "https://geizhals.de/redir/BAAAAEVXgJ0j0yv0UkwxCYZH7O9sYl-YaYVjVGULCne3NIZg6o9nL3PIK8uDsQu76vvC5X_uWtOY_FKKxNmjr3NVdDZHCdIrHVsI4-SsVf1oONldF4wIHNE4ERPdDT9n8SD6R3JSbU5AOPDCb3ezo9WdGzQYPPeK5YHZmrqHCJSLcxal4OPwq7Y5znr7m4DhsvBkaceCEQiSZUH3Qvud60sU3P1LdE4Hirj5Otne64j6bD3G",
      "available": true
     },
     {
@@ -3184,7 +3184,7 @@
      "price": 301.02,
      "ship": 5.99,
      "total": 307.01,
-     "url": "https://geizhals.de/redir/BAAAAN_cx68WYxI2QpfrWiqyUPde8sxOa-FochHih7CnQhJzlM_cTG9aPKbLoSq1gQWURo1zpjLr0_JjMIzZ76uerEFn15lulfW1G2M6HOCFjk3H4Tv1yfQIrUX8Rn1fxkX3g9xbpB7bEmjAVDxOX2HxzK7i8fATDD4g6m-b0dDSDcgFac__8dvi3ux2Qpd1uciLZVHWUWwsCgHr-VjvbVAwR7s-YaRomFpmwuiINvUTDXBgtXaT91hUkt2LEIWKqf0dlg",
+     "url": "https://geizhals.de/redir/BAAAAN_cx68WYxI2QpfrWiqyUPde8sxOa-FochHih7CnQhJzlM_cTG9aPKbLoSq1gQWURo1zpjLr0_JjMIzZ76uerEFn15lulfW1G2M6HOCFjk3H4Tv1yfQIrUX8Rn1fxkX3g9xbpB7bEmjAVDxOX2HxzK6EPLQpWL856j40uJX4099Dac__8dvi3ux2Qpd1uciLZZ2b0DCmoESL-zTGXjT2Y654vm0D94OZyjNGc85yDdQH",
      "available": true
     },
     {
@@ -3192,7 +3192,7 @@
      "price": 306.97,
      "ship": 4.15,
      "total": 311.12,
-     "url": "https://geizhals.de/redir/BAAAAMqWVVHbHRA0vRTpifmItqO7pt1Q5W2bdNQlXcuAGaX73wYHZZvr0Y2V5KTo3-myMjUXd6khMY21sU0EARt5sga1DFn5rrplD3UdcewfzLKOnk11bIOiceabrhE0W8O-4kWeW7Cfb0FCes_b8dd2CCqRYKFNKqv0M7z5GTZS9AwXnYG9stKVdE_Ro-3vSxR77aK93Rfn3l0WcDIIUXVFOmujSDpOwiCrcfq32gfgSH1ujUi96XYipijpZ-s2zljJ2FUCQK6Gh03JWR3BoAhGAzap8TSRgyLb60A4lKRi7DDH8rzwFEnYfTCe3nsmkS14CQ",
+     "url": "https://geizhals.de/redir/BAAAAMqWVVHbHRA0vRTpifmItqO7pt1Q5W2bdNQlXcuAGaX73wYHZZvr0Y2V5KTo3-myMjUXd6khMY21sU0EARt5sga1DFn5rrplD3UdcewfzLKOnk11bIOiceabrhE0W8O-4kWeW7Cfb0FCes_b8dd2CCqRYKFNKqv0M7z5GTZS9AwXnYG9stKVdE_Ro-3vSxR77aK93Rfn3l0WcDIIUXVFOmtrpVLT33iwWV646bxm1rLnjUi96XYipijpZ-s2zljJ2LcL4tVz6f0SDgwkNV4ZPFBFpQMJ7CNoDKsVYeUgu531",
      "available": null
     },
     {
@@ -3200,7 +3200,7 @@
      "price": 306.98,
      "ship": 6.9,
      "total": 313.88,
-     "url": "https://geizhals.de/redir/BAAAAFUNlEa9YW-A7QTqg9wNIG4z4Yhdnd7F-LrS0M81FLig3L6Zi0tbj6fphdoOwLLAt6BYyAaLLWEpGbtNL_1bD4DtudA5C-kuhfbnal9018gC92BK6SKcoGQNCjejFRFMJ_ADqKCEYw2cmGivvmWrpFzWkh1coL41jxJ4ZTc4Q6ckB6LNOf-ecK8p0m8Eu_wToON50PpqPuupJ3xJxt1k7eM",
+     "url": "https://geizhals.de/redir/BAAAAFUNlEa9YW-A7QTqg9wNIG4z4Yhdnd7F-LrS0M81FLig3L6Zi0tbj6fphdoOwLLAt6BYyAaLLWEpGbtNL_1bD4DjIYsvhwBxby1wrwFk-NeA92BK6SKcoGQNCjejFRFMJ76zI1BCVaBispIWBzsk4N8qS-ApmA6L57e2tGGd9SUa",
      "available": null
     },
     {
@@ -3208,7 +3208,7 @@
      "price": 307.44,
      "ship": 2.99,
      "total": 310.43,
-     "url": "https://geizhals.de/redir/BAAAAA6sfR_Xum1yTqpk6OM6CUjZlI_GIx3wtqnJ5nmy4n6rALfcSNlhdoKiUxZMN6HCwbanjP_2K8RwVH8-5Ka35g_EYViMx7_ucsvNOOwaa03BgQ4-4J45eW8soN24ePuz2yzlywzoQpcew-YrM9i000a-ooDzezI-zADxJfOdk_KEkMsc-xbS4d8X0VDJ2BQ0lrI54BraQ1ypTBpWf0I_ieza22Zal3demIsDK_pnTxOtt3_cK0r23UKJwaG-RIAxpE1n9aSi0zf4kHe-R5ioNEM",
+     "url": "https://geizhals.de/redir/BAAAAA6sfR_Xum1yTqpk6OM6CUjZlI_GIx3wtqnJ5nmy4n6rALfcSNlhdoKiUxZMN6HCwbanjP_2K8RwVH8-5Ka35g_EYViMx7_ucsvNOOwaa03BgQ4-4J45eW8soN24ePuz2yzlywzoQpcew-YrM9i000ZLKW7BqTH8pImw9jx8dhukmadINfkeuWCiWgT3t0qmJ0rpyhCaPJ2XWi5sjp5j80cm6cybZSQWegbEBxZCB1xW",
      "available": null
     },
     {
@@ -3216,7 +3216,7 @@
      "price": 312.19,
      "ship": 14.9,
      "total": 327.09,
-     "url": "https://geizhals.de/redir/BAAAABUypdEYZvO3Exbc7CLw-V4k941q_7HcxQWK7vMHpgiQAG1EPBvnSAQEvxsuXMWPgXy_U2Nn6KcTLqgQWTx9ZiKiwzN474dm85lIQxQoWua16bPRQGCaNWUI1Ol_TCGwRcNP7U4xEt76WqEW4b0uQLrJPQgflN6iJlyBAKLMO__VPmGkaJhaZsLoiDb1Ew1wYLV2k_dYVJLdixCFiqn9HZY",
+     "url": "https://geizhals.de/redir/BAAAABUypdEYZvO3Exbc7CLw-V4k941q_7HcxQWK7vMHpgiQAG1EPBvnSAQEvxsuXMWPgXy_U2Nn6KcTLqgQWTx9ZiKiwzN474dm85lIQxQoWua1hu3sAQsnmX5N9IyXAM3ICcNP7U4xEt76WqEW4b0uQLp6L6fUxOOakvTyDfX9WGKneL5tA_eDmcozRnPOcg3UBw",
      "available": null
     },
     {
@@ -3224,7 +3224,7 @@
      "price": 313.9,
      "ship": 4.99,
      "total": 318.89,
-     "url": "https://geizhals.de/redir/BAAAAPoJE9rZ4j_OXsG0xbsukDMk941q_7HcxQWK7vMHpgiQaDP4CzQtZwIvebCzAuMgRSF6vIPW50TKeWciMiZ_yy7PYQCI_vdzbgOCrLXQxvvDNSMDKDKQcXTQz7EdUi1r-psohBUvd8gYy0zKsi8vZ4GZj2iCwYJhw57HcAWMH1ZAettoeTglxUz09guqQzqADKB9MaHepXKn_qNO2i_svG7HyrRst_I0y3CpczqAuDcrS4KhxN1EZzxn1IZSEvulNOtNm0nrcN84KnJGVgFS9bRScwKDpjC9htbcb7ZxtvGVcyNC2L-6g454dX_dfwMQXg",
+     "url": "https://geizhals.de/redir/BAAAAPoJE9rZ4j_OXsG0xbsukDMk941q_7HcxQWK7vMHpgiQaDP4CzQtZwIvebCzAuMgRSF6vIPW50TKeWciMiZ_yy7PYQCI_vdzbgOCrLXQxvvDNSMDKDKQcXTQz7EdUi1r-psohBUvd8gYy0zKsi8vZ4GZj2iCwYJhw57HcAWMH1ZAettoeTglxUz09guqQzqADKB9MaHepXKn_qNO2i_svG4O562VOPIA65GhgAqSZoB_S4KhxN1EZzxn1IZSEvulNErE82eNAMBHB6rsrJs9HJuxgupNV4mU852WsINh6x_5",
      "available": true
     },
     {
@@ -3232,7 +3232,7 @@
      "price": 314.99,
      "ship": 6.99,
      "total": 321.98,
-     "url": "https://geizhals.de/redir/BAAAAPbpsYrcnhpTMCnRVnmt03RpS-29gXGyCUO1tzVwHBUmB1hgtWcxJqqkMzPFQF4mLXL1TdFtw15JUe_tZP7nAoVJD2zXkjB3Q95xgZv46z8AOOImjfkS8FaqT5HhH-4H8Vlkm23jaUN7i_48GfpoLBpSEzLhxqeyQLYIXY6YvXiYo_oBj7jYtEtPI66oVrxQoP26odyYSuBGPpkflNwwsMQLaIn9WIUbDdXh7fDaG5MII7MXT2b3kcmk6k2wPO6OF9kbtCV4qIz29ehlDFMCAIs",
+     "url": "https://geizhals.de/redir/BAAAAPbpsYrcnhpTMCnRVnmt03RpS-29gXGyCUO1tzVwHBUmB1hgtWcxJqqkMzPFQF4mLXL1TdFtw15JUe_tZP7nAoVJD2zXkjB3Q95xgZv46z8AOOImjfkS8FaqT5HhH-4H8Vlkm23jaUN7i_48GfpoLBpSEzLhxqeyQLYIXY6YvXiYeB2BqBav0gnF_0nAMbbqyP26odyYSuBGPpkflNwwsMQSkIq1hgGLrPo0vSAWu6wB9rVyRKLTs0TTrWdgVk7JeA",
      "available": null
     },
     {
@@ -3240,7 +3240,7 @@
      "price": 316.29,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAEqPsbtYqjTINnPOq5TI5do9JUo_HymXTtRNecqS_XIlj2c6pbgSLyoKm_uTGGSRJfGOlgEhsZj8h7UE3I5tccOcdi0Iiit39ifQURKv0l7ds0b6Swbh4mvuuBKEnpif81fKpCDQt-pvKcwWHzY0o4JJDiSCuJGNnmMbG_sUjaOE9YKzBtHXEL543oqP6RIaJyXns50UdgO-qQb8xBu-XUrNXopRgGolaIIb2ANQB79vr3hXw6Ernb7IknoT8lr14anxNJGDItvrQDiUpGLsMMfyvPAUSdh9MJ7eeyaRLXgJ",
+     "url": "https://geizhals.de/redir/BAAAAEqPsbtYqjTINnPOq5TI5do9JUo_HymXTtRNecqS_XIlj2c6pbgSLyoKm_uTGGSRJfGOlgEhsZj8h7UE3I5tccOcdi0Iiit39ifQURKv0l7ds0b6Swbh4mvuuBKEnpif81fKpCDQt-pvKcwWHzY0o4JJDiSCuJGNnmMbG_sUjaOE9YKzBtHXEL543oqP6RIaJ2B9cMu9QwGv40ofwLutPQfNXopRgGolaIIb2ANQB79vkwtOaRBxXbIa-STQlRkJ7EWlAwnsI2gMqxVh5SC7nfU",
      "available": null
     },
     {
@@ -3248,7 +3248,7 @@
      "price": 320.94,
      "ship": 1.6,
      "total": 322.54,
-     "url": "https://geizhals.de/redir/BAAAAPF5tdg2tdsMCNA8bM9cT-rauVfASHIoQYMHnkctPBQ0VLqEIlh0XjAQHGPQ6joRxib0QdqiTQQZNn3756osWnmVN_mNTY_aU-ODmDaeXmrebYC-wUe8wyyTva8-fYXjpvd2gfy_7OTwAJnhXfYi7Xuc5u-pXfqYf2dZ5Cv5oVhdXSht09wAFBM2WeP3SQxqPfcbd8uetxav11rFiOSK0jOnwz9FgB_RZuc39OkVkhUk9LfIxGwRJyehm8MTKwGvObFwKO27sUXgYwV4dSMU66R_gxUz0yoIO5o7F17QUcftPs823qvbadaSPdbF0hO-HA739bTm4izs0kh11J2raqrLdf7ZumABZcCJc-KNwki6PmGkaJhaZsLoiDb1Ew1wYLV2k_dYVJLdixCFiqn9HZY",
+     "url": "https://geizhals.de/redir/BAAAAPF5tdg2tdsMCNA8bM9cT-rauVfASHIoQYMHnkctPBQ0VLqEIlh0XjAQHGPQ6joRxib0QdqiTQQZNn3756osWnmVN_mNTY_aU-ODmDaeXmrebYC-wUe8wyyTva8-fYXjpvd2gfy_7OTwAJnhXfYi7Xuc5u-pXfqYf2dZ5Cv5oVhdXSht09wAFBM2WeP3SQxqPfcbd8uetxav11rFiOSK0jOnwz9FgB_RZuc39OkVkhUk9LfIxGwRJyehm8MTKwGvObFwKO27sUXgYwV4dSMU66R_gxUz0yoIO5o7F17QUcftnZWDYE7dbkPluuCBTKQqhw739bTm4izs0kh11J2raqqXZ29oQ1_2aSWwK0tqjsFneL5tA_eDmcozRnPOcg3UBw",
      "available": true
     },
     {
@@ -3256,7 +3256,7 @@
      "price": 327.47,
      "ship": 5.95,
      "total": 333.42,
-     "url": "https://geizhals.de/redir/BAAAAD5-XnBOl4dRmBzC-QdktyGV9v9ITRPUMDGUB1spLQdoxuk9BDLTA4ioiIopKar9cE5jsaaEKRcFaxPa1oTTjPiQyxz7FtLh3xfRUMnYFDSW743GNpCvx1HOdk4_ELCbi4arQ2MAsjxFpy4dEjySQIyZYDqKOer2W-_J2D1x90EOtMBHf0O1ZEGd2pKZA_bzXA",
+     "url": "https://geizhals.de/redir/BAAAAD5-XnBOl4dRmBzC-QdktyGV9v9ITRPUMDGUB1spLQdoxuk9BDLTA4ioiIopKar9cJvnj3D62I5BIa4pwTQ7jYeZp0g1-R65YKJaBPe3SqYnVQfc29OzK-NazojjWYtP4-pG4WK9C7DPo_cwlXGLa9k",
      "available": true
     },
     {
@@ -3264,7 +3264,7 @@
      "price": 328.95,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg1LENkJbyiA6e4ksMPs1BHm9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurTzrIlT310dzyNo-vKLP3TzhH9csgSnRJyXQYSOkpuRcd9RbxEGJLofpJft09ecK6p1x9PHNi99n2Nhfu3Qna1IHaIb8xEmnkDZjny30WyOOxO3U7vatwNaQ9CNksTY4iSPA1i8C-iMBTJUaNMl5-qCarYzM6Uvq3d0CMlRZ8T6nV",
+     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg1LENkJbyiA6e4ksMPs1BHm9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurTzrIlT310dzyNo-vKLP3TzhH9csgSnRJyXQYSOkpuRcdGEm8KaZjGUUdubu3u6WCvFx9PHNi99n2Nhfu3Qna1IFmhq3tmUAeaFln5EeaahCq_qwbRucBq7xDDF-ejmyZvA",
      "available": true
     },
     {
@@ -3272,7 +3272,7 @@
      "price": 329,
      "ship": 1.65,
      "total": 330.65,
-     "url": "https://geizhals.de/redir/BAAAACoxfSPfpl2_VANxr9IuOKxUqPNmo8-uerWcG-FrbYxpbeJYmPUEy1ghMUA5w1iQrcY7tA0azM9WhNhft1gSM-OHxqkNFBS62OpSqyRA__uq0lX90NexImt_qym30E6FA5l0AoY0HLieT04rDVP1U7HfWDkRyKohbad14X44vOFIbcjITXoRo21uDxTLS339llqZ-kg58GheQVq4nn20hwtZPS1r8S08rltiZWn0oTX6NKjM9crEr6eHpyPbr4cCCztOlYZ7OP27r_O4mLrquZd9Ek_JeCgEcJTeAU5q_DQHx8q0bLfyNMtwqXM6gLg3K0kWZH6ooK8NyccSsmUAhlPrTZtJ63DfOCpyRlYBUvW0UnMCg6YwvYbW3G-2cbbxlXMjQti_uoOOeHV_3X8DEF4",
+     "url": "https://geizhals.de/redir/BAAAACoxfSPfpl2_VANxr9IuOKxUqPNmo8-uerWcG-FrbYxpbeJYmPUEy1ghMUA5w1iQrcY7tA0azM9WhNhft1gSM-OHxqkNFBS62OpSqyRA__uq0lX90NexImt_qym30E6FA5l0AoY0HLieT04rDVP1U7HfWDkRyKohbad14X44vOFIbcjITXoRo21uDxTLS339llqZ-kg58GheQVq4nn20hwtZPS1r8S08rltiZWn0oTX6NKjM9crEr6eHpyPbr4cCCztOlYZ7OP27r_O4mLrquZd9Ek_JeCgEcJTeAU5q_DQHDuetlTjyAOuRoYAKkmaAf0kWZH6ooK8NyccSsmUAhlNKxPNnjQDARweq7KybPRybsYLqTVeJlPOdlrCDYesf-Q",
      "available": true
     },
     {
@@ -3280,7 +3280,7 @@
      "price": 329,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAACxk0Xb-DtT0ya0AErzHMrwQOzqbzcic-eVOQpB2YrA0Qc6EM2eNQ02uCwrLv0o5dP59m1PpFvK4UcggETx2qMBklt7ASGzFCKuTzc-l8_D_Tptf2IGNJ3U4MbAOHqG9MrbU0a3wVTy818Gj2hSymr5w58yjEfFHhk4TGhm-ByuGW3ZywRk5LYq_DiWcYXcPq3zcH_v6B7OhU5gPCHZRr7-p8TSRgyLb60A4lKRi7DDH8rzwFEnYfTCe3nsmkS14CQ",
+     "url": "https://geizhals.de/redir/BAAAACxk0Xb-DtT0ya0AErzHMrwQOzqbzcic-eVOQpB2YrA0Qc6EM2eNQ02uCwrLv0o5dP59m1PpFvK4UcggETx2qMBklt7ASGzFCKuTzc-l8_D_Tptf2IGNJ3U4MbAOHqG9MrbU0a3wVTy818Gj2hSymr6uwJWjZsxZhFNyMv5LN96ZW3ZywRk5LYq_DiWcYXcPqzk_QK0aU-evsNn_BBjH2VtFpQMJ7CNoDKsVYeUgu531",
      "available": true
     },
     {
@@ -3288,7 +3288,7 @@
      "price": 329.99,
      "ship": 9.95,
      "total": 339.94,
-     "url": "https://geizhals.de/redir/BAAAACCtSZ41Yt68hzNPofFC6Xy5xJAu4wuMiDycMZVcLVy0ClhwX2EjeAWMMbjX0KKVcllulamVyVjMcOStE6zY2joeDVU7jAepXu7Cdtcl0CFw8TuB4ADProCgAZAj0D-cl92s5xo-jJEQpMFGE8POfLvBZFvNjefttNLZFZZ44BDgyPwECOeLUQuCs9eYdcU6wYyoZd4Y_SYJAYTTbrIZZH9ynoXhLjVKRYVBfo5eLkKBBGG8bChGBEYnVxXoYjsd8HDnzKMR8UeGThMaGb4HK4YYF0EThsVtuYmcqFO0QQl10EjWStLEAZixEimR8us8N6nxNJGDItvrQDiUpGLsMMfyvPAUSdh9MJ7eeyaRLXgJ",
+     "url": "https://geizhals.de/redir/BAAAACCtSZ41Yt68hzNPofFC6Xy5xJAu4wuMiDycMZVcLVy0ClhwX2EjeAWMMbjX0KKVcllulamVyVjMcOStE6zY2joeDVU7jAepXu7Cdtcl0CFw8TuB4ADProCgAZAj0D-cl92s5xo-jJEQpMFGE8POfLvBZFvNjefttNLZFZZ44BDgyPwECOeLUQuCs9eYdcU6wYyoZd4Y_SYJAYTTbrIZZH9ynoXhLjVKRYVBfo5eLkKBBGG8bChGBEYnVxXoYjsd8K7AlaNmzFmEU3Iy_ks33pkYF0EThsVtuYmcqFO0QQl1mVDvSGcsqDTSMwelUw06oEWlAwnsI2gMqxVh5SC7nfU",
      "available": true
     },
     {
@@ -3296,7 +3296,7 @@
      "price": 330.99,
      "ship": 6.99,
      "total": 337.98,
-     "url": "https://geizhals.de/redir/BAAAALj3rGCyGN2embETjzS6gs_xGRI5N3x7tlZfGxoXvE0xRoVF3kqwjc-_v64xQO7nttEIzl82Mm_PIxpQN7n0eF6ZJDkN8DAObmcslpB9e8JbMcVqRbFmTJSZmWOwohD5Dwblc1uXJXT-VSW2pkH8-u176W6MB0UlPOp021XkDj_nWp6qNT8wwAIsG_2Bvr9I6hayv6WZP7enty1KH2jQrXb5AB1XEixoNRxwqX85oeNuFUgfLDml_9Hez0VQ6eYLEtlB3d7Ty4JgNd9vF5c4aOs",
+     "url": "https://geizhals.de/redir/BAAAALj3rGCyGN2embETjzS6gs_xGRI5N3x7tlZfGxoXvE0xRoVF3kqwjc-_v64xQO7nttEIzl82Mm_PIxpQN7n0eF6ZJDkN8DAObmcslpB9e8JbMcVqRbFmTJSZmWOwohD5Dwblc1uXJXT-VSW2pkH8-u3kCMf00VwZGiKxtmx-8_W1Wp6qNT8wwAIsG_2Bvr9I6kBBeRjVTSQlxmhTtHVYwtQZXYHw7HQX3C8ohtn34NyX",
      "available": true
     },
     {
@@ -3304,7 +3304,7 @@
      "price": 331.17,
      "ship": 5.99,
      "total": 337.16,
-     "url": "https://geizhals.de/redir/BAAAAA6ld9qVAO4EaxlB22qvIcXuqWYwn0LmuzgsIIxwJN0h-d8uSDUX6-f-vnP3_nrnTjbMEkF_QGJzDOpy-2nGROJxvAHohRhZResSZ2pHDhBzDLnix411g7erJu_Gt0PxfaP6AY-42LRLTyOuqFa8UKAiWrbNK5XzjMxgf7azXbpklLK_dMIZY7eGsUP8_xTV5yOzF09m95HJpOpNsDzujhfZG7QleKiM9vXoZQxTAgCL",
+     "url": "https://geizhals.de/redir/BAAAAA6ld9qVAO4EaxlB22qvIcXuqWYwn0LmuzgsIIxwJN0h-d8uSDUX6-f-vnP3_nrnTjbMEkF_QGJzDOpy-2nGROJxvAHohRhZResSZ2pHDhBzDLnix411g7erJu_Gt0PxfXgdgagWr9IJxf9JwDG26sgiWrbNK5XzjMxgf7azXbpkwbP08AERh8ymgabYJKRevva1ckSi07NE061nYFZOyXg",
      "available": true
     },
     {
@@ -3312,7 +3312,7 @@
      "price": 331.77,
      "ship": 1.66,
      "total": 333.43,
-     "url": "https://geizhals.de/redir/BAAAAGh_-c8RSdtqyb4mU6FBPQ0MTuQh9SNkovERBiAatQFoKcK_cE8s-fMNoyZBNq4hjbdS4iZp0XbwhPQHsbmDtB3HX7_x4B48mkidhTuLq-aVtqnbbb9rsF_NI1ID-wZVGN99aU6cQYd70ISgLSrQqalrjVEk_5g-wAC5uIV8wZ_iQo0MNa8koSWr1J1qHEubIpZkB5J8G8TIk8o-8hS12oep8TSRgyLb60A4lKRi7DDH8rzwFEnYfTCe3nsmkS14CQ",
+     "url": "https://geizhals.de/redir/BAAAAGh_-c8RSdtqyb4mU6FBPQ0MTuQh9SNkovERBiAatQFoKcK_cE8s-fMNoyZBNq4hjbdS4iZp0XbwhPQHsbmDtB3HX7_x4B48mkidhTuLq-aVtqnbbb9rsF_NI1ID-wZVGN99aU6cQYd70ISgLSrQqakv1rYhVTj-Llh-0Guv9JOHQo0MNa8koSWr1J1qHEubIpMLyydrXrcLpujWh1LH0G9FpQMJ7CNoDKsVYeUgu531",
      "available": null
     },
     {
@@ -3320,7 +3320,7 @@
      "price": 332,
      "ship": 6.64,
      "total": 338.64,
-     "url": "https://geizhals.de/redir/BAAAADnGoZLMUVoBeOZKbgzOjNDf9SG5ZIT_hQmE4o_SgR09rTjwHyqib42U6RTEiPI5Lg51f59PDPjP8CkBV-WBHCLitxBZiL_EUxJqvPILZlHSPkgfDU9Sr1JfEN3OqmHYgcqjZLELMQmV8DGMOzI6ALtiY8DptcugzSmyU17D54xuf2h3Cw5ePY9j_OTejsifBmgIxASHd5wbBwkSEyA82hE",
+     "url": "https://geizhals.de/redir/BAAAADnGoZLMUVoBeOZKbgzOjNDf9SG5ZIT_hQmE4o_SgR09rTjwHyqib42U6RTEiPI5Lg51f59PDPjP8CkBV-WBHCLitxBZiL_EUxJqvPILZlHSSkxqZCBgSK7WXH-CzoQ53MqjZLELMQmV8DGMOzI6ALsm-6thvu8z99wm-5yMT26jS3ROB4q4-TrZ3uuI-mw9xg",
      "available": true
     },
     {
@@ -3328,14 +3328,14 @@
      "price": 333.82,
      "ship": 5.9,
      "total": 339.72,
-     "url": "https://geizhals.de/redir/BAAAAMNgoEwT_NbJvbKSUDhZfHJRGtF3YG_hCZeVGhi-HdExmlZme9jlZtYPnBWqCf1aeqT8qbqlBl8Qrg-y64cS-CrcZa6Y_adpnhsFuYsH0eoDzwBgvmtIIHtxkjN259DqU-MojpC4iEwx3NYMJueqba1VqKo2aVhRs0cH5ei7KsfOI2_Rp89FpRaHi_o7BmPYFp_Wm_O7M7lQPYmGdZbFQQn3YErpIpygZA0KN6MVEUwn4mRdLCMzmUSlmOWrvrE_ZdaSHVygvjWPEnhlNzhDpyQHos05_55wrynSbwS7_BOg43nQ-mo-66knfEnG3WTt4w",
+     "url": "https://geizhals.de/redir/BAAAAMNgoEwT_NbJvbKSUDhZfHJRGtF3YG_hCZeVGhi-HdExmlZme9jlZtYPnBWqCf1aeqT8qbqlBl8Qrg-y64cS-CrcZa6Y_adpnhsFuYsH0eoDzwBgvmtIIHtxkjN259DqU-MojpC4iEwx3NYMJueqba1VqKo2aVhRs0cH5ei7KsfOI2_Rp89FpRaHi_o7BmPYFsbuYhdSFh-3un36gFBdqf33YErpIpygZA0KN6MVEUwniJ7swl1NVdsCdc-tyu45jipL4CmYDovnt7a0YZ31JRo",
      "available": true
     }
    ],
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-28T11:59:13.740Z",
    "change": null
   },
@@ -3345,7 +3345,7 @@
    "blocked": false,
    "gone": true,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "de-store.msi.com",
    "last": null,
    "lastPrice": null,
@@ -3359,7 +3359,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -3408,7 +3408,7 @@
      "price": 989,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAABB7uKk9izLVQqq0684om_8ERPYHAcnfci1-rB8Yp20-kud826Xa32l0UHWaj7CxWeDiUCtOGuX_qzLGACN9oMw_NWyLnFfQ5cPzB-BMtZ-78E7wpcmnDvR6XPcPyz-L1A-SmuibwvPOLym4Z3SiSfTA-T88Um7JtWN5hHPY9jFAOfF0zHhAFDCxwRdfzCxKkoxCwGCxzQTuNVX2ZYwQbeU",
+     "url": "https://geizhals.de/redir/BAAAABB7uKk9izLVQqq0684om_8ERPYHAcnfci1-rB8Yp20-kud826Xa32l0UHWaj7CxWeDiUCtOGuX_qzLGACN9oMw_NWyLnFfQ5cPzB-BMtZ-78E7wpcmnDvR6XPcPyz-L1HdlL6G1BYIhW54EPwrO0VHA-T88Um7JtWN5hHPY9jFAZWeeLFMFnXW6s-N32uyTtFJLUAQqQYF67UGRxIkwup9nGkjq4VNopmQaPIMeC0O0-Qc_YElavSt6eGqGMmDkTQ",
      "available": true
     },
     {
@@ -3416,7 +3416,7 @@
      "price": 989,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAFY4XMbVVXpEZqv2o6_8gg4Napb4VqcXu6oEIFj44ZRc0FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsMgyIORsEH0FLnwOnhxFSS2qIXrzaBLb0E4VM7zIESP0EUfYh_40SidJobiM2pFFICMtG5u7KY9hgEOdpWjua4MD5PzxSbsm1Y3mEc9j2MUAjqUaEmECTYOIKadkq8_dvjELAYLHNBO41VfZljBBt5Q",
+     "url": "https://geizhals.de/redir/BAAAAFY4XMbVVXpEZqv2o6_8gg4Napb4VqcXu6oEIFj44ZRc0FMoq3md0RTVnlju8ztl0IIri7YwXKlH1kHf-peIUd5hrTc8_-_jxThwt88LDDnsMgyIORsEH0FLnwOnhxFSS2qIXrzaBLb0E4VM7zIESP0EUfYh_40SidJobiM2pFFIWKOInwsacrghktPcnPQq38D5PzxSbsm1Y3mEc9j2MUDxQXcMFf8uc2GnM9jrlcYuUktQBCpBgXrtQZHEiTC6n2caSOrhU2imZBo8gx4LQ7T5Bz9gSVq9K3p4aoYyYORN",
      "available": null
     },
     {
@@ -3424,7 +3424,7 @@
      "price": 989.9,
      "ship": 4.99,
      "total": 994.89,
-     "url": "https://geizhals.de/redir/BAAAAEZ7NtGzWjHGe0Hb6F_CoAyJyW9vP0NyBU6oZcDayHEJBY9TKk9EE_GrUaKz2bTpPsi6s3fEZTZtDmIHNsRT3oMAt9xI2WF2gqJTFkw3ocLBpJ3WMF1ai3nVuw6cN7-iUq5lhoRITNZQloWdThmfLQeSP-LfvtF5CYaNT3PAZrzQ4KpRj0vMFsscNOGSQmPoem3Jbk5_e9sFGDFI-Yfqt2FXsLVOSVL95N76k384KkV9Y4A995S-Nuv7qdgoDblY96lNy1lgEDQ4MdjUmD9sZelORCTk4ZA3lRUie_XKctQR4t4_adlcfU-r3mehU00H6A",
+     "url": "https://geizhals.de/redir/BAAAAEZ7NtGzWjHGe0Hb6F_CoAyJyW9vP0NyBU6oZcDayHEJBY9TKk9EE_GrUaKz2bTpPsi6s3fEZTZtDmIHNsRT3oMAt9xI2WF2gqJTFkw3ocLBpJ3WMF1ai3nVuw6cN7-iUq5lhoRITNZQloWdThmfLQeSP-LfvtF5CYaNT3PAZrzQ4KpRj0vMFsscNOGSQmPoem3Jbk5_e9sFGDFI-Yfqt2FXsLVOSVL95N76k384KkV990m9Hu80votVUEaobHnqxKlNy1lgEDQ4MdjUmD9sZem2zU3zOahEHdB1hogMa1241pIdXKC-NY8SeGU3OEOnJAeizTn_nnCvKdJvBLv8E6DjedD6aj7rqSd8ScbdZO3j",
      "available": true
     },
     {
@@ -3432,7 +3432,7 @@
      "price": 1036.84,
      "ship": 2.99,
      "total": 1039.83,
-     "url": "https://geizhals.de/redir/BAAAAAXuMqMPMYGMOwwHgW-JlfA72LN1RTuqAuppxKHYogRt0cbP-cGtohNB6DVNozZtLvP8Loimb3JYkTC6PSSLVlMZRLF9395OSTILgmqyW1Lmyxh6W3BFzvL-B7lRFGcjti_vf9aPsYNZDkPNOe5O6chv45Z0FJd6jstB-SwbGs0VpHtPv_FBJUFZrmZxxzebGxXaf2WK34PYfWlETBCTEfwlVA48A3QExZkpGPqvZU-Q",
+     "url": "https://geizhals.de/redir/BAAAAAXuMqMPMYGMOwwHgW-JlfA72LN1RTuqAuppxKHYogRt0cbP-cGtohNB6DVNozZtLvP8Loimb3JYkTC6PSSLVlMZRLF9395OSTILgmqyW1Lmyxh6W3BFzvL-B7lRFGcjti_vf9aPsYNZDkPNOe5O6chv45Z0FJd6jstB-SwbGs0VGBgkds85ThQzfbzN9napvgmCJh4IoEoJguCsY5mR9MWGq0NjALI8RacuHRI8kkCMmWA6ijnq9lvvydg9cfdBDrTAR39DtWRBndqSmQP281w",
      "available": null
     },
     {
@@ -3440,7 +3440,7 @@
      "price": 1039.82,
      "ship": 6.9,
      "total": 1046.72,
-     "url": "https://geizhals.de/redir/BAAAAFUNlEa9YW-A7QTqg9wNIG4z4Yhdnd7F-LrS0M81FLig3L6Zi0tbj6fphdoOwLLAt8AjnyUJx1qp9AlK147Kn25fJSKpJhmZXhhj3W1OdWXqqU3LWWAQNDgx2NSYP2xl6R7kDadhyfywnt4LyuAdm4Pi3j9p2Vx9T6veZ6FTTQfo",
+     "url": "https://geizhals.de/redir/BAAAAFUNlEa9YW-A7QTqg9wNIG4z4Yhdnd7F-LrS0M81FLig3L6Zi0tbj6fphdoOwLLAt8AjnyUJx1qp9AlK147Kn24r-dANFmKh8jlMWRVAibXvqU3LWWAQNDgx2NSYP2xl6W9lQCQnNpPpTPt7Imxtww7Wkh1coL41jxJ4ZTc4Q6ckB6LNOf-ecK8p0m8Eu_wToON50PpqPuupJ3xJxt1k7eM",
      "available": null
     },
     {
@@ -3448,7 +3448,7 @@
      "price": 1044.5,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAAPlr6AJxJQ6_27A2a7-NLGp4S061MCRLdD-sJJu4rY6-xzSTSC8vwr8GtOjCOsWVab0V7ErnZUcpXJbCORB_fjrKmbeMyLYl11wekNWgOjYQ6dek0tkX-a_tvEV43R0khsLbzTRt-5mdXpMDTWcd_G79-cbAL2u7_fUBqVQ3wHTgJTqUwsrrR9EmHBGzytg77wDQW1CHJs1HlZvQb5GJMO3BVfVibh5LdfyQuNdWJkRxYJ1A1c9gLRL5dmEkhhHbteGu_etTN_sPCFwowpP7O4Nbxc3rZavyZfYI7oSbFG7Z0AJDEnBeBTYZK1ndK4XWDsXZKX5NoF1rX1WrYZLXFoPYWjHHEETNLaRmYPXZV0n4-8OVM5yLzjY8p8bZdX1xWgqT3-VoQfnS_nz5rPNzhLWp2fUdbIQp2X8urhOE9LRcCHViQhDu7LVNCCWo8o2Kf0BG4s3SkmV3lF9JDfvpqKTOIM0ESu2-FrLIKQSEQFu63ZIddkvpzi36xbPoDvnBlGsHkLYrkc73tsw0s3VDB2MQsBgsc0E7jVV9mWMEG3l",
+     "url": "https://geizhals.de/redir/BAAAAAPlr6AJxJQ6_27A2a7-NLGp4S061MCRLdD-sJJu4rY6-xzSTSC8vwr8GtOjCOsWVab0V7ErnZUcpXJbCORB_fjrKmbeMyLYl11wekNWgOjYQ6dek0tkX-a_tvEV43R0khsLbzTRt-5mdXpMDTWcd_G79-cbAL2u7_fUBqVQ3wHTgJTqUwsrrR9EmHBGzytg77wDQW1CHJs1HlZvQb5GJMO3BVfVibh5LdfyQuNdWJkRxYJ1A1c9gLRL5dmEkhhHbteGu_etTN_sPCFwowpP7O4Nbxc3rZavyZfYI7oSbFG7Z0AJDEnBeBTYZK1ndK4XWDsXZKX5NoF1rX1WrYZLXFoPYWjHHEETNLaRmYPXZV0n4-8OVM5yLzjY8p8bZdX1xWgqT3-VoQfnS_nz5rPNzhLWp2fUdbIQp2X8urhOE9LRcCHViQhDu7LVNCCWo8o2Kf0BG4s3SkmV3lF9JDfvpqKTOIM0ESu2-FrLIKQSEQFu39IWNhWLY7WpdoF_rbR3ZNAnCjAT7KgVMhm-MIpBDc9SS1AEKkGBeu1BkcSJMLqfZxpI6uFTaKZkGjyDHgtDtPkHP2BJWr0renhqhjJg5E0",
      "available": null
     },
     {
@@ -3456,7 +3456,7 @@
      "price": 1049,
      "ship": 18.99,
      "total": 1067.99,
-     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0NbwxiFYiaslM2DnGB9RrfVaMSWxoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-PetaLktuEqVKgm_8NrUO87k-Tk2K8AuzzC_V5xB-LOvpNrbbxXu-7J-bx-o2qmrqfgjarg_p_MINLphA4Cs1rtuu",
+     "url": "https://geizhals.de/redir/BAAAABDxSgtp2Oax7pW517UJpM1EWhTHy_dcwePzUu0NbwxiFYiaslM2DnGB9RrfVaMSWxoTQbsCDNHoe1N_cMugFnGhPO29AVOe4zjLGAiQaaOyDD6jX9WLdRby6k5W5fEqfjJJMZPOJ5_QY3fBdKkUk7ymhJkjPmtR7TiPFhb_DNh0KQT5Dhm6J9iBJfWfm6emYE2covNoL_FPdhI2MBK-Peuj1GVFgplLagfH9ZSBXjY3Tk2K8AuzzC_V5xB-LOvpNs7OKdpzGkkGTVdXhUK1h5up8TSRgyLb60A4lKRi7DDH8rzwFEnYfTCe3nsmkS14CQ",
      "available": true
     },
     {
@@ -3464,7 +3464,7 @@
      "price": 1079.99,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg2mth2KfvFJ1MZxxgl9SzUY9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurTywT_14uF920SJ_galJ76eUyVW41omd4-D2G9j3KlO15fdSdKDHt0HF5a0PsiQsTpxN6-0OYZm98kxmdXaqT7U_4jmNP0WtIJM-ukfd1kkfFEIw-nYF-RBqXvLmod5Gn5Q",
+     "url": "https://geizhals.de/redir/BAAAABMVxCMR9yPbsDFkFUHFUg2mth2KfvFJ1MZxxgl9SzUY9B8cBwYf9-cS_xHj0T9W2jhFHHRusk4rbj1YFXyHTt_SHZG3O3GvytIfiX9ctToY9kZR4HmqO0ZZFmReTHurTywT_14uF920SJ_galJ76eUyVW41omd4-D2G9j3KlO15S_kHYSE012Slm8S6rbeLqhN6-0OYZm98kxmdXaqT7U8Zc4w5ux_vVBSFDLyZr-QrfTSrFBI5SLgcgag5cTjw1FDTQKK_3PX5MOsbQuqwZxA",
      "available": true
     },
     {
@@ -3472,7 +3472,7 @@
      "price": 1090,
      "ship": 21.8,
      "total": 1111.8,
-     "url": "https://geizhals.de/redir/BAAAAH5CP7ec81PHdIZ2H2RHmwoYbImyTwak9gqEe4CMFIL2kEqBAKWZwGy81HI_acqZD8N1Fqc_TdFbqJyHIQth3wQITKgSjxsEhPPlglOKTqrHj_slJOKFP3tGOPeVJ63FbKNWRb2RUc_i_50gDZVehXhBd9CmrqRigq2hcG057oV41yDDdM5OF-KBJ61-tAlHWl4RldSvUaszNIJp8XLCTaY",
+     "url": "https://geizhals.de/redir/BAAAAH5CP7ec81PHdIZ2H2RHmwoYbImyTwak9gqEe4CMFIL2kEqBAKWZwGy81HI_acqZD8N1Fqc_TdFbqJyHIQth3wQITKgSjxsEhPPlglOKTqrHj_slJOKFP3tGOPeVJ63FbC45dDxjTbSqxF1LM199eAlBd9CmrqRigq2hcG057oV46TBUPD5zVmCEH_Vc2R2aRMK59SwW-_PFZqmiQ_fFv880Su18WwzQJA9ufNf46zmY",
      "available": true
     },
     {
@@ -3480,7 +3480,7 @@
      "price": 1099,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAA3Bq4ds5UEaAV8KFZOuBvVAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197Wceh18SneU_lYudIbdu9N-IhR49X0wUPSYcU8o7WP0CFmh17Mn7aoSEEAbII7P8K2qIonJb28_Q3IFTqhlwNrIcQnak3tUK6I5Uv_k5SXyKxKz-JeVpel5kaM1w5Jxwso6Uu_WpMbDyeVDpwOcDOiq2jttA6MRWP2jlYBFe2Zo7ziXjWptCI_J1A-fqzG05MugRNfqY5FFqvQdmc6grQk-gK8wF97ZVXFi1XAqQt4-GsAywPk_PFJuybVjeYRz2PYxQFoZ0P7fMJtGBurGtgoN3G-MQsBgsc0E7jVV9mWMEG3l",
+     "url": "https://geizhals.de/redir/BAAAAA3Bq4ds5UEaAV8KFZOuBvVAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197Wceh18SneU_lYudIbdu9N-IhR49X0wUPSYcU8o7WP0CFmh17Mn7aoSEEAbII7P8K2qIonJb28_Q3IFTqhlwNrIcQnak3tUK6I5Uv_k5SXyKxKz-JeVpel5kaM1w5Jxwso6Uu_WpMbDyeVDpwOcDOiq2jttA6MRWP2jlYBFe2Zo7ziXjWptCI_J1A-fqzG05MugRNfqY5FFqvQdmc6grQk-gK-K3Cl2hyS6DrQ_R9F2wSTdwPk_PFJuybVjeYRz2PYxQPFKgqkaPkWOoVYFJAlbrQRSS1AEKkGBeu1BkcSJMLqfZxpI6uFTaKZkGjyDHgtDtPkHP2BJWr0renhqhjJg5E0",
      "available": true
     },
     {
@@ -3488,7 +3488,7 @@
      "price": 1099,
      "ship": 18.99,
      "total": 1117.99,
-     "url": "https://geizhals.de/redir/BAAAAFjKXX9-KkLL4wGBJ3p0QwtAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197Wceh18SneU_lYudIbdu9N-IhR49X0wUPSYcU8o7WP0CFmh17Mn7aoSEEAbII7P8K2qIonJb28_Q3IFTqhlwNrIcQnak3tUK6I5Uv_k5SXyKxKz-JeVpel5kaM1w5Jxwso6Uu_WpMbDyeVDpwOcDOiq2jttA6MRWP2jlYBFe2Zo7ziXz3nN7A3tGFSZcH6rzKA4aw9oVdcuw2_YQv4YWOWhogvj_SMu3ELb4NGHjsA_3tiSB9nzBIcenFBa1S8VS7azYF4RldSvUaszNIJp8XLCTaY",
+     "url": "https://geizhals.de/redir/BAAAAFjKXX9-KkLL4wGBJ3p0QwtAVEqChzZGfU085kFrO3gWGaqB9w32h74roDu197Wceh18SneU_lYudIbdu9N-IhR49X0wUPSYcU8o7WP0CFmh17Mn7aoSEEAbII7P8K2qIonJb28_Q3IFTqhlwNrIcQnak3tUK6I5Uv_k5SXyKxKz-JeVpel5kaM1w5Jxwso6Uu_WpMbDyeVDpwOcDOiq2jttA6MRWP2jlYBFe2Zo7ziXz3nN7A3tGFSZcH6rzKA4a1Ny4nJ5PjOek0BN7uQfKV3j_SMu3ELb4NGHjsA_3tiSFqmAgIHj9dXjrTZQcljqqsK59SwW-_PFZqmiQ_fFv880Su18WwzQJA9ufNf46zmY",
      "available": true
     },
     {
@@ -3496,7 +3496,7 @@
      "price": 1099.9,
      "ship": 5.5,
      "total": 1105.4,
-     "url": "https://geizhals.de/redir/BAAAAPWdSGfL7W-tRiQ8YDnnUinauVfASHIoQYMHnkctPBQ0SZVDuzFEpLtq14jWGAXbnPsgbrs-uMOQMflTGAGRMjAO9mDWk8TwpDuwELe1Xro-M7Ws4FB2kH6Yg6Tx4W-cPGWmM9_eAQj5kGjYh7h7_9LMO_5KFzRczpq39MZMBZBMifQqpAjv9tN_vgRw3ox-mZ4GK6Vdp2Q2BtRAXoJBPJE6P2V3DrFomUVZd1tGVOeLYtBd3LAak4d0NMX2xsq_E7BcCRH0OuyDx57QB_ZL2AunVs2ZPNybMYVdYlapeELsJADQgWb1bC8mSPYT2h2tR8D5PzxSbsm1Y3mEc9j2MUARdOKuDeKwAdtlX-sz-Qu0jELAYLHNBO41VfZljBBt5Q",
+     "url": "https://geizhals.de/redir/BAAAAPWdSGfL7W-tRiQ8YDnnUinauVfASHIoQYMHnkctPBQ0SZVDuzFEpLtq14jWGAXbnPsgbrs-uMOQMflTGAGRMjAO9mDWk8TwpDuwELe1Xro-M7Ws4FB2kH6Yg6Tx4W-cPGWmM9_eAQj5kGjYh7h7_9LMO_5KFzRczpq39MZMBZBMifQqpAjv9tN_vgRw3ox-mZ4GK6Vdp2Q2BtRAXoJBPJE6P2V3DrFomUVZd1tGVOeLYtBd3LAak4d0NMX2xsq_E7BcCRH0OuyDx57QB_ZL2AunVs2ZPNybMYVdYlapeELsMHUy71LJfoZGwfcrI4hEQMD5PzxSbsm1Y3mEc9j2MUBXcTFmwOy6-B9FNxjXtFyZUktQBCpBgXrtQZHEiTC6n2caSOrhU2imZBo8gx4LQ7T5Bz9gSVq9K3p4aoYyYORN",
      "available": null
     },
     {
@@ -3504,7 +3504,7 @@
      "price": 1099.9,
      "ship": 5.99,
      "total": 1105.89,
-     "url": "https://geizhals.de/redir/BAAAAP8V-m54x4E66Fo6PcRjGdbXhZ5F0cMyTcgrqmsWAlcF-SXfce7zuqaCDalot12SAkhIqTz54jTVRKfZJ3FJA-WrGHxIz6lAGL4Ix29DgbhOnpJLcQrPuHm-ec9lS9WSFKtPEOEsf1dPox6vvNSk8ITz_C6Ipm9yWJEwuj0ki1ZTGUSxfd_eTkkyC4JqsltS5qWNUAQnyAyEclh9PHOUJbEcS5QOTigSDS31-g7jEnRxE3r7Q5hmb3yTGZ1dqpPtT-lzJK3owuiXbjAXx1RbGW0QjD6dgX5EGpe8uah3kafl",
+     "url": "https://geizhals.de/redir/BAAAAP8V-m54x4E66Fo6PcRjGdbXhZ5F0cMyTcgrqmsWAlcF-SXfce7zuqaCDalot12SAkhIqTz54jTVRKfZJ3FJA-WrGHxIz6lAGL4Ix29DgbhOnpJLcQrPuHm-ec9lS9WSFKtPEOEsf1dPox6vvNSk8ITz_C6Ipm9yWJEwuj0ki1ZTGUSxfd_eTkkyC4JqsltS5qWNUAQnyAyEclh9PHOUJbFT5EwTGqJRLD_eDxsjc_-FE3r7Q5hmb3yTGZ1dqpPtTwPhZHmY-xpUVjq4oJC4zQZ9NKsUEjlIuByBqDlxOPDUUNNAor_c9fkw6xtC6rBnEA",
      "available": null
     },
     {
@@ -3512,7 +3512,7 @@
      "price": 1099.99,
      "ship": 6.99,
      "total": 1106.98,
-     "url": "https://geizhals.de/redir/BAAAAInUwMnx0Nc2-DDLeuRsUfll960H7KLLc0kgDJT9PGva7YfhaCbPA3oeKkY1BSxIZYoXIfv2ULiI81DTn2H2WoIMgwrogNVaQrGnpPJkAx99Dj_CtwY-nHE8CBA-se22ul1BHL4fpm-hmArqKOCuabM9_ddJur2q7WpGqSxttT7SX_J3ydMzhWwRYhJbckPQvGR2G7E0gg3AYOs4jOj-tc701mQwOPlWPXI5bQHEt21rytnuDqnb7pHMu7bMqWKslt6oC_ul0DhI0pEoTQWhQQIH4aWByqchj9wzBq1Ul9AK",
+     "url": "https://geizhals.de/redir/BAAAAInUwMnx0Nc2-DDLeuRsUfll960H7KLLc0kgDJT9PGva7YfhaCbPA3oeKkY1BSxIZYoXIfv2ULiI81DTn2H2WoIMgwrogNVaQrGnpPJkAx99Dj_CtwY-nHE8CBA-se22ul1BHL4fpm-hmArqKOCuabM9_ddJur2q7WpGqSxttT7SX_J3ydMzhWwRYhJbckPQvGR2G7E0gg3AYOs4jOj-tc6bA1NL6CPqH8rCqmKogB3MytnuDqnb7pHMu7bMqWKslnpdnrUlNy04QlY8ch8TFP8ooM9C6vHnhS9xGcdRX2ppAy_hlGLwBU-g0Oc8TFXCDw",
      "available": null
     },
     {
@@ -3520,7 +3520,7 @@
      "price": 1111,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAIXPeXpxLT9Y4COTDWggjzlFnTgwMn5qDdytpx8dukbAXb8zrMnS_WGNZ8rNF77Sv5idUERxqSWdoDVo_qiySHdF5jJ_a0GtVUuTze29exikok2-fF0xlTaF1vVCpHxDfCY2MHNPEkzbV8wDmS53-ddG38G9wqK4zny9yiHddk25EPYOkH_Db_ZkvkL5EG6XceuVrxN-efvzlPm9gPPnuBYOfLUMkj4i60u56XeC4YnzXPL1vWnLoQHs7thfFLFQRkcF-N3eHAAtBrXH3TBnEzWtwsscH2nbkk-q-M2wi5prztaSm-4P5vdYWSSZuDbj9rgiumiWCtAvRHNF2m16wC4",
+     "url": "https://geizhals.de/redir/BAAAAIXPeXpxLT9Y4COTDWggjzlFnTgwMn5qDdytpx8dukbAXb8zrMnS_WGNZ8rNF77Sv5idUERxqSWdoDVo_qiySHdF5jJ_a0GtVUuTze29exikok2-fF0xlTaF1vVCpHxDfCY2MHNPEkzbV8wDmS53-ddG38G9wqK4zny9yiHddk25EPYOkH_Db_ZkvkL5EG6XceuVrxN-efvzlPm9gPPnuBYOfLUMkj4i60u56XeC4YnzXPL1vWnLoQHs7thfFLFQRpiImTFQoXIgpbC1iFF6JN6twsscH2nbkk-q-M2wi5prwbFj1-dX9Ha8o7hcQDFxXOTYDoy1Fg8tZs9GBukWo0ExepNH4IALD-PVuhHy_9Jm",
      "available": null
     },
     {
@@ -3528,7 +3528,7 @@
      "price": 1115.01,
      "ship": 8.9,
      "total": 1123.91,
-     "url": "https://geizhals.de/redir/BAAAAMvxUiSK_YyKh4nkEgGc1Re_z5CLXNCiWSkYCaFovxneHL1BVFSRkYTkTlYe9cTAVh3KSLysSVZzW0_WBFEuady4Ib2AL4dNo4Sjw9lImaDWf8iOlTtWumBMSXYO0EwTDdfRpXG6s4-Bc3uYw2mIpUupTctZYBA0ODHY1Jg_bGXp0bGsVwgknht59xA09AvqNOLeP2nZXH1Pq95noVNNB-g",
+     "url": "https://geizhals.de/redir/BAAAAMvxUiSK_YyKh4nkEgGc1Re_z5CLXNCiWSkYCaFovxneHL1BVFSRkYTkTlYe9cTAVh3KSLysSVZzW0_WBFEuady4Ib2AL4dNo4Sjw9lImaDWf8iOlTtWumBMSXYO0EwTDdQsDd1a--s4Oei7V_bJWHepTctZYBA0ODHY1Jg_bGXpKYewSK-OZ601SWulaz32nNaSHVygvjWPEnhlNzhDpyQHos05_55wrynSbwS7_BOg43nQ-mo-66knfEnG3WTt4w",
      "available": true
     },
     {
@@ -3536,7 +3536,7 @@
      "price": 1201.75,
      "ship": 6.01,
      "total": 1207.76,
-     "url": "https://geizhals.de/redir/BAAAAD4T5kffXrhBQl84feLJXmBUqPNmo8-uerWcG-FrbYxp2BR7-6_1abRVWHzW6HDud-ZoBBNthveBQ27SF0k2VDwSWL2ict0Zgk6VJNb2B3qBysOTJdicVnnajwkBdjgWyFGoSJOSZ3Oi7Wf2qD3k3HS2qdttv2uwX80jUgP7BlUYqyUi6n_g8ChA3LuCiTY5FcfYnXU9oBXFDuWv32zKaLIWWxdZrDTglTY0q5cnRJW7rNIBWN4KuqsoZIuj1xscw8y9UigoY2RM4T8y6DBE3xTc--ZJ3CFyxmkiT_0d5eigwpt1X4pd-UkFCdCPfR6KM1MuRn8anBV2ICQZRCJlIGQt1coK4_yw55kLGTsCsPHBwcTWhWGip4lqwkxJH_C43w",
+     "url": "https://geizhals.de/redir/BAAAAD4T5kffXrhBQl84feLJXmBUqPNmo8-uerWcG-FrbYxp2BR7-6_1abRVWHzW6HDud-ZoBBNthveBQ27SF0k2VDwSWL2ict0Zgk6VJNb2B3qBysOTJdicVnnajwkBdjgWyFGoSJOSZ3Oi7Wf2qD3k3HS2qdttv2uwX80jUgP7BlUYqyUi6n_g8ChA3LuCiTY5FcfYnXU9oBXFDuWv32zKaLIWWxdZrDTglTY0q5cnRJW7rNIBWN4KuqsoZIuj1xscw8y9UigoY2RM4T8y6DBE3xTc--ZJ3CFyxmkiT_0d5eigQzQtDba9EbFdpZdrlK_0rlMuRn8anBV2ICQZRCJlIGSihtnmbePnzdmAaR-p83Xi-QAdVxIsaDUccKl_OaHjbhVIHyw5pf_R3s9FUOnmCxLZQd3e08uCYDXfbxeXOGjr",
      "available": null
     },
     {
@@ -3544,7 +3544,7 @@
      "price": 1229,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAAAb5nikp9x0mBBI-cpIolFRgLCjqWUEkbcGDFPV1mjSwvv_roLjwTDM8XtWkQgKMrv_CN6zRQ6zORBy42tUVYz4KiZKcqicDrWiV8_wHx-gNfVHi9YgrfIhG0AuvlsqGqbjiShTAs85QbOB7bcPsZDtAIPpa7LcR2juuBGzxQyQ5y1WBL3mh3mmOYgOsjmSyvRCnt7hPSR0GCs6oms_A9G8AFaxz3U_9uY9kI1XDH0zlg7Zu-9Z50o35Odv68eJ-m3VaoCav5GyjaxicP5Ic8okKQO_MI_X2AtBpIGSeJyP",
+     "url": "https://geizhals.de/redir/BAAAAAAb5nikp9x0mBBI-cpIolFRgLCjqWUEkbcGDFPV1mjSwvv_roLjwTDM8XtWkQgKMrv_CN6zRQ6zORBy42tUVYz4KiZKcqicDrWiV8_wHx-gNfVHi9YgrfIhG0AuvlsqGqbjiShTAs85QbOB7bcPsZDtAIPpa7LcR2juuBGzxQyQ5y1WBL3mh3mmOYgOsjmSyvRCnt7hPSR0GCs6oms_A9HZkC9Bu4WZmpFMGr0XIsmglg7Zu-9Z50o35Odv68eJ-jsge-TXMDOPA5tQjI3llQh_aHcLDl49j2P85N6OyJ8GaAjEBId3nBsHCRITIDzaEQ",
      "available": true
     },
     {
@@ -3552,7 +3552,7 @@
      "price": 1286.47,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAC687g2OnYLfXZsyZxFz5_71ENq60sc_JduSVB-22ZdyiA3uy0MZ9Mvvm0r0hXtYWBgOloubTmINTgtWpicpkxeOgQgkC4q1GbD1Z2HgUAB0VFQYLN82xgumb8MPy8YqldERgOs4yxYiV9AZJ30z-tO_NaJDOiCaqTEsWvUcQew3OPRJ3CYkhdo4_WyY3QUupEXfMKL3v0vC5aXpxXUEF9c",
+     "url": "https://geizhals.de/redir/BAAAAC687g2OnYLfXZsyZxFz5_71ENq60sc_JduSVB-22ZdyiA3uy0MZ9Mvvm0r0hXtYWBgOloubTmINTgtWpicpkxeOgQgkC4q1GbD1Z2HgUAB0VFQYLN82xgumb8MPy8YqlW2tX69KkibmQUNkx-A9XTm_NaJDOiCaqTEsWvUcQew3ex3QzVSxz31ncxNktmbIp9rbZlqXd16YiwMr-mdPE623f9wrSvbdQonBob5EgDGkTWf1pKLTN_iQd75HmKg0Qw",
      "available": true
     },
     {
@@ -3560,7 +3560,7 @@
      "price": 1311.37,
      "ship": 8.9,
      "total": 1320.27,
-     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzF0yCv71bby8jytFOxlN-h7szdAnHb6Rc0_lp4dGDEIv300A-5fVEy41BBkCBdJ_yZ63ZIddkvpzi36xbPoDvnBrwqAg7xzlGhmTeAvFEctbWMQsBgsc0E7jVV9mWMEG3l",
+     "url": "https://geizhals.de/redir/BAAAALpFcgNVADZJ91mOqceiffvmeDEcIG9K73V5RC6uSPzF0yCv71bby8jytFOxlN-h7szdAnHb6Rc0_lp4dGDEIv300A-5fVEy41BBkCBdJ_yZ39IWNhWLY7WpdoF_rbR3ZJFNAz5fkWwtnNVy1SahOVJSS1AEKkGBeu1BkcSJMLqfZxpI6uFTaKZkGjyDHgtDtPkHP2BJWr0renhqhjJg5E0",
      "available": null
     },
     {
@@ -3568,7 +3568,7 @@
      "price": 1338.66,
      "ship": 6.69,
      "total": 1345.35,
-     "url": "https://geizhals.de/redir/BAAAAGh_-c8RSdtqyb4mU6FBPQ0MTuQh9SNkovERBiAatQFo39vgYOWF5qk6zRhtTbqyPbdS4iZp0XbwhPQHsbmDtB3HX7_x4B48mkidhTuLq-aVtqnbbb9rsF_NI1ID-wZVGN99aU6cQYd70ISgLSrQqakymI6WtHScTNf8izHcBPJNaJJbHeLm3zalNdfqyvZuqfXIW_QmfEEDmCWksVhhAhTarg_p_MINLphA4Cs1rtuu",
+     "url": "https://geizhals.de/redir/BAAAAGh_-c8RSdtqyb4mU6FBPQ0MTuQh9SNkovERBiAatQFo39vgYOWF5qk6zRhtTbqyPbdS4iZp0XbwhPQHsbmDtB3HX7_x4B48mkidhTuLq-aVtqnbbb9rsF_NI1ID-wZVGN99aU6cQYd70ISgLSrQqak1VC_9tySSQfVixFm1q6LUaJJbHeLm3zalNdfqyvZuqdBI1krSxAGYsRIpkfLrPDep8TSRgyLb60A4lKRi7DDH8rzwFEnYfTCe3nsmkS14CQ",
      "available": null
     },
     {
@@ -3576,7 +3576,7 @@
      "price": 1429.65,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAOvKFzNkXaSyxnYgdUshG4kLplNBttzAXd3nEOgJ7Ilyys1DwKyw8u8btfLoHzKQGlSZ0VLiiP02Olrvk90CsjuscAgMt6zlF0yjaUMmwOWR8BgIl5rReFwxDQMFu4D68HnuqBi_rZIBbuUNbvpvCGlEoQQlQaMxMvWCbEHUaV5fqU2M36TUrGijsvxCyvTP3UfnBG-o6mTzewnC_2z-K_3lZCjKaGk3incVse_LSMUK",
+     "url": "https://geizhals.de/redir/BAAAAOvKFzNkXaSyxnYgdUshG4kLplNBttzAXd3nEOgJ7Ilyys1DwKyw8u8btfLoHzKQGlSZ0VLiiP02Olrvk90CsjuscAgMt6zlF0yjaUMmwOWR8BgIl5rReFwxDQMFu4D68HnuqBi_rZIBbuUNbvpvCGkN_hxwVHdzBA-2m5eaHDJJqU2M36TUrGijsvxCyvTP3b_dlBf3EIo8TIAoEwQlx_Q7dTu9q3A1pD0I2SxNjiJI8DWLwL6IwFMlRo0yXn6oJqtjMzpS-rd3QIyVFnxPqdU",
      "available": true
     },
     {
@@ -3584,7 +3584,7 @@
      "price": 1433.49,
      "ship": null,
      "total": null,
-     "url": "https://geizhals.de/redir/BAAAAOlco5efh0OOKErB4xmC4Tu1KM6A2YjNqYMg3amyvKdyKUWewtEVuFkP00ZFglGN6vqNjPX4jLi8rE1c60Jk7A02PjyCeItyLAS-Puypi4ickMsc-xbS4d8X0VDJ2BQ0loRuAaWxm3aOeSIhVC6TtZhF3zCi979LwuWl6cV1BBfX",
+     "url": "https://geizhals.de/redir/BAAAAOlco5efh0OOKErB4xmC4Tu1KM6A2YjNqYMg3amyvKdyKUWewtEVuFkP00ZFglGN6vqNjPX4jLi8rE1c60Jk7A17ErdmASJn1aM2xw_HtzGSmadINfkeuWCiWgT3t0qmJ7IcCjCetMaSvhrM285Zwira22Zal3demIsDK_pnTxOtt3_cK0r23UKJwaG-RIAxpE1n9aSi0zf4kHe-R5ioNEM",
      "available": null
     },
     {
@@ -3592,7 +3592,7 @@
      "price": 1498.96,
      "ship": 5.99,
      "total": 1504.95,
-     "url": "https://geizhals.de/redir/BAAAADqm1Z3CtpQnKPU48jHvO-9sYl-YaYVjVGULCne3NIZgjnHcWq_KGOvXL_wZdLTGV9wRI7jIWToZynyOAtPG7yM5889G1LeeBIawSLu8MbR3_1PMlgznws-srudh7-Lu7KOuOkv2WNHPM_6td7g1zbpjqHyL4Xc_AhG_81fbkFoTE3r7Q5hmb3yTGZ1dqpPtT4jn02auqljkHfI9AgH_1JIQjD6dgX5EGpe8uah3kafl",
+     "url": "https://geizhals.de/redir/BAAAADqm1Z3CtpQnKPU48jHvO-9sYl-YaYVjVGULCne3NIZgjnHcWq_KGOvXL_wZdLTGV9wRI7jIWToZynyOAtPG7yM5889G1LeeBIawSLu8MbR3_1PMlgznws-srudh7-Lu7KOuOkv2WNHPM_6td7g1zbq0mdpr_rvjwQ4dHvQBEX8hE3r7Q5hmb3yTGZ1dqpPtT1JZA6VvAeSqa1bJUQKJJPB9NKsUEjlIuByBqDlxOPDUUNNAor_c9fkw6xtC6rBnEA",
      "available": true
     },
     {
@@ -3600,14 +3600,14 @@
      "price": 1498.97,
      "ship": 5.99,
      "total": 1504.96,
-     "url": "https://geizhals.de/redir/BAAAAHtDiO_LD5COBVR84HtavvZe8sxOa-FochHih7CnQhJzlM_cTG9aPKbLoSq1gQWURkvB6VAxc0k8bxCY6q1LhDwC161WvExZRFN3dslhN22P2OckCsGQbKnWqImdUVWm5SBwOUVLyKhGRO9jTotuiK4Vq0qV-9YiDuTYFn3Gw5liyKs_txcHdq2YpmcHEcoaIGSScz_OEmaXILhRCccgBZW4IrpolgrQL0RzRdptesAu",
+     "url": "https://geizhals.de/redir/BAAAAHtDiO_LD5COBVR84HtavvZe8sxOa-FochHih7CnQhJzlM_cTG9aPKbLoSq1gQWURkvB6VAxc0k8bxCY6q1LhDwC161WvExZRFN3dslhN22P2OckCsGQbKnWqImdUVWm5SBwOUVLyKhGRO9jTotuiK70z-Z7JJgmRnLPhe5fTwtIyKs_txcHdq2YpmcHEcoaICBg_-OBDTwQE402YCLs8wLk2A6MtRYPLWbPRgbpFqNBMXqTR-CACw_j1boR8v_SZg",
      "available": true
     }
    ],
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-28T11:59:13.740Z",
    "change": null
   },
@@ -3617,7 +3617,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Amazon.de",
    "last": null,
    "lastPrice": null,
@@ -3631,7 +3631,7 @@
    "blocked": true,
    "gone": false,
    "noOffers": false,
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "shop": "Galaxus",
    "last": null,
    "lastPrice": null,
@@ -3695,7 +3695,7 @@
    "available": true,
    "ok": true,
    "kind": "geizhals",
-   "checkedAt": "2026-11-28T11:59:13.740Z",
+   "checkedAt": "2026-11-28T12:02:06.597Z",
    "priceSince": "2026-11-28T11:59:13.740Z",
    "change": null
   }
