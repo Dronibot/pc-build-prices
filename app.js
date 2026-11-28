@@ -204,7 +204,7 @@ function totals(build, withOv) {
 }
 // Збірки-«списки» (таблиця, PCPartPicker): мають ціни зі списку й оригінальні магазини
 const isList = b => b.id === 'user' || b.kind === 'list';
-const LBL = { from: 'з таблиці', in: 'У таблиці', with: 'з таблицею', shop: CUR.shop };
+const LBL = { from: 'з таблиці', in: 'У таблиці', with: 'з таблицею', shop: 'Магазин з таблиці' };
 let CUR = LBL; // підписи поточної збірки під час рендеру
 const lbl = b => ({ ...LBL, ...(b?.labels || {}) });
 function sheetTotals(build) {
@@ -262,7 +262,7 @@ function renderSummary() {
   const cards = S.config.builds.map(b => {
     const t = totals(b, true), t0 = t.ovCount ? totals(b, false) : null;
     const rows = [];
-    const srcText = Object.entries(t.src).map(([k, v]) => `${SRC[k] || k}: ${v}`).concat(t.miss ? [`без ціни: ${t.miss}`] : []).join(' · ');
+    const srcText = Object.entries(t.src).map(([k, v]) => `${k === 'sheet' ? lbl(b).from : (SRC[k] || k)}: ${v}`).concat(t.miss ? [`без ціни: ${t.miss}`] : []).join(' · ');
     const warn = (t.src.sheet || t.src.stale || t.miss) ? h('span', { class: 'warn-text' }, 'Не всі ціни актуальні. ') : null;
     if (isList(b)) {
       const L = lbl(b); const st = sheetTotals(b);
