@@ -190,6 +190,131 @@
           "search": "psu"
         }
       ]
+    },
+    {
+      "id": "rebuild",
+      "kind": "list",
+      "title": "Перезбірка (PCPartPicker)",
+      "labels": {
+        "from": "зі списку",
+        "in": "У списку",
+        "with": "зі списком",
+        "shop": "Магазин зі списку"
+      },
+      "source": "https://de.pcpartpicker.com/list/V92Xh9",
+      "note": "Перезбірка зі списку PCPartPicker (de.pcpartpicker.com/list/V92Xh9, ціни станом на 28.11.2026). Поруч — найдешевші магазини з доставкою в Німеччину (Geizhals).",
+      "sheetTotals": {
+        "chooseYourParts": 2460.38,
+        "internet": 2460.38,
+        "currency": "EUR"
+      },
+      "parts": [
+        {
+          "id": "cpu",
+          "name": "AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor",
+          "pcpp": "https://de.pcpartpicker.com/product/3hyH99/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof",
+          "sheet": {
+            "pcpp": 272.2,
+            "internet": 272.2,
+            "currency": "EUR"
+          },
+          "shop": "https://www.amazon.de/dp/B0BTZB7F88",
+          "geizhals": "https://geizhals.de/amd-ryzen-7-7800x3d-100-100000910wof-a2872148.html",
+          "search": "cpu"
+        },
+        {
+          "id": "cooler",
+          "name": "ARCTIC Liquid Freezer III Pro 360 77 CFM Liquid CPU Cooler",
+          "pcpp": "https://de.pcpartpicker.com/product/v2kqqs/arctic-liquid-freezer-iii-pro-360-77-cfm-liquid-cpu-cooler-acfre00180a",
+          "sheet": {
+            "pcpp": 62.9,
+            "internet": 62.9,
+            "currency": "EUR"
+          },
+          "geizhals": "https://geizhals.de/arctic-liquid-freezer-iii-pro-360-acfre00180a-a3455404.html",
+          "search": "cooler",
+          "shopNote": "У списку — Proshop (62,90 €); Proshop блокує автоматичні запити, тому ціну видно лише через Geizhals."
+        },
+        {
+          "id": "mb",
+          "name": "MSI B650 GAMING PLUS WIFI ATX AM5 Motherboard",
+          "pcpp": "https://de.pcpartpicker.com/product/szfxFT/msi-b650-gaming-plus-wifi-atx-am5-motherboard-b650-gaming-plus-wifi",
+          "sheet": {
+            "pcpp": 159.0,
+            "internet": 159.0,
+            "currency": "EUR"
+          },
+          "shop": "https://de-store.msi.com/products/b650-gaming-plus-wifi-motherboard?variant=47510208774478",
+          "geizhals": "https://geizhals.de/msi-b650-gaming-plus-wifi-7e26-001r-a2975546.html",
+          "search": "mb",
+          "shopNote": "У списку — MSI Store (159 €), але сторінка товару в MSI Store вже не існує (404), а на Geizhals пропозицій немає: плата зникла з продажу в Німеччині."
+        },
+        {
+          "id": "ram",
+          "name": "Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory",
+          "pcpp": "https://de.pcpartpicker.com/product/JkfxFT/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-cmk32gx5m2b6000c30",
+          "sheet": {
+            "pcpp": 637.99,
+            "internet": 637.99,
+            "currency": "EUR"
+          },
+          "shop": "https://www.galaxus.de/de/s1/product/corsair-vengeance-2-x-16gb-6000-mhz-ddr5-ram-dimm-ram-30370166",
+          "geizhals": "https://geizhals.de/corsair-vengeance-schwarz-dimm-kit-32gb-cmk32gx5m2b6000c30-a2951609.html",
+          "search": "ram"
+        },
+        {
+          "id": "ssd",
+          "name": "Samsung 990 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive",
+          "pcpp": "https://de.pcpartpicker.com/product/2bm2FT/samsung-990-1-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive-mz-v9v1t0bam",
+          "sheet": {
+            "pcpp": 154.9,
+            "internet": 154.9,
+            "currency": "EUR"
+          },
+          "shop": "https://www.amazon.de/dp/B0H3C6XHGK",
+          "geizhals": "https://geizhals.de/samsung-ssd-990-1tb-mz-v9v1t0bw-a3878777.html",
+          "search": "ssd"
+        },
+        {
+          "id": "gpu",
+          "name": "Asus PRIME OC Radeon RX 9070 XT 16 GB Video Card",
+          "pcpp": "https://de.pcpartpicker.com/product/WcHp99/asus-prime-oc-radeon-rx-9070-xt-16-gb-video-card-prime-rx9070xt-o16g",
+          "sheet": {
+            "pcpp": 989.0,
+            "internet": 989.0,
+            "currency": "EUR"
+          },
+          "geizhals": "https://geizhals.de/asus-prime-radeon-rx-9070-xt-oc-a3430251.html",
+          "search": "gpu",
+          "shopNote": "У списку — notebooksbilliger.de (989 €); магазин блокує автоматичні запити, тому ціну видно лише через Geizhals."
+        },
+        {
+          "id": "case",
+          "name": "Lian Li Lancool 207 ATX Mid Tower Case",
+          "pcpp": "https://de.pcpartpicker.com/product/zysV3C/lian-li-lancool-207-atx-mid-tower-case-lan207rx",
+          "sheet": {
+            "pcpp": 69.9,
+            "internet": 69.9,
+            "currency": "EUR"
+          },
+          "shop": "https://www.amazon.de/dp/B0DJDM7V1R",
+          "geizhals": "https://geizhals.de/lian-li-lancool-207-lan207rx-a3323799.html",
+          "search": "case"
+        },
+        {
+          "id": "psu",
+          "name": "Gigabyte AORUS ELITE P850 850 W 80+ Platinum Fully Modular ATX Power Supply",
+          "pcpp": "https://de.pcpartpicker.com/product/LzDQzy/gigabyte-aorus-elite-p850-850-w-80-platinum-certified-fully-modular-atx-power-supply-gp-ae850pm-pg5",
+          "sheet": {
+            "pcpp": 114.49,
+            "internet": 114.49,
+            "currency": "EUR"
+          },
+          "shop": "https://www.galaxus.de/de/s1/product/gigabyte-aorus-elite-p850w-850-w-pc-netzteil-47482251",
+          "geizhals": "https://geizhals.de/gigabyte-aorus-elite-platinum-p850w-rev-1-0-850w-atx-3-0-gp-ae850pm-pg5-rev-1-0-a3317775.html",
+          "search": "psu"
+        }
+      ]
     }
   ]
 }

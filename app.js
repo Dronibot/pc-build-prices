@@ -202,6 +202,11 @@ function totals(build, withOv) {
   }
   return t;
 }
+// Збірки-«списки» (таблиця, PCPartPicker): мають ціни зі списку й оригінальні магазини
+const isList = b => b.id === 'user' || b.kind === 'list';
+const LBL = { from: 'з таблиці', in: 'У таблиці', with: 'з таблицею', shop: CUR.shop };
+let CUR = LBL; // підписи поточної збірки під час рендеру
+const lbl = b => ({ ...LBL, ...(b?.labels || {}) });
 function sheetTotals(build) {
   const st = build.sheetTotals || {};
   const sum = k => build.parts.reduce((a, p) => a + (num(p.sheet?.[k]) ? p.sheet[k] : 0), 0);
@@ -259,12 +264,12 @@ function renderSummary() {
     const rows = [];
     const srcText = Object.entries(t.src).map(([k, v]) => `${SRC[k] || k}: ${v}`).concat(t.miss ? [`без ціни: ${t.miss}`] : []).join(' · ');
     const warn = (t.src.sheet || t.src.stale || t.miss) ? h('span', { class: 'warn-text' }, 'Не всі ціни актуальні. ') : null;
-    if (b.id === 'user') {
-      const st = sheetTotals(b);
-      rows.push(totalRow('З таблиці', eurMain(st.internet), `PCPartPicker: ${eur(st.pcpp)}`));
+    if (isList(b)) {
+      const L = lbl(b); const st = sheetTotals(b);
+      rows.push(totalRow(L.from[0].toUpperCase() + L.from.slice(1), eurMain(st.internet), `PCPartPicker: ${eur(st.pcpp)}`));
       const d = t.now - st.internet;
       rows.push(totalRow('Зараз мінімум у DE', eurMain(t.now), [warn, srcText], 'tmain'));
-      rows.push(totalRow('Різниця з таблицею', h('strong', { class: d > 0 ? 'up' : d < 0 ? 'down' : '' }, signedEur(d)), d > 0 ? 'зараз дорожче' : d < 0 ? 'зараз дешевше' : 'без змін'));
+      rows.push(totalRow('Різниця ' + L.with, h('strong', { class: d > 0 ? 'up' : d < 0 ? 'down' : '' }, signedEur(d)), d > 0 ? 'зараз дорожче' : d < 0 ? 'зараз дешевше' : 'без змін'));
     } else {
       rows.push(totalRow('Мінімум у DE (Geizhals)', eurMain(t.now), [warn, srcText], 'tmain'));
     }
@@ -279,16 +284,11 @@ function renderSummary() {
 
 function renderCompare() {
   const box = document.getElementById('compare');
-  const user = S.config.builds.find(b => b.id === 'user'), alt = S.config.builds.find(b => b.id === 'alt');
   const opts = [];
-  if (user) {
-    opts.push({ label: 'Моя збірка — ціни з таблиці', v: sheetTotals(user).internet });
-    const t = totals(user, true);
-    if (t.now > 0) opts.push({ label: 'Моя збірка зараз', v: t.now, note: t.miss ? `без ціни: ${t.miss}` : '', incomplete: t.miss > 0 });
-  }
-  if (alt) {
-    const t = totals(alt, true);
-    if (t.now > 0) opts.push({ label: 'Оновлена збірка', v: t.now, note: t.miss ? `без ціни: ${t.miss}` : '', incomplete: t.miss > 0 });
+  for (const b of S.config.builds) {
+    const t = totals(b, true);
+    if (isList(b)) opts.push({ label: `${b.title} — ціни ${lbl(b).from}`, v: sheetTotals(b).internet });
+    if (t.now > 0) opts.push({ label: isList(b) ? `${b.title} — зараз` : b.title, v: t.now, note: t.miss ? `без ціни: ${t.miss}` : '', incomplete: t.miss > 0 });
   }
   if (opts.length < 2) { box.replaceChildren(); return; }
   opts.sort((a, b) => a.v - b.v);
@@ -379,7 +379,7 @@ function shopBlock(label, url, opts = {}) {
     kids.push(h('div', { class: 'status' + (it ? ' status-bad' : '') }, it ? statusText(it) : (opts.pending || 'ще не перевірено')));
     kids.push(lastKnown(it));
   }
-  if (num(opts.sheet)) kids.push(h('div', { class: 'small' }, 'У таблиці: ', h('strong', null, eur(opts.sheet)), h('span', { class: 'muted' }, num(opts.sheetPcpp) ? ` · PCPartPicker ${eur(opts.sheetPcpp)}` : '')));
+  if (num(opts.sheet)) kids.push(h('div', { class: 'small' }, CUR.in + ': ', h('strong', null, eur(opts.sheet)), h('span', { class: 'muted' }, num(opts.sheetPcpp) ? ` · PCPartPicker ${eur(opts.sheetPcpp)}` : '')));
   kids.push(checkedLine(it));
   kids.push(h('div', { class: 'actions' }, link(url, 'Відкрити ' + name + ' ↗', 'btn btn-sm btn-ghost')));
   if (opts.note) kids.push(h('div', { class: 'warn-note' }, opts.note));
@@ -408,7 +408,7 @@ function gzBlock(url, { label = 'Магазини з доставкою в Ні�
     }
     if (d.offerCount) kids.push(h('div', { class: 'small muted' }, `${d.offerCount} пропозицій`));
     if (stale) kids.push(h('div', { class: 'warn-note' }, `Дані від ${dt(d.checkedAt)}, Geizhals не дав оновити` + (it.blocked || /403|429|block|заблок/i.test(it.error || '') ? ' (сервер заблоковано)' : it.error ? `: ${it.error}` : '')));
-    if (num(sheet)) kids.push(h('div', { class: 'small' }, 'У таблиці: ', h('strong', null, eur(sheet))));
+    if (num(sheet)) kids.push(h('div', { class: 'small' }, CUR.in + ': ', h('strong', null, eur(sheet))));
     if (!stale) kids.push(checkedLine(it));
     else { const c = changeEl({ change: it.change || d.change, currency: 'EUR' }); if (c) kids.push(h('div', { class: 'meta-line' }, c)); }
     const actions = [];
@@ -439,7 +439,7 @@ function gzBlock(url, { label = 'Магазини з доставкою в Ні�
     kids.push(h('div', { class: 'status' + (it ? ' status-bad' : '') }, url ? statusText(it) : 'немає посилання на Geizhals'));
     if (it?.last && num(gzMin(it.last))) kids.push(h('div', { class: 'small' }, 'Остання відома: ', eur(gzMin(it.last)), it.last.checkedAt ? h('span', { class: 'muted' }, ` (${dShort(it.last.checkedAt)})`) : null));
     else kids.push(lastKnown(it));
-    if (num(sheet)) kids.push(h('div', { class: 'small' }, 'У таблиці: ', h('strong', null, eur(sheet))));
+    if (num(sheet)) kids.push(h('div', { class: 'small' }, CUR.in + ': ', h('strong', null, eur(sheet))));
     if (url) kids.push(checkedLine(it), h('div', { class: 'actions' }, link(url, 'Geizhals ↗', 'btn btn-sm btn-ghost')));
   }
   if (note) kids.push(h('div', { class: 'warn-note' }, note));
@@ -454,7 +454,7 @@ function cheaperBadge(part) {
   if (!sp || min == null || sameUrl(part.shop, part.geizhals)) return null;
   const diff = sp.eur - min;
   const si = item(part.shop);
-  const src = sp.live ? '' : ' · ціна магазину з таблиці' + (si?.gone ? ', зараз товар знято з продажу' : si?.noOffers ? ', зараз немає пропозицій' : '');
+  const src = sp.live ? '' : ' · ціна магазину ' + CUR.from + (si?.gone ? ', зараз товар знято з продажу' : si?.noOffers ? ', зараз немає пропозицій' : '');
   if (Math.abs(diff) < 0.01) return h('div', { class: 'where' }, h('span', { class: 'badge' }, 'Ціни однакові'), h('span', { class: 'muted small' }, src));
   const gzShop = gzOffers(d)[0]?.shop || 'Geizhals';
   const pct = Math.round(Math.abs(diff) / Math.min(sp.eur, min) * 100);
@@ -469,13 +469,14 @@ function issueUrl(bid, pid, fields, kind = 'Заміна') {
 }
 
 function renderPart(b, p) {
+  CUR = lbl(b);
   const ov = ovOf(b.id, p.id);
   const head = h('div', { class: 'part-head' },
     h('span', { class: 'cat' }, cat(p.id)),
     ov ? h('span', { class: 'tag ' + (ov.from === 'local' ? 'tag-local' : 'tag-saved') }, ov.from === 'local' ? 'замінено · лише в цьому браузері' : 'замінено · збережено') : null,
     h('span', { class: 'spacer' }),
     h('button', { type: 'button', class: 'btn btn-sm', onclick: () => openDialog(b, p) }, 'Замінити'));
-  const body = ov ? renderReplaced(b, p, ov) : b.id === 'user' ? renderUserOrig(p) : renderAltOrig(p);
+  const body = ov ? renderReplaced(b, p, ov) : isList(b) ? renderUserOrig(p) : renderAltOrig(p);
   return h('article', { class: 'card part' + (ov ? ' replaced' : '') }, head, body);
 }
 
@@ -484,7 +485,7 @@ function renderUserOrig(p) {
   return [
     h('h3', { class: 'pname' }, link(p.pcpp, p.name)),
     h('div', { class: 'blocks' },
-      !same && p.shop ? shopBlock('Магазин з таблиці', p.shop, { sheet: p.sheet?.internet, sheetPcpp: p.sheet?.pcpp, note: p.shopNote }) : null,
+      !same && p.shop ? shopBlock(CUR.shop, p.shop, { sheet: p.sheet?.internet, sheetPcpp: p.sheet?.pcpp, note: p.shopNote }) : null,
       gzBlock(p.geizhals, { key: 'user/' + p.id, sheet: same ? p.sheet?.internet : null, note: same ? p.shopNote : null })),
     cheaperBadge(p),
   ];
@@ -501,7 +502,7 @@ function renderAltOrig(p) {
 // Підсумок оригіналу одним рядком (для закресленого блоку)
 function origSummary(b, p) {
   const bits = [];
-  if (b.id === 'user' && num(p.sheet?.internet)) bits.push(`у таблиці ${eur(p.sheet.internet)}`);
+  if (isList(b) && num(p.sheet?.internet)) bits.push(`${lbl(b).in.toLowerCase()} ${eur(p.sheet.internet)}`);
   const min = gzMin(gz(p.geizhals).d); if (min != null) bits.push(`DE від ${eur(min)}`);
   return bits.join(' · ');
 }
@@ -532,7 +533,7 @@ function renderReplaced(b, p, ov) {
 
   const os = origSummary(b, p);
   out.push(h('div', { class: 'orig' }, h('span', { class: 'muted small' }, 'Оригінал: '),
-    h('s', null, b.id === 'user' ? link(p.pcpp, p.name) : link(p.geizhals, p.name)),
+    h('s', null, isList(b) ? link(p.pcpp, p.name) : link(p.geizhals, p.name)),
     os ? h('span', { class: 'muted small' }, ' · ' + os) : null));
   if (ov.from === 'local' && ov.server) out.push(h('div', { class: 'orig' }, h('span', { class: 'muted small' }, 'Збережена заміна: '), h('s', null, link(ov.server.url, ov.server.name || host(ov.server.url)))));
   return out;
